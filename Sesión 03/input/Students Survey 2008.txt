@@ -1,0 +1,1326 @@
+gender	hand	eyecolor	glasses	california	birthmonth	birthday	birthyear	ageinmonths	height	graduate	oncampus	time	walk	hsclass	HSCA	calculus	AP	cell	ipod	sleep	alcohol	speed	UCLA	book	relax	instructor	tire	Quarter
+female	left	hazel	yes	yes	sept	16	1989	228	69	2011	no	5	walk	450	yes	yes	no	yes	yes	5	5	85	14000	no	volleyball	Davis	front right	Fall08
+male	right	brown	no	no	mar	31	1989	234	71	2011	yes	20	walk	70	no	yes	no	yes	yes	3	3	40	16000	yes	Baseball	Davis	rear left	Fall08
+female	right	brown	yes	yes	aug	5	1990	218	64	2012	yes	20	walk	573	yes	yes	no	yes	yes	6	0	87	30000	yes	playing guitar	Ioudina	rear left	Fall08
+female	left	brown	yes	yes	july	9	1988	242	60	2010	no	25	car (by yourself)	350	yes	yes	no	yes	yes	7	3	110	25000	yes	spoken word	Davis	rear left	Fall08
+male	right	brown	no	yes	mar	3	1988	246	70	2010	no	30	car (by yourself)	500	yes	yes	no	yes	no	7	0	110	6578	yes	magic	Esfandiari	rear left	Fall08
+female	right	brown	yes	yes	feb	12	1988	247	61	2010	no	30	bicycle	300	yes	yes	no	yes	yes	6	6	120	10000	no	volunteering	Davis	rear left	Fall08
+female	right	brown	yes	yes	dec	13	1988	237	65	2011	yes	24	walk	648	yes	yes	yes	yes	yes	6	0	90	40000	yes	stargazing	Davis	rear left	Fall08
+female	right	brown	yes	yes	oct	18	1988	239	65	2010	yes	10	other	500	yes	yes	no	yes	yes	4	0	90	20000	yes	dancing	Davis	rear right	Fall08
+female	right	brown	no	no	aug	29	1988	241	61	2010	yes	20	other	180	no	yes	no	yes	yes	6	0	80	35000	no	singing	Gould	rear left	Fall08
+male	right	brown	no	yes	feb	25	1985	283	69	2010	no	10	bicycle	100	yes	no	no	yes	yes	6	0	95	15000	yes	bouldering	Davis	front right	Fall08
+female	right	brown	yes	yes	april	17	1988	246	63	2010	no	15	walk	350	yes	yes	yes	yes	yes	6	2	110	10000	no	shopping	Davis	rear right	Fall08
+male	right	brown	no	yes	july	8	1989	230	72	2011	yes	24	walk	650	yes	yes	no	yes	yes	7	3	90	30000	yes	Basketball	Davis	rear right	Fall08
+male	right	brown	yes	yes	sept	29	1989	228	70	2011	yes	15	walk	200	yes	yes	no	yes	yes	3	0	110	35000	no	making movies	Davis	front right	Fall08
+male	right	brown	yes	yes	mar	26	1987	258	68	2009	no	30	walk	1000	yes	yes	yes	yes	yes	6	0	70	1000000	yes	reading	Davis	front left	Fall08
+female	ambidextrous	blue	no	yes	july	5	1989	288	63	2011	yes	18	walk	538	yes	no	yes	yes	yes	5.5	1	102	19000	yes	running	Ioudina	rear left	Fall08
+male	left	blue	yes	no	feb	28	1983	307	78	2009	no	15	walk	524	yes	no	no	yes	yes	5	0	120	20000	no	cars	Gould	front left	Fall08
+female	right	brown	yes	yes	july	28	1989	230	65	2011	no	40	carpool	500	yes	yes	no	yes	yes	5	0	70	20000	yes	dancing	Davis	front right	Fall08
+male	ambidextrous	brown	yes	no	sept	6	1982	312	71	2010	no	30	car (by yourself)	50	yes	yes	no	yes	no	3	1	120	5000	no	none	Davis	front right	Fall08
+female	right	brown	no	yes	sept	13	1989	228	64	2011	yes	12	walk	81	yes	yes	no	no	yes	4	0	45	3000	yes	baking	Esfandiari	front left	Fall08
+male	right	other	yes	yes	mar	5	1989	234	69	2011	yes	20	walk	281	yes	no	no	yes	yes	6	0	0	25000	yes	Reading	Davis	front right	Fall08
+male	right	brown	no	yes	dec	2	1989	225	70	2011	yes	20	walk	500	yes	yes	no	yes	yes	5	0	100	20000	no	none	Ioudina	rear left	Fall08
+female	right	brown	yes	yes	nov	26	1988	238	62	2010	no	10	walk	576	yes	no	no	yes	yes	6	0	70	12000	yes	playing music	Davis	rear left	Fall08
+female	right	brown	yes	no	nov	3	1987	250	63	2010	no	17	walk	437	yes	yes	yes	yes	yes	4	0	80	18000	no	watching TV	Davis	front right	Fall08
+female	right	brown	yes	no	nov	26	1989	226	61	2011	yes	0.6	walk	1200	yes	yes	no	yes	no	4	0	60	20000	yes	none	Gould	rear left	Fall08
+male	left	brown	yes	yes	jan	24	1988	248	61	2010	yes	12	walk	898	yes	yes	yes	yes	yes	7	0	85	15000	yes	singing	Davis	front left	Fall08
+female	right	brown	yes	yes	dec	18	1988	237	62	2011	yes	30	walk		yes	yes	no	yes	yes	7	0	75		yes	Spending time with friends	Davis	rear left	Fall08
+female	right	brown	yes	no	april	27	1982	317	62	2010	no	25	bus	300	yes	yes	no	yes	yes	6	1	95	15000	yes	yoga	Esfandiari	rear right	Fall08
+female	right	blue	no	yes	jan	10	1989	236	68	2011	yes	5	walk	800	yes	no	no	yes	yes	6	0	103	8000	yes	softball	Davis	front left	Fall08
+male	right	brown	no	no	may	12	1990	220	67	2009	no	70	car (by yourself)		no	yes	no	yes	yes	5	1	100	20	yes	Research	Davis	front right	Fall08
+male	right	blue	no	yes	aug	14	1988	241	72	2010	no	20	walk	190	yes	yes	no	yes	yes	6.5	0	110	29000	yes	Basketball	Davis	front left	Fall08
+male	right	blue	no	yes	aug	14	1988	241	72	2010	no	20	walk	190	yes	yes	no	yes	yes	6.5	0	110	29000	yes	Basketball	Davis	front left	Fall08
+female	right	hazel	yes	yes	aug	13	1989	229	67	2011	no	3	walk	500	yes	yes	yes	yes	yes	12	8	90	7000	yes	reading	Davis	rear left	Fall08
+male	right	brown	yes	yes	oct	10	1988	239	72	2010	no	15	walk	1000	yes	yes	yes	yes	no	6	0	0	10000	yes	violin	Esfandiari	front right	Fall08
+female	right	brown	yes	yes	april	4	1989	233	60	2011	yes	20	walk	600	yes	yes	no	yes	yes	6.5	0	90	20000	yes	reading	Ioudina	front left	Fall08
+male	right	brown	yes	yes	april	3	1987	257	60	2009	no	20	walk	400	yes	no	no	yes	yes	8	0	110	12000	yes	Politics	Ioudina	rear left	Fall08
+female	left	green	yes	yes	july	27	1989	225	67	2011	yes	10	walk	650	yes	no	no	yes	yes	9	0	100	50000	yes	running	Davis	front left	Fall08
+female	right	green	no	yes	april	18	1988	245	63	2010	yes	25	walk	500	yes	yes	no	yes	yes	7	0	90	25000	yes	reading	Davis	front right	Fall08
+female	right	hazel	no	no	june	5	1988	243	62	2011	no	20	walk	115	no	no	no	yes	yes	7	4	80	1000	yes	diving	Davis	front left	Fall08
+female	right	brown	yes	yes	dec	5	1987	249	68	2010	yes	20	walk	950	yes	yes	no	yes	yes	8	0	75	15000	yes	playing sports	Gould	rear right	Fall08
+female	right	brown	yes	yes	mar	17	1987	258	68	2009	no	30	walk	61	yes	no	no	yes	yes	5	7	105		no	running	Davis	front right	Fall08
+female	right	brown	yes	yes	may	29	1988	256	65	2010	yes	20	walk	700	yes	no	no	yes	yes	4	0	90	4000	yes	Painting	Gould	front left	Fall08
+female	right	gray	no	yes	nov	10	1988	238	66	2011	yes	20	walk	100	yes	no	yes	yes	yes	8			20000	yes	watching sports	Davis	front left	Fall08
+female	right	brown	yes	yes	mar	8	1990	222	62	2012	yes	20	walk	780	yes	yes	yes	yes	yes	8	0	80	30000	yes	watching tv	Davis	front left	Fall08
+female	right	blue	yes	yes	mar	10	1990	222	64	2012	yes	30	walk	98	yes	yes	no	yes	yes	6	0	80	22000	yes	ballroom dancing	Gould	front right	Fall08
+female	right	green	no	yes	sept	27	1990	216	67	2012	yes	20	walk	198	yes	yes	no	yes	yes	8	0	110	40000	yes	exercise	Davis	front left	Fall08
+female	right	hazel	no	yes	aug	11	1989	229	62	2011	yes	20	walk	84	yes	yes	no	yes	yes	6	4	35		yes	smoking cigarettes	Esfandiari	front right	Fall08
+female	right	brown	no	yes	june	27	1990	219	61	2012	yes	25	walk	530	yes	no	no	yes	yes	8	0	70	23000	no	watching tv	Davis	front left	Fall08
+female	right	brown	yes	yes	feb	27	1989	235	64	2011	yes	15	walk	84	yes	yes	no	yes	yes	6.5	0	85	30000	yes	drawing and coloring	Davis	front left	Fall08
+male	right	brown	no	yes	april	4	1989	233	70	2011	no	20	walk	866	yes	yes	no	yes	yes	6.5	0	90	17000	yes	listening to music	Davis	front right	Fall08
+female	right	brown	yes	yes	april	23	1989	233	66	2011	yes	20	walk	600	yes	no	no	yes	yes	7	3	80	25000	yes	dancing	Davis	front left	Fall08
+female	right	green	no	yes	april	30	1989	233	64	2011	yes	30	walk	600	yes	no	no	yes	yes	7	0	0	3500	yes	tennis	Davis	front left	Fall08
+female	right	brown	yes	no	april	22	1988	245	66	2010	no	30	walk	-	no	yes	no	yes	yes	8	0		12000	yes	watching movie	Esfandiari	front right	Fall08
+female	right	brown	yes	no	mar	11	1989	234	62	2011	no	90	bus		yes	yes	no	yes	yes	6	0			yes	photography	Esfandiari	front right	Fall08
+female	right	brown	yes	yes	sept	22	1989	228	62	2011	yes	10	walk	800	yes	yes	no	yes	yes	7	0	80	33000	yes	play music	Davis	rear right	Fall08
+male	right	brown	yes	yes	aug	16	1988	241	70	2010	no	15	walk	400	yes	yes	no	yes	yes	6	0	80	20000	yes	video games	Davis	front right	Fall08
+female	right	brown	no	yes	june	30	1989	231	62	2011	yes	15	walk	210	yes	yes	no	yes	yes	6	0	70	18000	yes	basketball	Davis	front left	Fall08
+male	right	brown	yes	yes	aug	29	1989	229	70	2011	yes	15	walk	100	yes	yes	no	yes	yes	7	10	70	25000	no	basketball	Davis	front right	Fall08
+female	right	brown	no	yes	nov	11	1989	226	64	2011	yes	15	walk	800	yes	yes	yes	yes	yes	6	0	95	10000	yes	Sailing	Davis	rear right	Fall08
+female	right	brown	yes	yes	june	6	1988	243	61	2010	no	30	walk	340	yes	yes	no	yes	yes	6	1	40		yes	dancing	Gould	rear left	Fall08
+female	right	blue	yes	yes	feb	8	1989	235	62	2012	yes	15	walk	460	yes	yes	no	yes	yes	5	0	75	30000	yes	tennis	Davis	rear left	Fall08
+female	right	brown	no	yes	mar	23	1989	234	62	2011	yes	15	walk	986	yes	yes	no	yes	no	6	0	95	30000	yes	movies	Davis	front left	Fall08
+female	right	brown	yes	yes	may	15	1989	232	62	2011	yes	14	walk	419	yes	yes	no	yes	no	6	0	95	20000	yes	dance	Davis	rear right	Fall08
+female	right	brown	no	no	aug	13	1987	253	62	2009	no	60	car (by yourself)	500	yes	no	no	yes	yes	5	1	90	20000	yes	Reading Poetry	Davis	front right	Fall08
+female	right	hazel	no	no	feb	8	1989	235	65	2011	no	10	bicycle	600	yes	yes	no	yes	yes	8	2	100	3000	no	bike	Davis	front right	Fall08
+male	right	brown	yes	yes	jan	30	1989	236	70	2011	yes	15	walk	180	yes	yes	no	yes	no	7	0	130	20000	no	Singing	Davis	front left	Fall08
+male	right	brown	yes	yes	april	12	1988	245	72	2010	yes	25	walk	450	yes	yes	no	yes	yes	7	2	110	20000	yes	basketball	Davis	front left	Fall08
+female	right	blue	yes	yes	jan	1	1989	236	66	2011	yes	15	walk	450	yes	yes	no	yes	yes	8	0	70	16000	yes	guitar	Davis	rear left	Fall08
+female	right	brown	yes	yes	jan	20	1989	236	61	2011	yes	10	walk	800	yes	yes	no	yes	yes	8	0	70	2000	yes	biking	Davis	rear right	Fall08
+female	right	brown	no	no	july	5	1988	242	62	2010	no	20	walk	300	yes	yes	no	yes	yes	7	15	80	10000	no	shopping	Davis	front left	Fall08
+female	right	brown	no	yes	sept	22	1990	216	63	2012	yes	15	walk	445	yes	yes	no	yes	yes	8		80	300000	no	swimmingg	Davis	front right	Fall08
+male	ambidextrous	brown	yes	yes	aug	22	1989	229	69	2011	yes	20	walk		yes	yes	yes	yes	yes	6	0	90	5000	yes	video games	Davis	rear left	Fall08
+female	right	brown	yes	no	oct	28	1988	239	63	2011	yes	20	walk	700	yes	yes	yes	yes	yes	8.5	0	95	20000	yes	playing all sports	Davis	front left	Fall08
+female	right	brown	yes	yes	nov	11	1987	250	64	2010	no	47	carpool	202	yes	no	no	yes	yes	5.5	0	65	32000	yes	Yoga	Davis	rear right	Fall08
+male	right	brown	no	yes	sept	15	1989	228	72	2011	yes	7	bicycle	900	yes	no	no	yes	yes	7	25	90	20000	yes	surf	Davis	front right	Fall08
+female	right	brown	yes	yes	nov	10	1989	226	62	2011	yes	20	walk	452	no	yes	no	yes	yes	3	0	80	18000	no	photography	Davis	rear right	Fall08
+male	right	brown	yes	no	mar	13	1990	222	72	2012	yes	15	bicycle	64	no	no	no	yes	yes	7	0	40	30000	yes	basketball	Davis	front left	Fall08
+female	right	brown	no	yes	aug	7	1989	229	68	2011	yes	15	walk	115	yes	no	no	yes	yes	6	0	0	2000	yes	Dance	Davis	front left	Fall08
+male	right	brown	yes	no	jan	13	1988	248	67	2009	no	50	car (by yourself)	350	yes	yes	no	yes	no	2	30	135	40000	yes	soccer	Davis	rear left	Fall08
+female	right	brown	no	yes	jan	29	1987	260	62	2009	no	25	walk	564	yes	yes	no	yes	no	6	0	100	15000	no	tae bo	Davis	front left	Fall08
+female	right	brown	no	no	dec	17	1987	249	62	2010	no	20	walk	410	yes	no	no	yes	yes	9	3	110	40000	yes	sleeping, singing, playing cello, watching tv, going online, reading, etc	Davis	front right	Fall08
+male	right	brown	yes	yes	oct	30	1988	239	69	2010	no	30	bus	1000	yes	yes	yes	yes	yes	5	1	120	8000	yes	Basketball	Gould	front right	Fall08
+male	right	brown	yes	yes	jan	6	1988	233	71	2010	no	20	walk	750	yes	yes	no	yes	yes	6	5	115	40000	yes	Poker	Davis	front right	Fall08
+male	right	brown	no	no	dec	20	1987	249	75	2010	no	30	bus	29	no	yes	no	yes	yes	6	0	90	20000	yes	none	Ioudina	rear left	Fall08
+female	right	green	no	yes	june	5	1988	231	63	2010	yes	15	walk	750	yes	no	no	yes	yes	7	3	120		yes	Reading	Davis	front right	Fall08
+male	right	brown	yes	yes	oct	29	1979	348	70	2010	no	40	car (by yourself)	100	yes	yes	no	yes	yes	5		90	5000	no	collecting music	Davis	rear left	Fall08
+female	right	hazel	no	yes	aug	4	1988	241	72	2011	yes	25	walk	4000	yes	no	no	yes	yes	8	0	85	25000	yes	guitar	Esfandiari	front left	Fall08
+female	left	hazel	no	yes	jan	16	1989	236	68	2011	no	10	walk	603	yes	no	no	yes	yes	8	0	85	20000	yes	piano	Davis	front left	Fall08
+female	right	brown	yes	yes	oct	14	1989	227	61	2011	yes	15	walk	670	yes	yes	no	yes	yes	9	0	80	25000	yes	reading	Davis	front left	Fall08
+female	right	brown	yes	no	dec	27	1987	249	67	2010	yes	20	walk	600	yes	yes	no	yes	yes	6	0	110	5000	yes	ice skating	Gould	front left	Fall08
+male	right	brown	yes	yes	oct	4	1988	240	70	2010	yes	10	bicycle	490	yes	yes	no	yes	yes	5.5	0	107	20000	yes	Running	Esfandiari	front right	Fall08
+male	right	brown	yes	yes	jan	19	1989	236	67.5	2011	yes	15	walk	850	yes	yes	yes	yes	yes	5	0	95	10000	yes	guitar	Ioudina	front right	Fall08
+female	right	brown	no	no	sept	10	1988	240	61	2011	no	90	car (by yourself)	603	yes	yes	yes	yes	yes	6	0	80	10000	no	none	Davis	front left	Fall08
+female	ambidextrous	brown	no	yes	july	17	1989	230	63	2011	no	30	walk	150	yes	yes	no	yes	yes	8	2	95	30000	no	basketball	Davis	front left	Fall08
+female	right	brown	yes	no	june	12	1989	231	64	2011	yes	20	walk	700	no	yes	yes	yes	yes	5	2	85	2000	yes	shopping	Davis	front left	Fall08
+male	right	brown	no	yes	may	25	1989	232	71	2011	yes	20	walk	400	yes	yes	no	yes	no	6	0	90	25000	yes	soccer	Davis	front right	Fall08
+female	right	brown	no	yes	may	19	1989	232	64	2011	yes	17	walk	250	yes	no	no	yes	yes	5	1	80	50000	no	none	Davis	front right	Fall08
+female	right	brown	yes	yes	jan	1	1989	236	67	2010	no	15	car (by yourself)	600	yes	yes	no	yes	yes	9	0	70	5000	yes	music	Davis	front right	Fall08
+female	right	brown	yes	yes	aug	12	1989	229	66	2011	yes	20	walk	436	yes	no	no	yes	yes	8	0	80	40000	yes	listen to music	Davis	front right	Fall08
+female	left	brown	yes	yes	june	10	1989	231	68	2011	no	25	walk	560	yes	yes	no	yes	yes	7	0	70	30000	yes	writing	Davis	front left	Fall08
+female	right	blue	yes	yes	oct	3	1988	239	67	2011	yes	10	walk	200	yes	no	no	yes	yes	7	1	100	40000	yes	music	Davis	front left	Fall08
+male	right	hazel	no	yes	july	31	1989	230	69	2011	yes	8	walk	430	yes	yes	no	yes	yes	6.5	2	77	27000	yes	dancing	Davis	front right	Fall08
+female	right	hazel	no	no	july	14	1984	290	65	2010	yes	75	car (by yourself)	25	no	yes	yes	yes	no	7	3	110	40000	yes	playing piano	Davis	front right	Fall08
+female	right	brown	yes	yes	aug	29	1989	229	60	2011	yes	15	walk	74	yes	yes	no	yes	yes	6	0	110	28000	yes	Cooking	Davis	rear right	Fall08
+female	right	brown	yes	yes	jan	26	1989	236	66	2011	yes	25	walk	450	yes	yes	no	yes	yes	8	0	95	50000	yes	swimming	Davis	front left	Fall08
+female	right	green	yes	yes	jan	8	1988	248	59	2010	no	30	walk	700	yes	yes	no	yes	yes	6	2	90	25000	yes	cooking	Davis	front right	Fall08
+female	right	blue	no	yes	may	4	1989	232	69	2011	yes	25	walk	800	yes	yes	no	yes	yes	9	0	80	20000	yes	cooking	Davis	rear left	Fall08
+female	left	blue	yes	no	jan	7	1989	236	69	2011	yes	15	walk	350	yes	yes	no	yes	yes	8	0	90	22000	yes	tennis	Davis	front right	Fall08
+male	right	brown	yes	yes	dec	26	1987	249	71	2010	no	20	walk	700	yes	yes	no	yes	yes	7	5	110	20000	yes	soccer	Davis	front left	Fall08
+male	right	hazel	no	yes	may	2	1988	272	67.5	2010	no	15	skateboard	250	yes	yes	no	yes	yes	8.5	4	100	22000	yes	Triathlon	Davis	rear right	Fall08
+female	right	brown	no	no	aug	2	1989	229	68	2011	yes	15	walk	118	yes	no	no	yes	yes	7	0	95	22000	no	performing	Davis	front right	Fall08
+female	right	brown	yes	yes	oct	11	1988	239	68	2011	no	25	walk	75	yes	yes	yes	yes	yes	6	7	90	15000	yes	dance	Davis	rear left	Fall08
+female	right	hazel	yes	yes	feb	2	1989	235	67.5	2011	yes	10	walk	375	yes	yes	no	yes	yes	8	4	90	20000	yes	going to the beach	Davis	rear left	Fall08
+female	left	brown	yes	yes	feb	2	1988	247	65	2010	no	20	walk	200	yes	yes	yes	yes	yes	6	0	90	200000	no	snowboarding	Davis	front left	Fall08
+male	right	brown	yes	no	feb	25	1987	259	67	2010	yes	15	walk	452	no	yes	yes	yes	yes	7	5	82	10000	yes	Basketball	Davis	front right	Fall08
+female	right	brown	yes	yes	oct	7	1987	251	63	2009	no	20	walk	774	yes	yes	no	yes	yes	5	0	95	20000	no	running	Davis	front left	Fall08
+female	left	blue	yes	yes	april	16	1989	233	69	2012	no	10	car (by yourself)	99	yes	no	no	yes	yes	8	0	99	23000	no	swimming	Davis	front left	Fall08
+female	right	hazel	no	yes	oct	18	1989	227	63	2011	yes	20	walk	602	yes	no	no	yes	yes	8	0	90	39856	yes	swimming	Davis	front right	Fall08
+male	right	brown	yes	yes	june	8	1989	231	68	2011	yes	12	walk	237	yes	no	no	yes	yes	6.5	0	90	6800	yes	Volleyball	Davis	front right	Fall08
+female	right	brown	yes	yes	oct	8	1987	251	70	2010	no	20	walk	200	yes	no	no	yes	yes	6	2	100	25000	yes	singing	Davis	rear left	Fall08
+male	ambidextrous	green	yes	no	sept	29	1987	252	72	2010	no	2	walk	125	yes	yes	no	yes	yes	7.5	2	100	40000	no	playing music	Davis	front left	Fall08
+female	right	blue	yes	no	april	4	1988	245	73	2010	no	8	motorcycle	80	no	no	no	yes	yes	7	1	130	30000	yes	shopping	Davis	front right	Fall08
+female	right	brown	yes	yes	sept	6	1987	252	61	2009	no	30	walk	500	yes	no	no	yes	yes	6	0	125	30000	yes	baking	Davis	rear left	Fall08
+female	right	brown	no	yes	aug	19	1988	241	68	2010	yes	15	walk	400	yes	yes	no	yes	yes	7	2	90	50000	no	Dancing	Davis	front right	Fall08
+female	right	brown	no	yes	jan	8	1990	224	66	2011	yes	20	walk	557	yes	yes	no	yes	yes	7	0	100	38000	yes	Dancing	Davis	front left	Fall08
+female	right	brown	no	no	oct	1	1988	239	64	2010	no	4	walk	800	no	no	no	yes	yes	8	7	83	30000	yes	reading	Davis	front right	Fall08
+female	right	brown	yes	yes	nov	18	1989	226	61.5	2011	yes	12	walk	500	yes	yes	no	yes	no	8	0	40	30000	no	watching Lakers basketball	Davis	rear left	Fall08
+male	right	brown	yes	yes	sept	5	1987	252	72	2010	no	20	bus	300	yes	no	no	yes	yes	7	10	120	10000	no	drinking	Davis	front right	Fall08
+male	right	brown	yes	yes	june	1	1989	231	76	2011	yes	10	walk	539	yes	yes	no	yes	yes	5	0	95	20000	yes	running	Davis	front left	Fall08
+female	left	brown	yes	yes	mar	5	1988	246	64	2010	yes	15	walk	200	yes	yes	no	yes	yes	6	1	90	5000	yes	reading	Davis	front left	Fall08
+female	right	brown	yes	yes	dec	30	1988	237	60	2011	yes	15	walk	600	yes	yes	no	yes	yes	6	0		30000	yes	reading	Davis	front right	Fall08
+male	right	brown	yes	no	may	13	1988	244	68	2010	no	30	walk	450	yes	yes	no	yes	yes	7	0	90	12000	no	Cooking	Davis	front right	Fall08
+male	right	brown	yes	yes	may	23	1989	232	69	2011	yes	15	walk	365	yes	yes	no	yes	yes	6	0	90	6000	yes	Playing Video Games	Davis	front left	Fall08
+female	right	brown	yes	yes	july	2	1988	242	64	2010	yes	17	walk	200	yes	yes	no	yes	yes	6	1	75	10000	no	watching a movie	Davis	rear left	Fall08
+female	right	brown	yes	yes	dec	30	1988	237	63	2011	yes	30	walk	235	yes	yes	yes	yes	yes	7	6	90	5000	yes	Movies	Davis	front right	Fall08
+female	right	brown	yes	yes	feb	16	1989	235	67	2011	yes	18	walk	50	yes	yes	no	yes	yes	7	0	30	35000	yes	Baking	Davis	rear right	Fall08
+male	left	brown	yes	yes	april	2	1989	233	75	2011	yes	25	walk	390	yes	yes	no	yes	yes	7	0	100	50000	yes	Swimming	Davis	front left	Fall08
+female	right	brown	no	yes	april	29	1988	245	65	2010	no	20	walk	5000	yes	yes	no	yes	yes	7	0	100	2000	yes	tennis	Davis	rear left	Fall08
+female	right	brown	yes	no	jan	20	1989	236	67	2011	yes	20	walk	500	yes	yes	no	yes	yes	8	0	85	5000	yes	yoga	Davis	front left	Fall08
+female	left	brown	no	no	feb	14	1987	259	64	2009	no	25	car (by yourself)	400	yes	yes	no	yes	yes	5	1	103	15000	no	Dance	Ioudina	front left	Fall08
+female	right	brown	no	yes	july	17	1988	242	61	2010	no	35	walk		yes	yes	no	yes	yes	2	2	110		no	sleeping	Davis	rear left	Fall08
+male	right	brown	no	yes	feb	12	1988	247	66	2010	yes	15	walk	500	yes	yes	no	yes	yes	8	0	80	40000	no	basketball	Davis	rear right	Fall08
+female	right	brown	yes	yes	nov	18	1989	226	63	2011	yes	10	walk	500	yes	yes	no	yes	yes	7	0	85	20000	yes	dance	Davis	rear right	Fall08
+male	right	brown	yes	yes	jan	9	1988	248	69	2011	no	30	bus	100	yes	yes	no	yes	yes	6	0	90	500000	yes	Singing	Davis	rear right	Fall08
+female	right	brown	yes	yes	oct	18	1988	239	63	2009	no	30	walk	51	yes	no	no	yes	yes	8	0	110	10000	yes	Swimming	Davis	front left	Fall08
+female	right	brown	no	yes	nov	11	1988	238	66	2011	yes	30	walk	38	yes	yes	no	yes	yes	8	1	85	35000	yes	gambling	Davis	rear left	Fall08
+male	right	brown	yes	yes	june	4	1988	243	69	2025	yes	7	skateboard	600	yes	no	yes	yes	yes	2	25	110	10000	yes	policy debate	Ioudina	front left	Fall08
+female	right	brown	yes	no	mar	27	1989	234	67	2011	yes	20	walk	360	yes	yes	no	yes	yes	9	6	95	40000	yes	Playing Sports	Davis	front left	Fall08
+male	right	brown	yes	no	july	25	1988	242	66	2010	yes	15	walk	439	no	yes	no	yes	no	7	0	60	20000	no	none	Davis	front right	Fall08
+male	right	brown	yes	no	mar	17	1989	234	70	2011	yes	20	walk	230	yes	yes	no	yes	yes	7	2	115	40000	yes	basketball	Davis	rear right	Fall08
+female	right	brown	yes	no	nov	12	1988	237	57	2010	no	15	walk	554	yes	yes	no	yes	yes	6	0	100	22000	yes	Cooking	Davis	front left	Fall08
+male	right	brown	yes	no	aug	3	1988	241	79	1011	yes	15	walk	700	yes	yes	no	yes	yes	6	0	80	20000	no	pc game	Ioudina	front left	Fall08
+male	right	green	yes	no	june	23	1987	255	69	2010	yes	22	walk	952	yes	yes	no	yes	yes	7	5	145	40000	yes	gym	Ioudina	front left	Fall08
+female	right	brown	yes	no	oct	18	1989	227	64	2011	yes	15	walk	635	yes	yes	no	yes	yes	6	0	25	100000	yes	Playin computer games, practicing music	Ioudina	rear left	Fall08
+female	right	brown	yes	yes	may	24	1988	244	63	2009	yes	15	walk	716	yes	no	no	yes	yes	10	0	110	40000	no	singing	Davis	front left	Fall08
+female	right	brown	no	no	sept	3	1988	240	63	2010	no	40	car (by yourself)	500	yes	yes	no	yes	yes	7	0	85	8000	yes	reading	Esfandiari	front right	Fall08
+female	right	green	yes	yes	aug	17	1989	229	60	2011	no	30	walk	150	yes	no	no	yes	yes	5	1	90	5000	yes	Watching TV	Davis	rear left	Fall08
+female	right	blue	no	yes	jan	28	1989	236	65	2011	yes	18	walk		yes	yes	no	yes	yes	7		88		yes	music	Ioudina	front right	Fall08
+male	right	brown	no	yes	may	25	1989	232	72	2011	yes	15	walk	140	no	yes	no	yes	yes	7	1	60	20000	yes	gym	Davis	rear left	Fall08
+female	right	blue	no	yes	mar	5	1989	234	63	2011	no	5	walk	650	yes	yes	no	yes	yes	6	8	120	10000	no	traveling	Ioudina	front left	Fall08
+female	right	blue	no	yes	mar	12	1989	259	67	2011	yes	15	walk	287	yes	yes	yes	yes	yes	8	0	85	400	yes	listening to music	Ioudina	front right	Fall08
+female	right	brown	yes	yes	mar	30	1987	252	60	2009	no	20	walk	500	yes	no	no	yes	yes	7	2	95	10000	yes	reading	Ioudina	front left	Fall08
+female	right	brown	no	yes	sept	1	1987	253	66	2009	no	75	car (by yourself)	600	yes	no	yes	yes	yes	8	4	96	2000	yes	reading	Ioudina	front left	Fall08
+female	right	brown	yes	yes	may	9	1989	234	61	2011	yes	20	walk	450	yes	yes	yes	yes	no	8	0	80	45000	yes	decorating	Gould	front left	Fall08
+female	right	brown	no	yes	oct	4	1989	227	62	2011	yes	20	walk	450	yes	yes	no	yes	yes	6	0	70	20000	yes	playing tennis	Ioudina	front left	Fall08
+female	right	brown	yes	yes	mar	11	1989	234	68	2011	no	15	bus	300	yes	yes	no	yes	yes	10	0	0	2300	yes	texting	Ioudina	front right	Fall08
+female	right	hazel	no	yes	may	13	1989	232	65	2011	yes	15	walk	79	yes	yes	no	yes	yes	8	3	90	20000	yes	photography	Ioudina	front left	Fall08
+female	right	hazel	no	yes	dec	5	1986	261	69	2009	no	30	walk	350	yes	yes	no	yes	yes	7	10	100	20000	yes	going to concerts	Ioudina	rear left	Fall08
+male	right	blue	yes	yes	july	22	1989	230	70	2011	yes	20	walk	650	yes	no	no	yes	yes	7	0	60	10000	yes	Running	Davis	front right	Fall08
+female	right	hazel	no	yes	dec	5	1986	261	69	2009	no	30	walk	350	yes	yes	no	yes	yes	7	10	100	20000	yes	going to concerts	Ioudina	rear left	Fall08
+female	right	blue	no	yes	jan	13	1989	236	65	2011	yes	20	walk	300	yes	yes	no	yes	yes	8.5	0	90	26000	yes	swimming	Ioudina	rear left	Fall08
+male	right	green	yes	yes	aug	25	1988	241	73	2011	yes	15	walk	545	yes	yes	yes	yes	no	9	0	90	30000	yes	Biking	Ioudina	front right	Fall08
+male	right	brown	yes	no	jan	3	1989	236	69	2011	yes	20	walk	507	yes	yes	no	yes	yes	4.5	0	110	16938	no	Playing Basketball	Davis	front right	Fall08
+male	right	brown	no	yes	july	27	1988	242	70	2010	no	20	walk	500	yes	yes	no	yes	yes	6	0	120	20000	no	Watching	Davis	front left	Fall08
+female	right	blue	yes	yes	aug	29	1989	229	64	2011	yes	11	walk	717	yes	no	no	yes	yes	5.5	15	105	25000	yes	Reading	Ioudina	rear right	Fall08
+male	left	brown	yes	yes	jan	4	1989	236	60	2011	yes	30	walk	202	yes	yes	yes	yes	yes	5	0	70	10000	yes		Esfandiari	front left	Fall08
+male	right	brown	yes	no	june	24	1987	255	72	2010	yes	15	walk	1000	no	yes	no	yes	no	5	0	85	10000	yes	basketball, puzzles	Ioudina	front right	Fall08
+male	right	brown	no	yes	july	10	1989	230	70	2011	yes	15	walk	580	yes	yes	yes	yes	yes	6.5	4	95	20000	no	Cooking	Ioudina	front right	Fall08
+female	right	brown	yes	yes	june	23	1988	243	63	2010	no	15	walk	1049	yes	yes	no	yes	yes	7.5	0	65	10000	no	drawing	Ioudina	front right	Fall08
+female	ambidextrous	blue	no	yes	nov	5	1987	250	71	2010	no	20	walk	340	yes	yes	no	yes	yes	6	10	100	17000	yes	crafting	Ioudina	rear right	Fall08
+female	right	green	no	yes	april	4	1988	245	62	2010	no	12	bicycle	310	yes	yes	no	yes	yes	7	0	110	7000	yes	reading	Ioudina	front left	Fall08
+male	right	brown	no	no	oct	31	1989	227	71	2010	no	120	car (by yourself)	515	yes	no	no	yes	no	3	0	100	35000	yes	debating	Gould	front right	Fall08
+female	right	brown	no	yes	jan	3	1989	236	67	2011	yes	10	walk	194	yes	no	no	yes	yes	9	6	95	5000	yes	shopping	Ioudina	rear left	Fall08
+female	right	hazel	yes	yes	mar	13	1989	234	65	2011	yes	13	walk	550	yes	yes	no	yes	yes	7	0	90	25000	yes	reading	Ioudina	front left	Fall08
+female	right	brown	yes	no	april	18	1988	245	63	2011	yes	20	walk	90	yes	yes	no	yes	yes	4	0	96	50000	yes	Reading	Ioudina	front right	Fall08
+female	right	brown	yes	no	april	18	1988	245	63	2011	yes	20	walk	90	yes	yes	no	yes	yes	4	0	96	50000	yes	Reading	Ioudina	front right	Fall08
+female	right	brown	yes	yes	feb	5	1989	235	65	2011	yes	20	walk	500	yes	yes	no	yes	yes	7	2	100	39000	yes	reading	Ioudina	front right	Fall08
+female	right	brown	no	yes	feb	28	1987	259	68	2009	no	70	bus	350	yes	no	no	yes	yes	7	3	90	12000	no	dancing	Ioudina	front right	Fall08
+male	right	brown	no	yes	jan	8	1990	224	73.5	2012	yes	15	walk	200	yes	yes	no	yes	yes	6	2	100	20000	yes	Playing cello	Ioudina	front right	Fall08
+male	right	brown	no	yes	sept	16	1989	228	70	2011	yes	20	walk	200	yes	yes	yes	yes	yes	7	0	90	5000	no	guitar	Ioudina	front left	Fall08
+female	right	brown	yes	yes	oct	15	1989	227	61	2011	yes	15	walk	500	yes	yes	no	yes	yes	6	0	60		yes	crafts	Ioudina	front right	Fall08
+female	left	brown	yes	no	dec	5	1988	237	64	2011	no	7	walk	375	yes	yes	no	yes	yes	5	5	98	20000	yes	reading	Ioudina	front left	Fall08
+male	right	brown	yes	yes	june	23	1990	219	69	2012	yes	20	walk	250	yes	yes	no	yes	yes	8	20	140	20000	no	none.	Ioudina	front right	Fall08
+male	right	hazel	no	yes	mar	29	1989	234	70	2011	no	12	skateboard	179	yes	yes	yes	yes	yes	5	0	90	30000	no	Taekwondo	Ioudina	rear left	Fall08
+male	right	brown	yes	yes	may	6	1989	232	69	2011	yes	15	walk	700	yes	yes	yes	yes	yes	8	0	90	30000	yes	tennis	Ioudina	front right	Fall08
+male	right	brown	yes	yes	may	6	1989	232	69	2011	yes	15	walk	700	yes	yes	yes	yes	yes	8	0	90	30000	yes	tennis	Ioudina	front right	Fall08
+male	right	green	yes	yes	jan	17	1989	236	73	2011	no	15	walk	380	yes	yes	no	yes	yes	6	15	120	30000	no	roller hockey	Ioudina	front right	Fall08
+male	right	brown	yes	no	june	24	1987	255	72	2010	no	15	walk	1000	no	yes	no	yes	no	6	0	85	12000	yes	basketball	Ioudina	front right	Fall08
+female	right	brown	yes	yes	dec	20	1988	238	66	2010	yes	17	walk	960	yes	yes	yes	yes	yes	8	0	75	20000	no	bowling	Ioudina	front left	Fall08
+male	right	blue	no	yes	oct	30	1987	251	72		no	20	walk	300	yes	yes	no	yes	no	7	3	110	20000	yes	reading	Ioudina	rear left	Fall08
+female	right	brown	yes	yes	april	30	1989	233	64	2011	yes	20	walk	600	yes	no	no	yes	yes	8	0	85	40000	no	none	Ioudina	rear right	Fall08
+female	right	brown	yes	yes	april	30	1989	233	64	2011	yes	20	walk	600	yes	no	no	yes	yes	8	0	85	40000	no	none	Ioudina	rear right	Fall08
+male	ambidextrous	hazel	no	yes	oct	11	1988	240	68.5	2011	yes	13	other	368	yes	yes	no	yes	no	8	3.5	96	20000	yes	singing	Ioudina	front right	Fall08
+female	right	brown	yes	yes	july	8	1989	230	64	2011	no	20	carpool	398	yes	yes	no	yes	yes	6	0	80	5000	yes	writing	Ioudina	front left	Fall08
+male	right	brown	no	yes	oct	21	1988	239	71	2010	no	20	bus	400	yes	yes	no	yes	yes	7	0	120	10000	no	basketball	Ioudina	front right	Fall08
+male	right	brown	yes	yes	mar	25	1989	234	68	2011	yes	17	walk	200	yes	yes	no	yes	yes	8	0	85	30000	no	videogames	Davis	rear right	Fall08
+female	right	brown	no	yes	mar	8	1989	234	65	2011	yes	15	walk	600	yes	yes	no	yes	yes	7	0	40	40000	yes	Bible study	Davis	front right	Fall08
+female	right	brown	no	yes	july	4	1989	230	64	2011	yes	17	walk	48	yes	yes	no	yes	yes	5	0	118	70000	yes	Dance	Ioudina	rear right	Fall08
+female	right	brown	yes	yes	feb	2	1989	235	64	2011	no	15	walk	678	yes	no	no	yes	yes	6.5	0	128	25000	yes	dance	Ioudina	front left	Fall08
+male	right	blue	no	yes	sept	28	1986	264	75	2009	no	15	walk	250	yes	yes	no	yes	yes	9	5	185	42000	yes	Surfing, skimboarding, partying.	Ioudina	rear left	Fall08
+female	right	brown	yes	no	april	18	1989	233	62	2011	yes	23	walk	227	no	yes	no	yes	yes	4	0	80	25000	yes	socializing.	Ioudina	front right	Fall08
+female	right	brown	no	no	aug	8	1988	241	65	2010	no	12	walk	165	yes	yes	no	yes	yes	4	1	105	25000	no	dancing	Ioudina	front right	Fall08
+female	right	hazel	no	yes	sept	9	1988	240	70	2011	yes	20	walk	120	yes	yes	yes	yes	yes	7	2	90	20000	yes	watching baseball	Ioudina	rear left	Fall08
+male	right	brown	no	yes	oct	7	1989	228	65	2011	no	20	walk	300	yes	yes	no	yes	no	10	0	110	3000	no	tennis	Ioudina	front left	Fall08
+female	right	brown	no	yes	june	12	1989	231	64	2011	yes	10	walk	500	yes	yes	no	yes	no	10	0	85	3000	no	listening to music	Ioudina	front right	Fall08
+female	right	brown	yes	no	aug	26	1989	229	65	2011	yes	30	walk	156	no	yes	no	yes	yes	7	4	70	10000	no	watching movies	Ioudina	rear right	Fall08
+female	right	brown	no	yes	oct	17	1988	239	65	2010	yes	15	motorcycle	260	yes	yes	no	yes	yes	7.5	1	110	10000	yes	Collecting shot glasses	Ioudina	front right	Fall08
+male	right	brown	no	yes	aug	4	1989	241	70	2011	yes	13	walk	270	yes	yes	no	yes	yes	7	5	120	25000	no	Basketball	Ioudina	front right	Fall08
+female	right	brown	no	yes	april	8	1987	257	62	2009	no	20	walk	230	yes	yes	no	yes	yes	7	5	65	35000	no	dance	Ioudina	rear right	Fall08
+male	left	brown	no	no	jan	1	1987	256	52		no	30	skateboard	4000	yes	no	no	no	no	2	0	40	100000	yes	SKYDIVING	Davis	rear left	Spring08
+female	right	blue	no	yes	may	1	1987	251	60	2009	no	20	walk	100	yes	yes	no	yes	yes	7	0	90	300000	yes	Writing Poetry	Davis	front right	Spring08
+female	right	brown	yes	yes	mar	1	1987	253	66	2009	yes	15	walk	900	yes	yes	no	yes	yes	7	0	90	50000	no	movies, being with family and friends	Davis	front right	Spring08
+female	right	brown	yes	no	aug	16	1988	236	64	2010	yes	20	walk	500	yes	yes	no	yes	yes	4	5	90	50000	yes	Snowboarding	Davis	front right	Spring08
+female	right	brown	no	yes	june	8	1987	250	68	2009	no	40	car (by yourself)	780	yes	no	no	yes	yes	6	1	100	40000	yes	Hiking	Davis	front right	Spring08
+male	right	hazel	yes	yes	nov	22	1987	244	73	2009	no	20	walk	500	yes	no	no	yes	yes	4	2	105	39000	yes	weightlifting	Davis	front left	Spring08
+female	right	brown	no	yes	july	4	1988	237	65	2010	yes	20	walk	200	yes	no	no	yes	yes	6	0		35000	yes	sewing	Davis	front right	Spring08
+male	right	blue	yes	yes	may	4	1988	239	70	2010	yes	15	walk	515	yes	yes	no	yes	no	4	0	85	35000	yes	following current events	Davis	front left	Spring08
+female	right	brown	yes	yes	nov	7	1988	233	60	2010	no	25	bus	500	yes	yes	no	yes	yes	7	0	90	35000	yes	Making cards	Davis	front right	Spring08
+female	right	brown	no	yes	july	27	1988	210	59	2010	yes	22	walk	200	yes	yes	no	yes	yes	6	0	30	30000	yes	swimming	Davis	front right	Spring08
+female	right	brown	no	yes	feb	12	1987	254	67	2009	no	20	bus	1500	yes	yes	no	yes	yes	4.5	0	70	30000	yes	piano	Davis	rear right	Spring08
+female	right	brown	yes	yes	july	22	1988	237	63	2010	yes	20	walk	500	yes	yes	no	yes	yes	6	0	80	30000	yes	none	Davis	front right	Spring08
+female	right	brown	yes	yes	feb	11	1988	242	60.5	2010	yes	15	walk	300	yes	no	no	yes	yes	5.5	0	80	30000	no	dance	Davis	rear right	Spring08
+male	right	blue	no	yes	jan	22	1988	242	67	2010	yes	14	walk	500	yes	yes	no	yes	yes	6	2	80	30000	yes	watching television	Davis	front right	Spring08
+female	right	hazel	yes	yes	may	16	1988	239	66	2010	no	10	walk	780	yes	yes	no	yes	yes	6	0	90	30000	yes	reading	Davis	front left	Spring08
+male	right	brown	yes	no	april	4	1987	252	68	2009	no	20	walk	250	yes	yes	yes	yes	yes	7	0	100	30000	no	basketball	Davis	front left	Spring08
+female	right	brown	yes	yes	oct	13	1987	246	64	2009	no	7	walk	538	yes	yes	no	yes	yes	5	1	100	30000	yes	shopping	Davis	front right	Spring08
+female	right	green	yes	yes	dec	17	1987	244	65	2010	yes	10	walk	500	yes	yes	no	yes	yes	6	4	100	30000	yes	volleyball	Davis	front left	Spring08
+male	left	brown	yes	yes	oct	13	1987	240	71	2009	no	20	walk	500	yes	yes	no	yes	no	7	0	110	30000	yes	Snowboarding	Davis	rear left	Spring08
+male	right	brown	yes	yes	aug	11	1986	253	67	2008	no	18	walk	500	yes	yes	yes	yes	yes	6	0	90	25000	yes	Guitar	Davis	front left	Spring08
+female	right	brown	yes	yes	june	28	1988	231	62	2010	yes	17	walk	450	yes	yes	no	yes	yes	6	1	60	24000	no	concerts	Davis	front right	Spring08
+female	right	brown	yes	yes	jan	29	1987	248	59	2009	no	50	bus	510	yes	yes	no	yes	yes	5	0	80	24000	no	none	Davis	front right	Spring08
+female	right	brown	yes	yes	mar	22	1988	234	60	2009	no	25	walk	500	yes	yes	no	yes	yes	7	0	85	24000	yes	watching anime	Davis	front right	Spring08
+female	left	hazel	no	yes	dec	31	1987	237	69	2010	yes	8	walk	50	yes	yes	no	yes	yes	7	0	85	20359	yes	Softball	Davis	front left	Spring08
+female	right	hazel	yes	yes	nov	22	1988	226	67	2010	no	15	walk	697	yes	yes	no	yes	no	6	0	80	20000	yes	Dancing	Davis	front right	Spring08
+female	right	green	yes	yes	dec	9	1987	235	62	2010	yes	15	walk	402	yes	yes	no	yes	yes	7	0	85	20000	yes	writing	Davis	front left	Spring08
+female	right	brown	yes	yes	jan	12	1988	236	64	2010	yes	20	walk	800	yes	yes	no	yes	yes	8	0	90	20000	yes	reading	Davis	rear left	Spring08
+female	right	hazel	no	yes	june	20	1988	231	64	2010	yes	20	walk	285	yes	yes	no	yes	yes	6	0	90	20000	yes	Backpacking	Davis	rear right	Spring08
+female	right	green	yes	no	july	16	1988	230	71	2010	yes	15	walk	500	yes	yes	no	yes	yes	5.5	0	90	20000	yes	Singing	Davis	rear right	Spring08
+male	right	brown	yes	yes	aug	30	1985	265	68	2008	no	50	bus	550	yes	yes	no	yes	yes	8	2	90	20000	yes	reading	Davis	front right	Spring08
+female	right	brown	yes	yes	july	2	1988	230	66	2010	yes	12	walk	500	yes	yes	yes	yes	yes	6	0	95	20000	yes	youtube	Davis	rear left	Spring08
+male	right	other	yes	yes	feb	9	1987	247	71	2009	no	20	walk	600	yes	yes	yes	yes	yes	5	2	110	20000	yes	shopping	Davis	front right	Spring08
+female	right	brown	yes	yes	mar	8	1988	228	65	2010	yes	15	walk	200	yes	yes	yes	yes	yes	7	0	75	15000	yes	playing sports	Davis	front left	Spring08
+male	right	brown	yes	yes	sept	8	1988	228	74	2011	yes	23	walk	116	no	yes	no	yes	yes	7.5	0	85	15000	yes	track and field	Davis	front left	Spring08
+male	right	brown	no	yes	aug	10	1987	240	69	2009	no	20	walk	750	yes	no	no	yes	yes	6	0	85	15000	yes	golf	Davis	rear right	Spring08
+female	right	brown	yes	no	july	8	1987	242	57	2009	no	22	carpool	986	no	yes	no	yes	yes	8	0	85	15000	yes	running track and swimming	Davis	rear right	Spring08
+female	right	brown	yes	no	mar	27	1988	228	65	2010	yes	65	bus	2800	yes	yes	no	yes	yes	6	0	90	15000	yes	Fencing	Davis	front left	Spring08
+male	right	brown	yes	yes	oct	30	1988	224	70	2010	yes	20	walk	500	yes	yes	no	yes	yes	9	0.5	98	15000	yes	Rock Climbing	Davis	front right	Spring08
+male	right	brown	yes	yes	jan	1	1987	249	71	2009	no	30	bus	400	yes	yes	no	yes	yes	6	4	100	15000	yes	sports	Davis	front left	Spring08
+female	right	brown	yes	yes	june	30	1988	230	67	2006	yes	23	walk	800	yes	yes	yes	yes	yes	6.5	6	108	15000	yes	Listening to music	Davis	front right	Spring08
+male	right	brown	no	no	jan	26	1988	242	68	2010	no	90	carpool	860	yes	no	no	yes	yes	5	0	0	12000	yes	listening to Ipod	Davis	front right	Spring08
+male	right	brown	yes	yes	mar		1987	246	70	2009	yes	15	walk	540	yes	yes	no	yes	yes	6	4	60	10000	yes	Running	Davis	rear left	Spring08
+female	right	hazel	yes	yes	feb	14	1986	261	66	2004	no	20	walk	1200	yes	yes	no	yes	yes	7	0	80	10000	yes	horseback ridding	Davis	front left	Spring08
+female	right	brown	yes	yes	dec	3	1987	244	65	2010	no	65	car (by yourself)	950	yes	yes	no	yes	yes	7	0	80	10000	yes	Volleyball	Davis	front right	Spring08
+male	right	green	yes	yes	mar	18	1988	234	68	2010	yes	15	walk	500	yes	yes	no	yes	yes	6	0	85	10000	yes	Baseball	Davis	front right	Spring08
+male	left	brown	no	yes	april	14	1988	237	65	2010	no	25	car (by yourself)	250	yes	no	no	yes	no	7	0	90	10000	no	basketball	Davis	rear right	Spring08
+male	right	brown	yes	yes	sept	8	1988	228	74	2011	yes	15	walk	116	no	yes	no	yes	yes	8	0	105	10000	yes	track and field	Davis	front left	Spring08
+male	right	brown	yes	yes	sept	23	1986	259	74	2008	no	18	walk	860	yes	yes	yes	yes	yes	4	8	110	10000	yes	Basketball	Davis	front right	Spring08
+male	right	brown	yes	yes	feb	23	1986	261	70	2008	no	9	bus	158	yes	yes	no	yes	yes	4	3	120	10000	yes	Cello	Davis	rear left	Spring08
+female	right	brown	yes	yes	dec	27	1987	237	63	2010	yes	15	walk	500	yes	yes	no	yes	yes	6.5	0	95	7000	yes	tennis	Davis	rear left	Spring08
+female	right	brown	yes	yes	may	10	1988	232	64	2010	yes	15	walk	650	yes	yes	yes	yes	yes	7	0	80	6500	yes	basketball	Davis	rear left	Spring08
+female	right	brown	yes	no	may	29	1987	244	63	2009	yes	15	walk	605	yes	yes	no	yes	yes	6	0	75	6000	no	palying baseball	Davis	rear right	Spring08
+female	right	brown	yes	yes	feb	12	1988	242	64	2010	yes	13	walk	700	yes	yes	no	yes	yes	7.5	0	100	5500	no	Photography	Davis	rear left	Spring08
+female	right	brown	yes	yes	oct	22	1988	227	63	2010	no	20	car (by yourself)	840	yes	yes	no	yes	yes	8	1	100	5000	yes	sailing	Davis	front left	Spring08
+male	right	brown	yes	yes	jan	13	1986	260	75	2008	yes	10	walk	58	yes	no	no	yes	yes	7	30	120	4000	yes	halo 3	Davis	front right	Spring08
+female	right	brown	yes	yes	jan	28	1988	236	60	2010	yes	10	walk	500	yes	yes	no	yes	yes	6.5	0	80	3000	yes	reading	Davis	front left	Spring08
+female	right	blue	no	no	feb	9	1988	228	67	2010	yes	15	walk	600	yes	yes	no	yes	yes	5	0	100	3000	yes	running	Davis	rear right	Spring08
+female	right	brown	yes	yes	may	17	1986	256	62	2008	no	10	walk	450	yes	yes	no	yes	yes	6	1	100		no		Davis	rear left	Spring08
+female	right	green	yes	yes	feb	4	1988	235	65.5	2010	yes	20	walk	350	yes	yes	no	yes	yes	7	12	90	40000	yes	Theater	Davis	rear right	Spring08
+female	right	brown	no	yes	dec	4	1989	204	67	2011	yes	5	walk	500	yes	yes	no	yes	yes	9	0	70	30000	yes	none	Davis	front right	Spring08
+female	right	brown	no	yes	dec	27	1983	285	61	2008	no	120	bus	2000	yes	no	no	yes	yes	7	0	70	30000	no	listening to music	Davis	front right	Spring08
+male	right	blue	no	yes	jan	22	1988	236	67	2010	yes	14	walk	500	yes	yes	no	yes	yes	6	1	80	30000	yes	watching television	Davis	front right	Spring08
+female	right	brown	yes	yes	feb	6	1989	230	66	2011	yes	15	walk	500	yes	no	no	yes	yes	10	0	60	25000	no	water polo	Davis	front left	Spring08
+female	right	brown	yes	yes	feb	2	1988	235	68	2010	no	7	walk	20	yes	yes	no	yes	yes	8	0	100	25000	yes	painting	Davis	rear right	Spring08
+female	right	brown	no	yes	mar	1	1988	216	66	2010	yes	10	walk	94	yes	yes	yes	yes	yes	7	4	95	20000	yes	sailing	Davis	front right	Spring08
+male	right	brown	no	yes	april	22	1988	233	68	2010	yes	20	walk	595	yes	yes	no	yes	no	6	2	100	12468	no	Dancing	Davis	front right	Spring08
+female	right	brown	no	no	jan	8	1987	249	63	2009	no	15	walk	450	yes	yes	no	yes	yes	4	0	80	10000	yes	piano	Davis	front left	Spring08
+female	right	brown	yes	yes	oct	7	1988	227	62	2010	yes	15	walk	700	yes	no	no	yes	yes	5	1	95	35000	yes	Horseback Riding	Esfandiari	front right	Spring08
+female	right	brown	no	yes	june	12	1988	221	66	2010	yes	15	walk	200	yes	yes	no	yes	yes	9	3	60	4000	no	swimming	Esfandiari	rear left	Spring08
+female	right	hazel	no	yes	oct	16	1989	215	65	2011	yes	35	walk	900	yes	yes	no	yes	yes	4	2	85	42087	yes	piamp	Gould	front right	Spring08
+female	right	brown	no	no	july	15	1988	228	66	2010	no	10	walk	300	yes	no	no	yes	no	7	0	85	40000	no	play the guitar	Gould	front left	Spring08
+female	right	brown	yes	yes	feb	22	1988	235	65	2010	no	17	walk	1000	yes	yes	no	yes	yes	7	2	85	40000	yes	playing harp	Gould	front left	Spring08
+female	right	green	no	yes	sept	28	1988	235	70	2010	yes	17	walk	650	yes	yes	no	yes	yes	6	0	90	40000	yes	snowboarding	Gould	rear left	Spring08
+female	right	blue	yes	yes	jan	1	1988	237	63	2010	yes	25	walk	300	yes	no	no	yes	no	6.5	0	110	40000	yes	Gymnastics	Gould	front right	Spring08
+male	left	brown	yes	yes	mar	13	1990	210	73	2011	yes	20	carpool	3	yes	yes	yes	yes	yes	9	0	65	38000	yes	Learning	Gould	rear right	Spring08
+female	right	brown	yes	yes	oct	2	1989	216	64	2011	yes	10	walk	300	yes	yes	yes	yes	yes	9	0	95	37000	yes	swimming	Gould	rear left	Spring08
+female	right	brown	yes	no	july	4	1985	264	67	2008	no	120	bus	300	yes	no	no	yes	no	7	0	95	35000	no	Cooking	Gould	front right	Spring08
+male	right	hazel	no	yes	june	10	1986	255	70	2009	no	15	walk	430	yes	yes	no	yes	yes	6	20	155	32000	no	Poker	Gould	front right	Spring08
+female	right	brown	yes	yes	mar	23	1988	228	58	2010	yes	15	walk	54	yes	yes	no	yes	yes	6	0	80	30000	no	watching TV	Gould	front left	Spring08
+female	right	brown	yes	yes	june	11	1988	231	68	2010	yes	20	walk	141	yes	yes	no	yes	yes	9	0	85	30000	yes	Piano	Gould	rear left	Spring08
+male	right	brown	yes	yes	jan	17	1988	242	70	2010	yes	15	walk	300	yes	yes	no	yes	yes	8	0	90	30000	yes	basketball	Gould	front left	Spring08
+female	right	brown	no	yes	dec	15	1987	237	62	2010	yes	15	walk	200	yes	yes	no	yes	yes	5	0	90	30000	yes	dance	Gould	front left	Spring08
+female	right	blue	no	yes	june	22	1988	231	71	2010	yes	15	walk	350	yes	yes	no	yes	yes	8	3	90	30000	yes	Traveling	Gould	front right	Spring08
+female	left	hazel	yes	yes	aug	25	1988	236	63	2010	yes	5	walk	250	yes	yes	no	yes	yes	7	3	90	30000	yes	Dancing	Gould	rear right	Spring08
+female	right	brown	yes	yes	nov	11	1988	233	63	2010	yes	15	walk	350	yes	yes	no	yes	yes	8	0	95	30000	yes	Snowboarding	Gould	front left	Spring08
+female	right	blue	yes	no	nov	5	1988	226	63	2011	yes	17	walk	900	no	yes	yes	yes	yes	8	5	95	30000	yes	Golf	Gould	rear left	Spring08
+female	right	blue	no	no	may	30	1988	233	67	2010	yes	10	walk	400	yes	yes	no	yes	yes	5.5	5	100	30000	yes	painting	Gould	front right	Spring08
+male	right	brown	no	yes	mar	10	1985	264	67	2008	no	60	car (by yourself)	700	yes	no	no	yes	yes	6	0	105	30000	yes	art	Gould	front left	Spring08
+male	left	brown	yes	yes	april	24	1988	233	66	2010	yes	15	walk	847	yes	yes	no	yes	no	6	0	110	30000	no	Poker	Gould	front right	Spring08
+female	right	brown	yes	no	april	27	1988	231	60	2010	yes	15	walk	140	no	yes	no	yes	yes	6	2		25000	yes	tennis	Gould	front right	Spring08
+female	right	brown	yes	no	may	1	1989	220	68	2011	yes	15	walk	900	yes	yes	yes	yes	yes	8	0	80	25000	yes	Tennis	Gould	rear left	Spring08
+female	left	hazel	yes	yes	jan	14	1988	236	62	2010	yes	25	walk	650	yes	no	no	yes	yes	5.5	0	85	25000	yes	Photography	Gould	rear left	Spring08
+male	right	brown	yes	yes	may	16	1987	245	68	2009	no	10	bicycle	995	yes	no	no	yes	yes	6	2	90	25000	yes	running	Gould	front right	Spring08
+male	right	green	yes	yes	oct	3	1985	242	68	2008	no	35	carpool	700	yes	yes	no	yes	no	5	3	90	25000	no	Reading celebrity blogs	Gould	front right	Spring08
+male	right	brown	no	no	mar	15	1982	306	69	2009	no	45	car (by yourself)	35	no	no	no	yes	yes	6	7	90	25000	yes	play tennis	Gould	rear left	Spring08
+male	right	hazel	yes	yes	mar	21	1987	246	72	2009	no	12	bicycle	75	yes	yes	no	yes	yes	8	0	110	25000	no	Motocross	Gould	front left	Spring08
+male	left	brown	no	no	aug	31	1987	240	67	2010	no	65	carpool	650	yes	yes	no	yes	yes	7	0	120	25000	no	soccer	Gould	front left	Spring08
+female	right	green	yes	no	aug	6	1989	218	64	2011	no	75	carpool	893	yes	yes	no	yes	no	6	0	45	24000	yes	Watching movies	Gould	front right	Spring08
+female	right	brown	yes	yes	june	22	1988	228	69	2010	yes	15	walk	186	yes	yes	no	yes	no	7	0		20000	yes	shopping	Gould	front right	Spring08
+female	right	brown	no	no	aug	5	1989	217	64	2011	yes	15	walk	650	yes	yes	no	yes	yes	7	0	75	20000	yes	Travel	Gould	front left	Spring08
+female	right	brown	no	no	dec	8	1987	237	63	2010	yes	15	walk	200	yes	yes	no	yes	no	5	0	80	20000	yes	Painting	Gould	rear left	Spring08
+female	right	hazel	yes	yes	aug	20	1988	229	69	2010	no	15	walk	800	yes	yes	no	yes	yes	8	0	85	20000	yes	Reading	Gould	front right	Spring08
+male	right	blue	no	yes	may	16	1987	244	72	2009	no	25	walk	500	yes	yes	no	yes	yes	8	0	90	20000	yes	badminton	Gould	front right	Spring08
+female	right	blue	yes	yes	mar	4	1988	234	72	2010	yes	15	walk	124	yes	yes	no	yes	yes	10	10	90	20000	yes	wakeboarding	Gould	front left	Spring08
+female	right	brown	yes	yes	aug	1	1988	217	66	2010	yes	20	walk	350	yes	yes	yes	yes	yes	5	3	95	20000	yes	soccer	Gould	front left	Spring08
+female	right	green	yes	no	dec	30	1987	225	52	2009	no	15	walk	500	no	no	no	yes	yes	7	4	95	20000	yes	rowing	Gould	front left	Spring08
+male	right	brown	no	yes	july	8	1989	218	67	2011	yes	20	walk	667	yes	yes	no	yes	yes	6	0	100	20000	no	Soccer	Gould	front right	Spring08
+male	right	brown	no	no	oct	26	1988	227	70	2010	yes	20	walk	700	yes	yes	no	yes	yes	7	0	117	20000	yes	Playing guitar	Gould	rear right	Spring08
+male	right	brown	no	no	oct	26	1988	227	70	2010	yes	20	walk	700	yes	yes	no	yes	yes		0	119	20000	yes	Playing guitar	Gould	rear right	Spring08
+male	right	brown	yes	yes	jan	14	1989	224	69	2011	yes	25	walk	600	yes	yes	no	yes	yes	8	1	120	20000	yes	Guitar	Gould	front right	Spring08
+male	right	green	yes	yes	sept	9	1988	228	72	2010	yes	5	walk	650	yes	yes	yes	yes	yes	8	0	135	20000	no	Poker	Gould	rear right	Spring08
+female	right	brown	yes	yes	june	30	1988	228	60	2010	yes	20	walk	750	yes	yes	no	yes	yes	7	0	75	19000	yes	Playing tennis	Gould	front left	Spring08
+female	right	brown	no	yes	aug	18	1986	253	65	2008	no	150	car (by yourself)	200	yes	yes	no	yes	no	7	0	85	19000	no	tennis	Gould	rear left	Spring08
+female	right	brown	no	no	may	31	1988	222	66	2010	yes	15	walk	526	yes	no	no	yes	yes	8	0	80	18800	yes	horseback riding	Gould	front right	Spring08
+female	left	brown	yes	yes	aug	6	1988	229	65	2010	no	30	walk	600	yes	no	no	yes	yes	6	1	80	16000	yes	Dancing	Gould	front left	Spring08
+female	right	brown	no	yes	aug	5	1988	229	65	2010	yes	30	walk	3000	yes	yes	no	yes	yes	8	0	85	16000	yes	pilates	Gould	rear left	Spring08
+male	right	brown	yes	yes	may	27	1987	244	73	2009	yes	20	walk	249	yes	yes	no	yes	yes	6	4	109	15500	yes	playing tennis	Gould	front left	Spring08
+female	right	brown	yes	yes	may	6	1988	232	63	2010	yes	15	walk	571	yes	yes	no	yes	yes	6	0	80	15000	no	Tennis	Gould	front right	Spring08
+female	right	brown	yes	yes	jan	19	1988	236	64	2010	yes	20	walk	450	yes	no	no	yes	yes	5	0	85	15000	yes	reading	Gould	front right	Spring08
+female	right	brown	yes	yes	jan	10	1988	228	61	2010	yes	15	walk	326	yes	no	no	yes	yes	9	0	90	15000	yes	dj	Gould	rear right	Spring08
+male	right	brown	yes	yes	nov	18	1988	226	73	2010	yes	20	walk	350	yes	yes	no	yes	no	7	0	90	15000	yes	basketball	Gould	front left	Spring08
+female	right	brown	yes	yes	feb	2	1989	224	63	2011	yes	35	walk	507	yes	yes	yes	yes	yes	9	0	95	15000	yes	tennis	Gould	front left	Spring08
+male	right	brown	yes	yes	aug	22	1988	229	69	2010	yes	15	walk	57	yes	yes	no	yes	yes	6	0	110	15000	yes	Running	Gould	rear right	Spring08
+female	right	brown	no	yes	june	26	1988	222	64	2010	yes	10	walk	300	yes	no	no	yes	yes	6	0	85	13000	yes	making bracelets	Gould	front right	Spring08
+female	right	brown	no	yes	aug	5	1988	229	67	2010	yes	20	walk	167	yes	yes	no	yes	yes	9	0	90	12000	yes	Cooking	Gould	front right	Spring08
+male	left	brown	yes	yes	aug	19	1989	217	72	2011	yes	20	walk	582	yes	yes	no	yes	yes	7	0	110	11000	yes	basketball and tennis.	Gould	front right	Spring08
+male	right	brown	no	yes	dec	25	1987	237	66	2010	no	90	segway	150	yes	yes	no	yes	yes	10	0	56	10000	yes	Bicycling	Gould	front right	Spring08
+female	right	brown	no	yes	oct	15	1987	239	63	2010	no	15	walk	500	yes	no	no	yes	yes	6	1	80	10000	no	Shopping	Gould	front left	Spring08
+female	right	blue	yes	yes	may	8	1988	232	67	2010	yes	12	walk	750	yes	yes	no	yes	yes	7	12	85	10000	yes	SCUBA Diving	Gould	front right	Spring08
+male	right	brown	yes	yes	feb	12	1988	235	72	2010	yes	15	walk	550	yes	yes	no	yes	yes	6	2	100	10000	yes	Golf	Gould	front left	Spring08
+male	right	brown	no	yes	aug	25	1988	229	69	2010	yes	17	walk	15	yes	yes	no	yes	yes	7.2	0	105	10000	yes	costume design	Gould	front left	Spring08
+female	right	brown	yes	no	feb	28	1986	261	61	2008	no	20	walk	600	yes	no	no	yes	yes	4	1	110	10000	no	Rowing	Gould	front right	Spring08
+female	right	brown	yes	yes	oct	10	1986	252	60	2008	no	25	walk	250	yes	yes	no	yes	no	8	0	50	8000	no	Reading	Gould	front left	Spring08
+female	right	brown	yes	no	dec	24	1987	237	66	2009	no	17	walk	966	yes	yes	no	yes	yes	7	0	86	7900	yes	Watching Movies	Gould	front right	Spring08
+female	right	brown	yes	no	nov	14	1986	250	64	2009	no	25	walk	612	yes	yes	no	yes	yes	7	1	70	4000	yes	swimming	Gould	rear left	Spring08
+female	right	hazel	no	yes	may	15	1988	276	65	2010	yes	15	walk	560	yes	yes	no	yes	yes	8	7	115	2500	yes	Soccer	Gould	front left	Spring08
+male	right	brown	no	yes	jan	18	1986	252	73	2008	no	15	walk		yes	no	no	yes	yes	5	0	110		no	trakc and field	Gould	front right	Spring08
+female	left	brown	yes	yes	july	12	1988	230	64	2010	yes	20	walk	540	yes	yes	yes	yes	yes	9	1	85	168000	yes	Tennis	Ioudina	front left	Spring08
+female	left	brown	no	yes	may	5	1987	244	63	2009	no	75	car (by yourself)	240	yes	yes	no	yes	yes	6	0	95	50000	yes	none	Ioudina	rear right	Spring08
+female	right	brown	yes	yes	feb	8	1989	223	67	2011	yes	25	walk	350	yes	yes	no	yes	yes	8.5	1	80	40000	no	Dancing	Ioudina	front right	Spring08
+male	right	brown	yes	yes	june	20	1988	231	68.5	2010	yes	17	walk	350	yes	yes	yes	yes	yes	5.5	0	97	40000	no	MMA	Ioudina	front right	Spring08
+female	right	brown	no	yes	oct	6	1988	228	68	2010	yes	20	walk	53	yes	yes	no	yes	yes	9	0	100	40000	yes	Dance Dance Revolution	Ioudina	front left	Spring08
+male	right	green	no	no	april	5	1988	233	75	2010	no	15	walk	94	yes	yes	no	yes	yes	7	0	110	40000	no	golf	Ioudina	front right	Spring08
+female	right	brown	no	yes	may	12	1988	232	63	2010	yes	20	walk	400	yes	yes	no	yes	yes	6	0	80	38000	yes	singing	Ioudina	front right	Spring08
+male	right	brown	yes	yes	mar	4	1988	235	70	2010	yes	15	walk	780	yes	yes	yes	yes	yes	10	0	105	31000	yes	basketball	Ioudina	front left	Spring08
+female	right	brown	no	yes	april	6	1988	233	59	2010	yes	15	walk	800	yes	yes	no	yes	yes	6	1	80	30000	yes	Dance	Ioudina	rear right	Spring08
+female	left	blue	yes	yes	feb	1	1988	235	68.5	2010	no	5	walk	500	yes	yes	no	yes	yes	6	1	110	30000	yes	photography	Ioudina	front right	Spring08
+female	right	hazel	yes	yes	july	27	1988	232	59	2010	yes	15	walk	2100	yes	no	no	yes	yes	9	0	110	29000	no	tennis	Ioudina	rear right	Spring08
+female	right	brown	yes	no	nov	21	1988	226	64	2010	yes	15	walk	450	yes	yes	no	yes	yes	7	0	70	25000	yes	piano	Ioudina	front left	Spring08
+female	right	brown	no	yes	nov	11	1987	239	63	2009	yes	20	walk	215	yes	no	no	yes	no	6	0	85	25000	yes	Swimming	Ioudina	rear right	Spring08
+male	left	hazel	no	no	dec	13	1986	249	75	2009	no	15	bicycle	500	yes	yes	no	yes	yes	8	5	100	25000	yes	working out	Ioudina	front left	Spring08
+female	right	hazel	no	yes	july	28	1988	230	77	2010	yes	30	walk	500	yes	yes	no	yes	yes	4	0	88	22000	yes	going to concerts	Ioudina	front right	Spring08
+male	right	other	no	no	nov	20	1984	274	68	2009	no	15	bicycle	40	no	yes	no	yes	yes	7	0	65	20000	yes	shopping	Ioudina	rear right	Spring08
+female	right	hazel	no	no	june	16	1987	243	67	2009	yes	30	walk	200	yes	no	no	yes	yes	7	5	90	20000	yes	soccer	Ioudina	rear right	Spring08
+female	right	brown	yes	yes	april	25	1988	233	65	2010	yes	20	walk	1000	yes	yes	yes	yes	yes	7	0	100	20000	yes	shopping	Ioudina	rear right	Spring08
+female	right	brown	no	yes	mar	12	1987	246	63	2009	yes	25	walk	252	yes	yes	no	yes	no	6	0	100	20000	no	VOLLEYBALL	Ioudina	front left	Spring08
+male	right	brown	no	no	may	9	1988	232	71	2010	yes	13	walk	525	yes	no	no	yes	yes	7	1	111	18231	no	PSP Hacking	Ioudina	front right	Spring08
+male	right	brown	yes	no	oct	23	1987	239	66	2010	yes	15	walk	3000	yes	yes	no	yes	yes	11	0	95	15000	yes	computer	Ioudina	rear right	Spring08
+female	right	brown	yes	yes	mar	12	1988	234	63	2010	yes	15	walk	250	yes	no	no	yes	yes	6	0	110	15000	no	None	Ioudina	rear left	Spring08
+male	right	brown	no	yes	oct	6	1980	324	68	2008	no	20	walk	438	yes	yes	no	yes	yes	6	4	115	15000	yes	Snowboarding	Ioudina	front right	Spring08
+female	right	hazel	no	yes	oct	17	1988	227	69.5	2010	yes	15	walk	450	yes	yes	no	yes	yes	7	0	80	5000	yes	field hockey	Ioudina	front right	Spring08
+male	right	brown	no	no	sept	21	1988	228	72	2010	no	25	walk	2000	yes	no	no	yes	no	8	1	90	5000	yes	Basketball	Ioudina	front right	Spring08
+female	right	brown	no	no	mar	24	1988	237	65	2010	yes	15	walk	500	yes	yes	no	yes	yes	8	0	90	50000	yes	scrapbooking	Davis	rear right	Spring08
+female	right	green	yes	yes	dec	11	1988	225	70	2010	yes	10	walk	600	yes	no	no	yes	yes	7	0	95	50000	yes	Swimming	Davis	rear left	Spring08
+female	right	brown	yes	yes	nov	11	1988	225	64	2010	yes	20	walk	480	yes	yes	no	yes	yes	7	0	80	40000	yes	reading	Davis	front right	Spring08
+male	right	brown	no	yes	july	15	1988	288	66	2010	yes	10	walk	300	yes	no	no	yes	no	7	0	85	40000	no	play guitar	Davis	front left	Spring08
+female	right	brown	yes	yes	nov	15	1988	227	67	2009	yes	15	walk	327	yes	yes	no	yes	yes	5	0	105	40000	no	Reading	Davis	front left	Spring08
+male	right	hazel	yes	no	sept	8	1986	252	68	2009	no	25	walk	300	yes	no	no	yes	yes	4	7	110	33000	no	Soccer	Davis	front left	Spring08
+female	right	blue	no	yes	april	16	1988	234	66	2009	yes	20	walk	400	yes	yes	no	yes	yes	7	0	80	30000	yes	shopping	Davis	front left	Spring08
+male	right	blue	no	yes	aug	19	1988	230	74	2010	yes	10	walk	890	yes	yes	yes	yes	yes	6	0	80	30000	yes	Backpacking	Davis	front left	Spring08
+female	right	green	no	yes	july	18	1986	242	74	2008	no	75	car (by yourself)	110	yes	no	no	yes	yes	6	0.5	95	30000	yes	volleyball	Davis	front right	Spring08
+female	right	hazel	no	no	nov	13	1986	251	67	2009	no	10	walk	2000	no	no	no	yes	yes	9	6	110	30000	no	bowling	Davis	rear right	Spring08
+male	right	brown	no	yes	jan	30	1989	225	73	2010	yes	15	walk	400	yes	yes	yes	yes	yes	8	0	85	25000	yes	Playing Tennis	Davis	front right	Spring08
+female	right	brown	yes	yes	jan	18	1987	248	67	2009	yes	20	walk	540	yes	no	no	yes	yes	7	0	90	25000	yes	shopping	Davis	front left	Spring08
+male	right	blue	no	yes	jan	2	1988	237	72	2010	yes	10	walk	432	yes	no	yes	yes	yes	6.5	0	95	25000	no	watching sports	Davis	rear left	Spring08
+female	right	brown	no	yes	nov	2	1985	262	62	2008	no	30	walk	225	yes	no	no	yes	yes	5	3	55	18000	no	Blogging	Davis	rear right	Spring08
+female	right	brown	yes	yes	july	12	1988	228	63	2010	yes	60	car (by yourself)	772	yes	yes	no	yes	yes	6	0	50	10000	yes	Writing	Davis	rear right	Spring08
+female	right	brown	yes	yes	dec	23	1987	225	65	2010	yes	15	walk	600	yes	yes	no	yes	yes	9	0	80	10000	yes	working out	Davis	rear left	Spring08
+female	right	blue	yes	yes	mar	9	1988	235	71	2010	yes	15	walk	535	yes	yes	no	yes	yes	8	2	95	10000	yes	dancing	Davis	front right	Spring08
+male	right	brown	no	no	nov	20	1987	237	71	2010	yes	90	car (by yourself)	100	yes	yes	yes	yes	yes	6	0	110	10000	yes		Davis	front left	Spring08
+female	right	brown	yes	no	dec	25	1985	261	64	2010	no	20	car (by yourself)	0	no	yes	no	yes	yes	5	0	75	5000	no	travel	Davis	rear left	Spring08
+female	right	brown	yes	yes	mar	30	1987	246	65	2009	yes	20	walk	850	yes	yes	no	yes	yes	5	0	90	3000	yes	dance	Davis	front left	Spring08
+female	right	brown	yes	no	mar	30	1987	246	64	2009	no	20	walk	850	yes	yes	no	yes	yes	5	0	90	3000	yes	Dance	Davis	front left	Spring08
+female	right	brown	yes	yes	feb	15	1986	260	64	2008	no	20	bus	125	yes	yes	no	yes	yes	3	4	110	2200	yes	dancing	Davis	rear left	Spring08
+female	left	brown	yes	yes	jan	8	1988	236	66	2010	yes	15	walk		yes	yes	no	yes	no	8	0	25	1000	yes	watching movies	Davis	rear left	Spring08
+female	right	brown	no	yes	july	27	1986	254	60.2	2008	no	40	carpool	400	yes	yes	no	yes	no	10	9	125	1000	no	Singing	Davis	front right	Spring08
+female	left	brown	yes	yes	nov	15	1987	238	60	2009	no	20	walk	400	yes	yes	no	yes	no	7	0	95		yes	listening to vinyl records	Davis	rear right	Spring08
+female	right	brown	yes	yes	oct	1	1988	229	64	2010	yes	30	walk	880	yes	yes	no	yes	no	4	0	0	100000	yes	swimming	Esfandiari	rear left	Spring08
+female	right	green	yes	yes	feb	8	1988	237	64	2010	yes	20	walk	73	yes	no	no	yes	yes	6	0	65	50000	yes	reading	Esfandiari	rear right	Spring08
+female	right	brown	yes	yes	jan	6	1987	237	59	2009	no	5	walk	108	yes	yes	no	yes	no	6	0	89	45000	yes	Listening to Music	Esfandiari	front right	Spring08
+male	right	brown	yes	yes	sept	3	1988	228	70	2010	no	140	bus	630	yes	yes	no	yes	yes	7	0	100	45000	yes	Eating	Esfandiari	front right	Spring08
+male	right	brown	yes	yes	sept	12	1987	240	71	2010	yes	12	walk	300	yes	no	no	yes	yes	8	0	90	38000	yes	watching youtube	Esfandiari	front right	Spring08
+female	right	brown	no	yes	june	6	1986	255	67	2009	no	25	car (by yourself)	375	no	yes	no	yes	yes	5	0	110	35000	yes	Basketball	Esfandiari	front right	Spring08
+female	right	brown	yes	yes	june	1	1988	237	65	2010	yes	20	walk	600	yes	no	no	yes	yes	7	2	80	30000	yes	Cooking	Esfandiari	front left	Spring08
+male	right	brown	no	yes	mar	28	1988	225	66	2010	yes	15	walk	99	yes	no	no	yes	yes	6	1	85	30000	yes	basketball	Esfandiari	front right	Spring08
+female	right	brown	no	no	jan	25	1985	272	63	2007	no	30	car (by yourself)	500	yes	no	no	yes	yes	7	2	90	30000	no	watching movies	Esfandiari	rear right	Spring08
+female	right	brown	yes	no	oct	14	1988	227	62	2010	yes	15	walk	120	yes	yes	no	yes	yes	10	0	95	30000	yes	Drawing	Esfandiari	front left	Spring08
+male	right	green	yes	yes	nov	11	1987	238	72	2010	yes	15	walk	130	yes	no	no	yes	yes	10	3	85	25000	no	Football	Esfandiari	front left	Spring08
+male	right	brown	yes	yes	july	15	1987	243	65	2009	yes	20	walk	833	yes	yes	no	yes	yes	9	1	90	25000	yes	sports	Esfandiari	front left	Spring08
+female	right	brown	yes	no	jan	25	1988	236	64	2010	yes	15	walk	100	no	yes	no	yes	no	7	0	60	20000	no	dancing	Esfandiari	rear left	Spring08
+female	right	brown	no	yes	april	9	1988	233	60	2010	yes	15	walk	100	yes	yes	no	yes	yes	7	1	87	20000	no	tennis	Esfandiari	front left	Spring08
+male	right	brown	yes	yes	jan	8	1988	237	67	2010	yes	20	walk	500	yes	no	no	yes	yes	2	0	100	20000	yes	Tennis	Esfandiari	front right	Spring08
+male	right	brown	yes	yes	jan	8	1988	237	67	2010	yes	20	walk	500	yes	no	no	yes	yes	2	0	100	20000	yes	Tennis	Esfandiari	front right	Spring08
+male	right	brown	yes	yes	jan	8	1988	237	67	2010	yes	20	walk	500	yes	no	no	yes	yes	2	0	100	20000	yes	Tennis	Esfandiari	front right	Spring08
+male	right	blue	yes	yes	oct	14	1985	263	71	2008	no	30	walk	1200	yes	no	no	yes	yes	8	9	100	20000	no	Traveling	Esfandiari	rear right	Spring08
+male	right	brown	yes	yes	jan	22	1988	242	72	2010	no	20	walk	100	no	yes	no	yes	yes	7	5	110	20000	yes	poker	Esfandiari	rear right	Spring08
+female	left	brown	yes	yes	oct	21	1988	225	65	2010	yes	15	walk	1000	yes	yes	no	yes	yes	8	0	75	16000	yes	traveling	Esfandiari	front left	Spring08
+female	right	hazel	yes	no	oct	10	1988	216	64	2010	yes	25	walk	260	yes	yes	no	yes	yes	10	0	50	15000	no	Reading fashion magazines.	Esfandiari	rear right	Spring08
+female	right	blue	yes	no	dec	15	1985	262	70	2008	no	20	walk	600	yes	yes	no	yes	yes	10	0	70	15000	yes	painting	Esfandiari	rear right	Spring08
+female	right	brown	no	yes	nov	25	1988	216	65	2010	yes	30	walk	600	yes	no	no	yes	no	7	0	75	15000	yes	watching anime	Esfandiari	front left	Spring08
+female	left	green	no	yes	april	26	1988	233	66	2010	yes	14	walk	400	yes	yes	no	yes	yes	6	2	95	15000	yes	Singing	Esfandiari	front left	Spring08
+male	right	brown	yes	yes	july	23	1988	230	74	2010	yes	20	walk	268	yes	yes	no	yes	yes	8	0	100	15000	yes	Basketball	Esfandiari	rear right	Spring08
+female	right	hazel	yes	yes	feb	7	1988	236	65	2010	yes	25	walk	650	yes	no	no	yes	yes	9	0	0	10000	yes	Speaking Swedish	Esfandiari	front left	Spring08
+female	right	hazel	yes	yes	may	7	1988	232	65	2010	yes	15	walk	500	yes	no	no	yes	yes	7	5	45	10000	yes	shopping	Esfandiari	front left	Spring08
+male	left	brown	no	yes	dec	24	1987	228	70	2010	yes	15	walk	400	yes	no	no	yes	yes	9	0	70	10000	no	acting	Esfandiari	rear left	Spring08
+female	right	brown	yes	no	may	11	1988	231	64	2010	no	20	car (by yourself)	450	yes	yes	no	yes	yes	9	2	80	10000	yes	painting	Esfandiari	rear left	Spring08
+male	right	green	yes	yes	sept	19	1988	228	74	2010	yes	20	walk	210	yes	yes	yes	yes	yes	9	0	85	10000	yes	basketball	Esfandiari	front left	Spring08
+male	right	brown	yes	no	nov	25	1988	226	65	2010	yes	15	walk	150	yes	yes	no	yes	yes	7	2	99	10000	no	football	Esfandiari	rear right	Spring08
+female	right	brown	yes	no	may	2	1988	228	65	2010	yes	15	walk	650	yes	yes	no	yes	yes	7	0	100	10000	yes	dancing	Esfandiari	front right	Spring08
+male	right	brown	yes	no	sept	23	1987	240	68	2009	no	90	car (by yourself)	750	yes	yes	no	yes	yes	6	1	100	10000	yes	Playing the piano	Esfandiari	front right	Spring08
+female	right	brown	yes	yes	aug	2	1988	229	66.5	2010	yes	15	walk	900	yes	yes	no	yes	yes	9	2	100	10000	yes	dancing	Esfandiari	rear left	Spring08
+male	right	brown	yes	yes	may	11	1988	232	73	2010	yes	15	walk	600	yes	yes	no	yes	yes	9	1	136	10000	yes	Tennis	Esfandiari	front right	Spring08
+female	right	brown	yes	no	nov	11	1988	227	62	2010	yes	20	walk	350	yes	yes	no	yes	yes	7	0	70	8000	yes	shop	Esfandiari	front left	Spring08
+female	right	brown	yes	yes	feb	12	1988	242	61	2010	yes	15	walk	320	yes	yes	no	yes	no	6	0	100	5000	yes	Tennis	Esfandiari	rear right	Spring08
+male	right	brown	yes	yes	may	16	1988	232	70	2010	no	35	car (by yourself)	290	yes	no	no	yes	yes	5	15	135	5000	no	Racing/Drifting	Esfandiari	rear right	Spring08
+female	right	brown	no	yes	may	30	1988	233	62	2010	yes	10	walk	650	yes	yes	no	yes	yes	8	0	95	4000	no	run	Esfandiari	front right	Spring08
+female	right	brown	yes	yes	jan	25	1985	272	63.8	2007	no	30	car (by yourself)	800	yes	yes	no	yes	yes	10	1	100	4000	no	going to the beach	Esfandiari	rear left	Spring08
+male	left	brown	yes	yes	aug	22	1988	229	68	2010	no	15	walk	700	yes	yes	no	yes	yes	8	0	100	3500	no	Hanging out	Esfandiari	front left	Spring08
+female	right	brown	yes	no	aug	26	1988	229	60	2010	yes	20	walk	1200	no	yes	no	yes	yes	9	0	83	3000	yes	dance	Esfandiari	front right	Spring08
+female	left	brown	no	yes	oct	9	1988	228	67	2010	yes	15	walk	544	yes	yes	no	yes	yes	10	0	113	3000	yes	Working Out	Esfandiari	rear left	Spring08
+female	right	brown	no	no	june	11	1988	231	60	2010	yes	20	walk	800	yes	no	no	yes	yes	11	2	100	1500	yes	spoken word	Esfandiari	rear right	Spring08
+female	right	brown	yes	no	oct	3	1988	225	67	2010	yes	13	walk	160	yes	yes	no	yes	no	6	3	70		yes	Cooking	Esfandiari	rear right	Spring08
+female	right	brown	yes	yes	sept	16	1988	249	64	2010	yes	15	walk	550	yes	yes	no	yes	no	5	0	90		yes	tennis	Esfandiari	front right	Spring08
+female	right	brown	yes	no	june		1988	238	64	2010	yes	20	walk	454	yes	yes	no	yes	yes	8	0			yes	photography	Esfandiari	front left	Spring08
+female	right	blue	no	no	sept	24	1988	228	66	2011	yes	30	walk	500	no	no	no	yes	yes	4	4	80	40000	yes	dance	Gould	front left	Spring08
+female	right	blue	no	yes	feb	21	1989	223	62	2011	yes	20	walk	653	yes	yes	no	yes	yes	6	7	90	40000	yes	going to the beach	Gould	front right	Spring08
+female	right	brown	yes	yes	sept	29	1987	240	62	2010	yes	15	walk	580	yes	no	yes	yes	yes	7	0	95	40000	yes	reading	Gould	rear right	Spring08
+female	right	hazel	yes	no	july	1	1986	252	64	2008	no	30	walk	700	yes	no	no	yes	yes	8	0	100	40000	no	working out	Gould	front left	Spring08
+female	right	brown	yes	no	dec	5	1987	237	64	2010	yes	15	walk	2500	no	yes	no	yes	no	6	0	85	35000	yes	read	Gould	rear left	Spring08
+female	right	blue	yes	yes	july	31	1989	218	66	2011	yes	10	walk	183	yes	yes	no	yes	yes	5	0	110	34000	yes	Horseback Riding	Gould	front right	Spring08
+male	right	other	yes	no	oct	10	1988	228	71	2010	yes	20	walk	850	yes	yes	no	yes	yes	8	0	80	30000	yes	tennis	Gould	front right	Spring08
+female	right	hazel	no	yes	nov	30	1987	238	67	2009	no	15	walk	500	yes	yes	no	yes	yes	6	1	100	30000	yes	pilates	Gould	front right	Spring08
+female	right	brown	yes	yes	feb	29	1988	235	65	2010	no	25	walk	500	yes	no	no	yes	yes	7	0	110	30000	yes	basketball	Gould	front right	Spring08
+female	right	blue	yes	yes	july	20	1988	230	72	2010	yes	20	walk	320	yes	no	no	yes	yes	8	4	70	28000	yes	cooking	Gould	front left	Spring08
+male	right	hazel	yes	yes	oct	18	1985	264	63	2008	no	5	bicycle	130	no	yes	no	yes	no	9	0	95	25000	yes	meditating	Gould	front right	Spring08
+female	right	brown	yes	yes	dec	9	1989	214	65	2011	yes	15	walk	75	yes	yes	no	yes	yes	8	3	95	25000	yes	swimming	Gould	rear left	Spring08
+female	right	brown	yes	no	jan	12	1987	248	63	2009	no	15	walk	300	yes	yes	no	yes	yes	6	5	105	25000	yes	Traveling	Gould	front left	Spring08
+male	right	brown	yes	no	jan	16	1985	272	69	2009	no	30	walk	20	no	no	no	yes	yes	7	2		20000	yes	Playing Soccer, or the Violins	Gould	rear left	Spring08
+female	right	brown	no	yes	april	27	1988	233	62	2010	yes	15	walk	800	yes	yes	no	yes	no	5	0	90	20000	yes	tennis	Gould	front left	Spring08
+male	ambidextrous	amber	no	no	nov	18	1987	240	74	2009	yes	5	walk	500	no	yes	no	yes	no	6	3	100	20000	yes	screenwriting	Gould	front right	Spring08
+female	right	brown	yes	yes	june	6	1987	244	67	2009	no	25	walk	70	yes	yes	no	yes	no	7.5	10	115	20000	yes	Watching movies	Gould	front left	Spring08
+female	right	brown	yes	no	dec	12	1989	214	64	2010	yes	25	walk	330	no	yes	no	yes	no	8	0	80	15000	yes	listening to music	Gould	front left	Spring08
+female	right	blue	yes	yes	jan	20	1988	228	70	2010	yes	15	walk	350	yes	no	no	yes	yes	8	6	100	15000	yes	basketball	Gould	front left	Spring08
+female	right	green	no	yes	may	7	1989	220	70	2011	yes	10	walk	1000	yes	yes	no	yes	yes	7	0	95	11000	yes	Rowing	Gould	rear right	Spring08
+male	right	green	yes	yes	jan	31	1989	225	71	2011	no	90	car (by yourself)	700	yes	yes	no	yes	yes	9	0	75	10000	yes	Playing the viola	Gould	front right	Spring08
+female	right	blue	no	no	oct	9	1989	215	66	2011	yes	15	walk	572	yes	yes	no	yes	yes	6	2	90	10000	yes	yoga	Gould	rear left	Spring08
+male	left	brown	yes	yes	nov	29	1986	250	67	2008	no	25	car (by yourself)	250	yes	yes	yes	yes	yes	10	0	90	8000	yes	Video Games	Gould	front left	Spring08
+female	right	green	yes	yes	jan	17	1988	236	67		yes	20	walk	225	yes	no	no	yes	yes	8	0	60	2000	yes	going out with friends	Gould	front left	Spring08
+female	right	brown	yes	no	aug	1	1987	241	61	2010	yes	20	walk	60	yes	yes	yes	yes	yes	6	0	100	140000	yes	Dance	Ioudina	front right	Spring08
+male	left	blue	yes	no	july	11	1988	230	66	2010	yes	15	walk	305	no	no	no	yes	yes	7.5	15	100	60000	yes	Swimming	Ioudina	front right	Spring08
+female	right	green	no	no	may	28	1988	232	64	2010	yes	15	walk	135	no	no	no	yes	yes	8	2	90	40000	yes	dancing	Ioudina	rear left	Spring08
+male	right	brown	yes	no	jan	27	1988	236	71	2010	no	15	skateboard	18	yes	yes	no	yes	yes	6	35	100	40000	yes	Playing bass	Ioudina	front right	Spring08
+male	right	hazel	yes	yes	july	7	1988	236	73	2010	yes	7	skateboard	180	yes	no	no	yes	yes	10	6	110	40000	yes	Halo 3	Ioudina	rear right	Spring08
+female	right	brown	yes	no	april	23	1988	228	63	2010	yes	20	walk	330	yes	yes	yes	yes	yes	9	0	100	30000	yes	cycling	Ioudina	rear right	Spring08
+female	right	blue	yes	no	may	14	1988	232	66	2010	yes	20	walk	93	yes	no	yes	yes	yes	8	10	100	30000	no	horseback riding	Ioudina	rear right	Spring08
+female	right	brown	yes	yes	june	11	1988	238	60	2011	yes	30	walk	400	yes	no	no	yes	yes	8	0	0	25000	yes	drawing	Ioudina	front right	Spring08
+female	right	brown	no	yes	may	27	1987	244	65	2009	no	25	walk	700	yes	yes	no	yes	yes	9	0	95	25000	no	soccer	Ioudina	front right	Spring08
+male	right	brown	yes	no	may	20	1988	233	70	2010	yes	15	walk	610	yes	yes	yes	yes	yes	8	0	110	25000	yes	Football	Ioudina	rear right	Spring08
+male	right	brown	yes	yes	dec	20	1988	216	67	2010	no	60	car (by yourself)	900	yes	no	yes	yes	yes	5	0	115	25000	yes	Dancing	Ioudina	front left	Spring08
+female	right	brown	yes	yes	may	31	1988	232	62	2010	yes	15	walk	500	yes	yes	no	yes	yes	7	0	65	20000	yes	Chinese Macrame	Ioudina	rear right	Spring08
+male	right	hazel	no	yes	may	1	1988	228	75	2010	no	30	walk	120	yes	yes	no	yes	yes	8	1	90	20000	no	playing guitar	Ioudina	front right	Spring08
+female	right	brown	yes	yes	sept	30	1988	228	62	2010	yes	15	walk	650	yes	yes	no	yes	no	7	4	95	20000	no	going out with friends	Ioudina	front right	Spring08
+male	right	brown	yes	no	april	7	1988	233	72	2011	yes	14	walk	520	yes	yes	yes	yes	yes	5	0	90	18000	yes	Music	Ioudina	front left	Spring08
+female	right	hazel	no	yes	dec	18	1987	237	66	2010	yes	20	walk	165	yes	no	yes	yes	yes	9	1	85	15000	yes	gym	Ioudina	front left	Spring08
+male	right	hazel	yes	no	mar	19	1988	234		2010	yes	20	walk	300	yes	no	no	yes	yes	6	0	85	12000	yes	Playing musical instruments	Ioudina	front right	Spring08
+female	right	brown	yes	no	aug	4	1989	220	67	2011	yes	10	walk	500	yes	yes	no	yes	yes	8	2	50	10000	no	going to the beach	Ioudina	front right	Spring08
+female	right	brown	yes	yes	feb	18	1988	235	63	2010	yes	15	walk	3000	yes	yes	no	yes	no	5	0	65	10000	no	volleyball	Ioudina	front right	Spring08
+female	right	brown	no	yes	feb	18	1988	235	64	2010	yes	30	walk	401	yes	yes	no	yes	yes	9	5	100	9000	yes	Dance	Ioudina	front right	Spring08
+female	right	brown	yes	yes	july	16	1988	230	62	2010	yes	15	walk	2000	yes	yes	yes	yes	yes	8	0	80		yes	tennis	Ioudina	front right	Spring08
+female	right	brown	yes	no	july	18	1988	230	64	2010	no	13	walk	137	no	yes	no	yes	yes	6	2	120	35000	yes	dance	Davis	rear right	Spring08
+male	right	brown	no	yes	feb	11	1986	260	68	2008	no	15	walk	39	yes	yes	no	yes	no	9	1	100	30000	yes	Playing basketball	Davis	front right	Spring08
+male	right	brown	yes	yes	nov	9	1987	238	74	2009	yes	25	bus	650	yes	yes	no	yes	yes	5	0	95	28000	yes	music	Davis	front right	Spring08
+male	right	hazel	yes	yes	july	7	1987	243	71	2009	no	20	walk	400	yes	yes	no	yes	yes	8	0	70	20000	yes	Guitar	Davis	rear left	Spring08
+female	right	brown	yes	yes	sept	24	1986	252	62	2009	no	60	bus	200	yes	yes	no	yes	yes	5	0	70	20000	no	painting	Davis	front left	Spring08
+male	right	blue	no	yes	april	7	1986	258	76	2009	yes	20	walk	550	yes	no	no	yes	yes	4	2	125	39000	no	Mixing Music	Esfandiari	front right	Spring08
+male	right	brown	no	yes	feb	27	1988	235	74	2010	no	18	walk		yes	yes	no	yes	yes	8.5	20	105	30000	yes	drawing	Esfandiari	front right	Spring08
+male	right	blue	no	no	oct	4	1986	250	75	2009	no	20	walk	800	yes	yes	no	yes	yes	8	30	115	30000	yes	Sports	Esfandiari	front left	Spring08
+female	right	brown	yes	yes	jan	6	1987	250	62	2009	yes	60	carpool	987	yes	no	no	yes	no	8	1	80	20000	yes	playing games	Esfandiari	rear right	Spring08
+female	right	brown	no	yes	july	17	1988	218	61.5	2010	yes	15	walk	400	yes	yes	no	yes	yes	3	0	130	20000	yes	Hiking	Esfandiari	rear left	Spring08
+female	right	brown	yes	yes	may	5	1987	251	64	2009	no	20	bus	360	yes	no	no	yes	yes	5	0	90	12000	yes	reading	Esfandiari	front right	Spring08
+female	right	brown	yes	yes	july	16	1989	218	71	2011	yes	10	walk	400	yes	yes	yes	yes	yes	8	4	100	400000	yes	rowing	Gould	front left	Spring08
+female	right	brown	no	yes	mar	18	1988	222	67	2009	no	90	bus	144	yes	no	no	yes	yes	4	0	0	54000	no	none	Gould	rear left	Spring08
+female	right	brown	no	yes	april	4	1988	238	66	2011	no	20	walk	300	yes	yes	no	no	yes	5.5	0	75	40000	yes	sing	Gould	front left	Spring08
+female	right	blue	no	yes	dec	1	1988	226	67	2010	yes	15	walk	450	yes	yes	yes	yes	yes	7	0	80	40000	no	tennis	Gould	front right	Spring08
+male	right	brown	yes	yes	aug	3	1987	241	72	2009	no	45	carpool	450	yes	no	no	yes	yes	8	0	85	40000	no	Playing guitar	Gould	front right	Spring08
+male	right	blue	no	yes	feb	18	1987	247	71	2009	yes	17.32	walk	249	yes	yes	no	yes	yes	6	0	100	40000	yes	none	Gould	front left	Spring08
+female	right	blue	no	yes	april	10	1988	233	69	2010	yes	12	walk	703	yes	no	no	yes	yes	10	0	102	40000	yes	rowing	Gould	front left	Spring08
+female	right	green	no	no	april	15	1986	288	67	2008	no	60	car (by yourself)	2000	yes	yes	no	yes	yes	4	1	120	40000	no	POETRY	Gould	front left	Spring08
+female	right	brown	no	no	july	31	1989	218	64	2011	yes	15	walk	457	no	yes	no	yes	yes	7	0	92	38000	no	Rowing	Gould	front right	Spring08
+male	right	blue	no	yes	sept	14	1988	228	67	2011	yes	17	walk	400	yes	yes	yes	yes	no	5	0	90	35000	yes	none	Gould	rear left	Spring08
+female	right	brown	no	yes	aug	5	1988	229	62	2010	yes	20	walk	250	yes	yes	no	yes	yes	7.5	0	85	30000	no	running	Gould	front right	Spring08
+female	right	brown	yes	yes	april	27	1985	264	65	2009	no	20	car (by yourself)	500	no	no	no	yes	no	7	2	90	30000	yes	movies	Gould	front right	Spring08
+female	right	hazel	yes	yes	feb	7	1989	224	69	2011	yes	20	walk	270	yes	yes	no	yes	yes	8	3	90	30000	yes	reading	Gould	front right	Spring08
+female	right	brown	yes	yes	dec	11	1987	238	63.5	2010	yes	23	walk	310	yes	no	no	yes	yes	5	0	110	30000	yes	running	Gould	front right	Spring08
+female	right	blue	no	yes	oct	4	1989	215	67	2011	yes	20	walk	365	yes	yes	no	yes	yes	8	10	110	30000	yes	listening to music	Gould	rear right	Spring08
+male	left	brown	no	yes	may	25	1987	251	72	2009	no	1	motorcycle		yes	no	no	yes	yes	7	1	110	27000	yes	beach	Gould	front left	Spring08
+female	right	green	yes	yes	mar	29	1988	234	69	2009	no	17	walk	650	yes	yes	yes	yes	yes	6	3	100	26000	yes	Pilates	Gould	rear right	Spring08
+male	right	brown	yes	yes	july	14	1989	219	72	2011	yes	15	walk	1000	yes	yes	no	yes	yes	8	0	90	25000	yes	Snowboard	Gould	front left	Spring08
+male	right	green	no	yes	oct	18	1988	227	67	2011	yes	25	walk	500	yes	yes	yes	yes	yes	8	5	110	25000	yes	Music	Gould	rear right	Spring08
+male	right	green	no	yes	june	5	1987	244	70	2010	no	15	walk	227	yes	no	no	yes	yes	5	48	120	25000	yes	guitar	Gould	front right	Spring08
+female	right	brown	no	no	jan	8	1987	249	63	2009	no	15	walk	500	yes	yes	no	yes	yes	4	0	80	20000	no	piano	Gould	front left	Spring08
+female	right	brown	yes	yes	feb	11	1986	259	69	2008	no	20	walk	500	yes	yes	no	yes	yes	9	5	90	20000	no	eating	Gould	front right	Spring08
+female	right	brown	yes	no	dec	21	1988	225	63	2011	yes	24	walk	600	yes	yes	no	yes	yes	7	5	90	20000	yes	drawing	Gould	rear left	Spring08
+male	right	brown	yes	yes	june	2	1986	256	73	2008	yes	15	walk	1000	yes	yes	no	yes	yes	9	5	120	20000	yes	Poker	Gould	front left	Spring08
+male	left	hazel	yes	yes	april	15	1988	238	72	2010	yes	13	walk	750	yes	yes	no	yes	yes	5	7	130	19000	yes	music	Gould	front right	Spring08
+female	right	brown	yes	yes	sept	25	1988	228	70	2010	no	25	walk	688	yes	no	no	yes	yes	8	0	85	18000	no	Sleeping	Gould	front left	Spring08
+female	right	brown	yes	no	mar	28	1986	258	67	2008	no	20	bus	400	yes	yes	no	yes	yes	6	0	90	18000	yes	Internet	Gould	rear left	Spring08
+female	right	brown	yes	yes	mar	15	1988	223	64	2010	yes	15	walk	565	yes	yes	no	yes	no	8	0	85	15000	yes	drumming	Gould	front right	Spring08
+male	right	brown	yes	yes	june	10	1989	220	71	2011	yes	15	walk	480	yes	yes	yes	yes	yes	8	0	125	15000	no	basketball	Gould	rear left	Spring08
+female	right	brown	no	yes	dec	15	1985	250	62	2008	yes	15	walk	100	yes	yes	no	yes	no	7	2	70	10000	yes	running	Gould	front left	Spring08
+male	right	brown	yes	yes	oct	7	1988	219	71	2010	yes	20	walk	500	yes	yes	yes	yes	no	8	2	95	10000	yes	basketball	Gould	front left	Spring08
+female	right	hazel	yes	yes	oct	3	1987	240		2009	no	30	car (by yourself)	109	yes	no	no	yes	yes	4	5	95	10000	no	Dancing	Gould	front right	Spring08
+male	right	blue	no	no	july	7	1985	267	75	2008	yes	15	walk	400	yes	yes	no	yes	yes	6	20	105	10000	yes	Golf	Gould	front left	Spring08
+male	right	blue	no	yes	dec	16	1984	280	70	2008	no	15	walk	300	yes	yes	yes	yes	no	8.5	1	120	10000	yes	gambling	Gould	front left	Spring08
+female	right	brown	yes	yes	april	19	1988	233	62	2010	yes	15	walk	82	yes	yes	no	yes	yes	6	0	90	8000	yes	watching tv	Gould	front right	Spring08
+male	right	brown	yes	no	july	16	1988	230	69	2010	no	16	bicycle		yes	yes	yes	yes	yes	5.5	0	130	5531	no	Tennis	Gould	rear right	Spring08
+male	right	brown	yes	yes	oct	9	1987	261	72	2010	yes	20	walk	400	yes	no	no	yes	yes	3	40	114	5000	yes	none	Gould	front left	Spring08
+male	left	brown	no	no	july	2	1988	221	71	2010	yes	14	walk	364	no	yes	no	yes	yes	5	5	50	4300	yes	guitar	Gould	front left	Spring08
+female	right	brown	yes	yes	april	25	1987	245	61	2010	no	20	bus	1000	yes	yes	no	yes	yes	8	1	80	4000	no	concert going	Gould	front left	Spring08
+male	right	brown	no	yes	sept	4	1987	240	70	2010	yes	15	walk	400	yes	yes	no	yes	yes	9	0	85	2000	yes	music	Gould	front left	Spring08
+female	right	brown	yes	yes	april	27	1985	276	65	2009	no	20	car (by yourself)	300	no	no	no	yes	no	7	2	90	2000	yes	movies	Gould	front right	Spring08
+female	right	brown	yes	no	mar	2	1987	246	61	2009	no	25	walk	985	yes	yes	no	yes	yes	7	1	103		no	piano	Gould	front right	Spring08
+female	right	brown	no	yes	jan	18	1988	237	66	2010	no	15	walk	315	yes	yes	no	yes	yes	6	0	110	190000	yes	Tae Kwon Do	Ioudina	front right	Spring08
+female	right	brown	yes	yes	july	3	1988	230	64	2010	no	60	car (by yourself)	310	yes	yes	yes	yes	yes	7	0	90	60000	yes	Ballroom Dance	Ioudina	front left	Spring08
+male	right	brown	no	no	feb	18	1984	283	69	2008	no	20	bus	0	yes	yes	yes	yes	yes	10	1	100	50000	yes	basketball	Ioudina	rear left	Spring08
+female	right	blue	yes	yes	may	16	1988	233	68	2010	yes	23	walk	386	yes	yes	no	yes	yes	6	2	85	45000	no	scrapbooking	Ioudina	rear right	Spring08
+female	right	brown	yes	yes	july	27	1988	230	63	2010	yes	30	walk	450	yes	yes	no	yes	yes	7	0	85	35000	yes	Reading	Ioudina	front right	Spring08
+female	right	hazel	yes	yes	july	27	1988	228	59	2010	yes	15	walk	2010	yes	no	no	yes	yes	8	0	100	25430	no	tennis	Ioudina	rear left	Spring08
+female	right	brown	yes	yes	jan	29	1987	237	59	2009	no	70	bus	171	yes	yes	no	yes	yes	6	0	120	25000	yes	Scrapbooking	Ioudina	front left	Spring08
+male	right	brown	no	yes	may	24	1988	228	72	2010	yes	10	walk	555	no	yes	yes	yes	yes	8	0	90	23000	yes	Ping pong	Ioudina	rear right	Spring08
+female	right	blue	no	yes	sept	30	1986	252	68	2008	no	30	walk	700	yes	no	no	yes	yes	8	5	100	20000	yes	Photography	Ioudina	front right	Spring08
+female	right	brown	yes	yes	aug	21	1987	241	65	2009	yes	20	walk	90	yes	yes	no	yes	yes	6	2	100	15000	yes	running	Ioudina	rear right	Spring08
+female	right	brown	yes	yes	may	8	1988	232	61	2010	yes	15	walk	400	yes	yes	no	yes	yes	8	20	85	10000	yes	basketball	Ioudina	rear left	Spring08
+female	right	blue	yes	no	oct	2	1987	240	64	2010	yes	15	walk	18	no	yes	no	yes	yes	5	3	120	9000	yes	reading	Ioudina	rear right	Spring08
+female	right	brown	no	yes	mar	28	1988	234	64	2010	yes	15	walk	280	yes	no	no	yes	yes	8	0	70	5000	yes	tennis	Ioudina	front left	Spring08
+female	right	blue	no	yes	july	31	1989	216	67	2011	yes	15	walk	111	yes	yes	no	yes	yes	8	0	75	35000	yes	ultimate frisbee	Davis	front right	Spring08
+male	left	brown	no	no	mar	28	1979	349	68	2009	no	30	bus	800	yes	yes	no	yes	yes	7	0	130	8000	no	dj	Davis	front right	Spring08
+female	right	blue	no	yes	jan	2	1988	243	67	2010	no	20	walk	100	yes	yes	no	yes	yes	7	4	77	20000	yes	Piano	Davis	rear left	Spring08
+male	right	brown	no	yes	sept	30	1988	234	70	2011	yes	12	walk	599	yes	yes	no	yes	yes	7	0	95	27000	yes	guitar	Davis	front left	Spring08
+male	right	hazel	no	yes	nov	26	1989	233	66.5	2011	no	20	bus	600	yes	no	no	yes	yes	10	0	80	25000	yes	Tennis	Davis	front right	Spring08
+male	ambidextrous	brown	no	yes	nov	15	1989	220	69	2011	yes	10	walk	375	yes	no	yes	yes	yes	9	0	100	30000	no	Dancing	Ioudina	front right	Spring08
+male	right	blue	no	no	feb	24	1989	229	67	2011	yes	15	walk	450	yes	yes	no	yes	yes	7.5	4	105	25000	no	Woodworking	Ioudina	front left	Spring08
+female	right	brown	yes	yes	july	26	1988	231	61	2010	yes	20	walk	230	yes	yes	no	yes	yes	8	0	0	15000	yes	running	Davis	rear right	Spring08
+female	left	green	yes	yes	april	10	1989	227	63	2011	yes	16	walk	500	yes	no	no	yes	yes	4	0	120	30000	yes	scuba diving	Ioudina	front left	Spring08
+female	right	green	no	yes	may	16	1989	226	68	2011	yes	15	walk	88	yes	yes	no	yes	yes	7	0	90	25000	yes	Watching TV	Davis	front right	Spring08
+female	right	hazel	yes	yes	april	21	1988	240	65	2009	no	30	walk	87	yes	yes	no	yes	yes	5	0	90	20000	yes	Reading	Davis	front right	Spring08
+female	right	brown	yes	yes	june	21	1988	237	67	2010	yes	15	walk	600	yes	yes	no	yes	yes	8	0	80	8000	yes	watching movies	Davis	rear left	Spring08
+female	right	brown	no	yes	july	16	1989	225	66	2011	yes	20	walk	483	yes	no	no	yes	yes	8	0	90	35000	yes	reading	Davis	front left	Spring08
+male	right	blue	yes	no	july	11	1987	248	70	2009	no	60	car (by yourself)	220	no	no	no	yes	yes	8	0	110	20000	yes	Golf	Davis	front left	Spring08
+female	right	blue	no	yes	june	7	1988	237	65	2010	yes	15	walk	450	yes	yes	yes	yes	yes	4	0	95	27500	yes	learning languages	Davis	rear left	Spring08
+male	right	brown	yes	yes	april	12	1987	251	64	2009	yes	15	walk	350	yes	yes	no	yes	yes	8	0	80	25000	yes	Piano	Ioudina	front left	Spring08
+male	left	brown	yes	no	feb	14	1988	242	60		no	30	walk	30	no	yes	no	yes	yes	8	0	65	100000	no	none	Davis	front left	Spring08
+female	right	brown	no	yes	july	29	1988	237	60	2010	yes	15	walk	400	yes	yes	no	yes	yes	6	0	95	30000	no	boogie boarding	Davis	front right	Spring08
+female	left	brown	no	yes	jan	14	1982	315	62	2009	no	30	bus	100	yes	no	no	yes	yes	7	0	90	45000	yes	Drawing	Gould	rear right	Spring08
+female	right	brown	yes	yes	jan	20	1988	242	61	2010	yes	15	walk	850	yes	yes	yes	yes	yes	7	0	95	30000	no	snowboarding	Davis	front left	Spring08
+male	right	brown	yes	yes	oct	6	1988	234	65	2010	yes	20	walk	650	yes	no	no	yes	yes	7	0	60	50000	yes	watch theater shows	Davis	rear left	Spring08
+male	right	brown	yes	yes	april	16	1989	227	67	2011	yes	15	walk	560	yes	yes	no	yes	yes	6	0	90	25000	yes	None	Davis	rear left	Spring08
+female	right	brown	yes	yes	june	20	1988	237	62	2010	yes	15	walk	450	yes	no	no	yes	yes	9	2	30	10234	no	Snowboarding	Davis	rear right	Spring08
+male	right	brown	yes	no	sept	14	1986	259	67	2008	no	20	walk	800	yes	yes	no	yes	yes	6	4	120	60000	no	DIY audio	Davis	front right	Spring08
+female	left	blue	yes	yes	june	23	1989	226	61	2011	yes	15	walk	200	yes	yes	no	yes	yes	9	2	90	5000	yes	Dance	Esfandiari	front left	Spring08
+female	right	blue	no	yes	july	13	1988	237	70	2010	yes	15	walk	225	yes	yes	no	yes	yes	5	0	85	29000	no	Football	Davis	front right	Spring08
+male	right	brown	yes	yes	aug	29	1987	247	67	2010	no	20	walk	700	yes	yes	no	yes	yes	8	2	100	30000	no	sports	Davis	front left	Spring08
+female	right	brown	no	yes	feb	16	1989	229	69	2011	no	40	car (by yourself)	392	yes	yes	no	yes	no	7	0	100	2000	no	watching t.v.	Davis	front right	Spring08
+male	left	brown	yes	no	nov	14	1987	240	70	2010	yes	14	skateboard	102	yes	no	no	yes	yes	7	0	95	22000	no	soccer	Davis	front right	Spring08
+female	right	brown	yes	yes	mar	6	1988	231	63	2010	yes	20	walk		yes	yes	no	yes	yes	6	0	85	3500	no	watching tv	Davis	front left	Spring08
+female	right	brown	yes	yes	june	1	1989	216	63	2011	yes	20	walk		yes	yes	no	yes	yes	7.5		40	40000	yes	coloring	Davis	front left	Spring08
+male	right	brown	yes	yes	feb	11	1989	229	68	2011	yes	12	walk	403	yes	yes	yes	yes	yes	6	0	65	3000	no	Guitar	Kreigler	rear left	Spring08
+female	right	brown	yes	yes	nov	2	1989	219	63	2011	yes	25	walk		yes	no	no	yes	yes	8	6	90	5000	yes	yoga	Davis	front right	Spring08
+female	right	blue	no	yes	may	16	1988	238	66	2010	yes	15	walk	200	yes	yes	no	yes	no	5	1	80	15000	yes	reading	Davis	rear left	Spring08
+female	right	hazel	no	yes	jan	27	1988	242	63	2010	yes	10	walk	430	yes	yes	no	yes	yes	6	0	90	50000	yes	Going to concerts	Davis	front right	Spring08
+female	right	hazel	yes	yes	july	31	1988	232	63	2010	no	20	walk	1600	yes	no	no	yes	yes	7	1	100	20000	yes	playing music	Sugano	front right	Spring08
+male	left	brown	yes	no	dec	22	1988	231	68	2011	yes	30	walk	588	yes	yes	yes	yes	yes	7	0	25	100000	no	Watching basketball games	Sugano	rear left	Spring08
+male	left	brown	yes	no	dec	22	1988	231	68	2011	yes	30	walk	588	yes	yes	yes	yes	yes	7	0	30	100000	no	Watching the Dodgers spank the Giants 5-0 on Opening Day.	Sugano	rear left	Spring08
+male	left	brown	yes	no	dec	22	1988	231	68	2011	yes	30	walk	588	yes	yes	yes	yes	yes	7	0	25	100000	no	Watching basketball games	Sugano	rear left	Spring08
+female	right	brown	yes	yes	oct	29	1989	216	66	2011	yes	15	walk	756	yes	yes	no	yes	yes	9	0	100	35000	yes	running	Sugano	front right	Spring08
+male	right	brown	no	yes	april	25	1988	239	70	2010	yes	10	walk	500	yes	yes	yes	yes	yes	11	0	85	15000	yes	basketball	Sugano	rear right	Spring08
+male	right	brown	yes	yes	nov	28	1988	233	72	2010	yes	20	walk	1000	yes	yes	no	yes	yes	9	0	85	15000	yes	Sleeping	Sugano	front left	Spring08
+female	right	brown	no	no	jan	12	1988	242	65	2010	yes	20	walk	400	yes	yes	no	yes	yes	7	8	95	50000	yes	sports	Sugano	front left	Spring08
+female	right	green	no	yes	may	25	1989	220	64	2011	yes	20	walk	600	yes	yes	no	yes	yes	7	10	100	30000	yes	softball and soccer	Sugano	front left	Spring08
+male	left	brown	no	yes	mar	25	1986	252	71	2008	no	40	bus	312	yes	no	no	yes	yes	8	1	110	3210	no	Poker	Davis	front left	Spring08
+male	right	hazel	no	yes	feb	6	1987	254	72	2009	yes	25	walk	252	yes	yes	no	yes	yes	3	80	142	20000	yes	Baseball	Davis	rear right	Spring08
+female	right	brown	yes	yes	april	24	1987	251	66	2009	no	15	bus	1000	yes	yes	no	yes	yes	5	1	100		no	singing	Davis	front left	Spring08
+female	right	brown	yes	yes	feb	27	1989	229	65	2011	yes	10	walk	600	yes	yes	no	yes	yes	9	1	110	20000	yes	Tennis	Ioudina	rear right	Spring08
+female	right	green	yes	yes	feb	7	1989	229	66	2011	yes	14	walk	511	yes	no	no	yes	yes	8	10	120	32000	yes	paintng	Sugano	front right	Spring08
+male	right	brown	yes	yes	oct	24	1988	234	64	2010	yes	15	walk	605	yes	yes	no	yes	yes	8	0	90	40000	yes	reading sports articles	Davis	rear left	Spring08
+female	right	brown	yes	yes	june	29	1989	216	63	2011	yes	10	walk	300	yes	yes	no	yes	yes	8	0	90	20000	no	guitar	Davis	front right	Spring08
+female	right	brown	yes	yes	dec	17	1987	243	63	2010	yes	15	walk	1200	yes	yes	no	yes	yes	7.5	0	105	20000	yes	baking	Sugano	rear left	Spring08
+female	right	brown	no	yes	nov	6	1989	230	64	2011	yes	20	walk	300	yes	no	no	yes	yes	8	6	90	40000	yes	snowboarding	Davis	front right	Spring08
+female	right	brown	yes	no	sept	18	1989	222	63	2011	yes	20	walk	350	yes	yes	no	yes	yes	8	2	80	20000	no	dance	Davis	front left	Spring08
+female	right	brown	no	yes	dec	12	1987	243	65	2010	yes	15	walk	452	yes	yes	yes	yes	yes	5	0	55	40000	yes	Dragon Boating	Davis	front right	Spring08
+female	right	brown	yes	yes	feb	11	1988	241	67	2010	yes	20	walk	360	yes	yes	no	yes	yes	6	8	90	30000	yes	dancing	Davis	rear right	Spring08
+male	right	brown	yes	no	june	11	1989	225	74	2011	yes	10	walk	200	no	yes	yes	yes	yes	9	0	120	30000	yes	music	Sugano	front left	Spring08
+female	right	brown	no	yes	nov	11	1988	232	62	2010	yes	17	walk	500	yes	yes	no	yes	yes	7	0	100		no	photography	Davis	front right	Spring08
+male	right	brown	yes	yes	dec	8	1987	243	69	2010	yes	12	walk	300	yes	yes	no	yes	yes	5	7	110	25000	no	Basketball	Davis	rear right	Spring08
+female	right	brown	yes	yes	july	23	1986	249	65	2008	yes	20	walk	2000	yes	yes	no	yes	yes	9	0	75	30000	yes	sleeping	Davis	rear right	Spring08
+female	right	blue	no	no	mar	25	1989	228	66	2011	yes	20	walk	2500	no	yes	no	yes	yes	8.5	0	80	20000	yes	soccer	Davis	front right	Spring08
+female	right	brown	no	no	aug	2	1986	256	67	2008	no	20	walk	243	yes	yes	no	yes	yes	6	0	110	10000	no	flying kites	Davis	front left	Spring08
+female	right	hazel	no	no	july	7	1988	237		2010	yes	20	walk	500	yes	no	no	yes	yes	8	0	80	8000	yes	writing	Davis	front left	Spring08
+female	right	brown	yes	yes	feb	15	1986	266	64	2008	no	15	carpool	125	yes	yes	no	yes	yes	4	5	100	13000	yes	Volleyball	Davis	rear right	Spring08
+female	ambidextrous	blue	no	yes	july	2	1989	220	70	2011	yes	6	motorcycle	240	yes	yes	no	yes	yes	5	0	85	35000	no	Water Polo	Davis	front right	Spring08
+female	right	hazel	no	yes	may	23	1988	238	62	2010	yes	20	walk	118	yes	yes	no	yes	yes	6	2	90	20000	no	swimming	Davis	front right	Spring08
+female	right	brown	yes	no	july	15	1988	235	61.5	2010	yes	20	walk	400	yes	yes	no	yes	yes	10	0	80	15000	no	writing fiction	Davis	front right	Spring08
+male	right	brown	yes	yes	jan	9	1988	244	68	2010	yes	15	walk	100	yes	yes	no	yes	yes	10	0	90	1000	yes	Music	Davis	rear left	Spring08
+female	right	brown	no	no	feb	17	1989	228	65	2011	yes	7	walk	1000	yes	no	no	no	no	6	0		200000	no	Playing the Harmonium	Sugano	front right	Spring08
+female	right	blue	yes	yes	sept	2	1988	235	66	2010	yes	10	walk	854	yes	no	yes	yes	yes	8	1	85	8500	yes	surfing	Davis	rear right	Spring08
+female	right	brown	yes	yes	july	17	1989	224	61	2011	yes	15	walk	230	yes	no	no	yes	yes		0	90	25000	no	dancing	Davis	front left	Spring08
+male	right	brown	yes	yes	april	1	1989	225	66	2011	no	60	bus	600	yes	no	no	yes	yes	7	0	65	20000	yes	Wikipediaing...	Davis	front left	Spring08
+female	right	brown	no	yes	mar	5	1986	264	64	2008	no	90	car (by yourself)	300	yes	no	no	yes	yes	8	0	120	25000	yes	painting	Davis	front left	Spring08
+female	right	brown	yes	yes	june	9	1989	225	68	2011	yes	15	walk	365	yes	yes	no	yes	yes	7	0	85	16000	yes	soccer	Davis	rear right	Spring08
+female	right	brown	no	yes	dec	3	1988	231	62	2011	yes	5	walk	450	yes	yes	no	yes	no	7.5	0	85	26000	no	running	Davis	front left	Spring08
+male	right	brown	yes	no	sept	16	1989	222	69	2011	yes	15	walk	450	yes	yes	no	yes	yes	5	1	95	9000	no	none	Davis	front left	Spring08
+female	right	brown	yes	yes	april	20	1986	263	67	2008	no	20	carpool	722	yes	no	no	yes	yes	4	4	120	10000	no	Volleyball	Davis	rear left	Spring08
+male	right	blue	no	yes	nov	28	1987	244	71	2010	yes	15	walk	160	yes	yes	no	yes	yes	7	0	90	20000	yes	Poetry	Davis	front right	Spring08
+female	right	brown	yes	yes	sept	4	1989	222	62	2011	yes	15	walk	357	yes	no	yes	yes	yes	7	0	85	15000	yes	reading	Davis	front left	Spring08
+female	right	green	no	yes	april	8	1989	227	60	2011	yes	15	walk	1000	yes	yes	no	yes	yes	7	15	100	30000	yes	socializing	Sugano	rear right	Spring08
+female	right	blue	yes	no	sept	27	1989	222	63	2011	yes	15	walk	146	yes	yes	no	yes	yes	10	0	75	20000	yes	Watching TV	Davis	front right	Spring08
+male	right	brown	no	yes	april	10	1987	261	67	2009	no	15	walk	1300	yes	no	no	yes	yes	7	0	90	30000	yes	Soccer	Davis	rear left	Spring08
+female	right	brown	yes	yes	mar	10	1989	229	55	2011	yes		walk	240	yes	yes	no	yes	yes	9	0	100	50000	no	movies	Davis	front right	Spring08
+male	right	brown	no	no	feb	14	1988	241	66	2010	yes	20	walk	200	yes	yes	yes	yes	yes	7	0	100	21354	yes	playing music	Davis	front right	Spring08
+female	right	brown	no	yes	oct	12	1988	233	64	2010	yes	15	walk	515	yes	yes	no	yes	yes	9	0	100	30000	no	bowling	Davis	front right	Spring08
+female	right	brown	no	yes	aug	19	1988	236	68	2010	no	25	bus	400	yes	yes	no	yes	yes	11	0	90	30000	no	DANCE	Davis	front left	Spring08
+female	right	brown	no	no	dec	20	1987	244	64	2010	yes	14	walk	412	yes	yes	no	yes	yes	8	2	115	90000	yes	Reading	Davis	front left	Spring08
+male	right	brown	no	yes	april	29	1989	227	68	2011	yes	15	walk	400	yes	yes	no	yes	yes	6	1	115	30000	yes	Running	Davis	front right	Spring08
+female	right	brown	yes	yes	july	5	1988	232	60	2011	yes	15	walk	4000	yes	yes	yes	yes	yes	7	0	45	20000	yes	painting	Davis	front left	Spring08
+male	right	brown	yes	yes	feb	2	1988	242	68	2010	yes	20	walk	666	yes	yes	no	yes	yes	7	0	110	30000	yes	ultimate frisbee	Davis	rear left	Spring08
+female	left	brown	yes	yes	may	23	1988	239	65		yes	15	walk	130	yes	no	no	yes	yes	8	1	90	1800	no	movies	Davis	front right	Spring08
+male	right	brown	yes	yes	mar	7	1989	228	68	2011	yes	15	walk	400	yes	yes	yes	yes	yes	8	0	120	25000	no	none	Davis	front left	Spring08
+female	right	brown	yes	no	aug	24	1987	248	66	2010	yes	13	walk	420	yes	yes	no	yes	yes	7	0	0	30000	yes	watching TV shows	Davis	rear left	Spring08
+female	right	brown	yes	yes	oct	8	1989	222	64	2007	yes	25	walk	492	yes	yes	yes	yes	yes	4	0	90	20000	yes	eating	Davis	rear left	Spring08
+female	right	hazel	no	yes	mar	24	1989	228	66	2011	yes	20	walk	85	yes	yes	no	yes	yes	9	5	95	20000	yes	Violin	Davis	front right	Spring08
+female	right	brown	no	no	jan	18	1988	242	61	2010	yes	20	walk	900	yes	yes	yes	yes	yes	8	0	85	40000	yes	piano	Davis	rear right	Spring08
+female	right	brown	no	yes	sept	14	1987	243	64	2009	no	20	bus	75	yes	yes	no	yes	no	7	0	85	4000	no	dancing	Davis	front left	Spring08
+male	right	blue	yes	yes	nov	30	1988	232	70	2010	yes	30	walk	750	yes	yes	no	yes	yes	9	3	90	25000	yes	tennis	Davis	front left	Spring08
+male	right	blue	no	yes	may	1	1988	239	71	2010	yes	14	walk	700	yes	yes	no	yes	yes	11.5	2	110	30000	yes	Relaxing	Davis	front right	Spring08
+female	right	brown	no	yes	may	17	1989	227	63	2011	yes	15	walk	500	yes	yes	no	yes	yes	8	0	0	20000	no	none	Davis	front left	Spring08
+female	right	hazel	no	yes	feb	28	1989	228	64	2011	yes	20	walk	600	yes	yes	no	yes	yes	6	0	80		yes	Volleyball	Davis	front left	Spring08
+female	right	brown	yes	yes	jan	17	1988	244	62	2010	yes	15	walk	400	yes	yes	no	yes	no	7	0	100	25000	no	drawing	Davis	front left	Spring08
+male	right	brown	no	no	sept	14	1987	246	72	2009	no	10	walk	400	yes	yes	no	yes	no	6	2	90	9000	yes	sports	Davis	front left	Spring08
+female	right	brown	no	yes	jan	3	1987	255	67	2009	no	20	walk	500	yes	yes	no	yes	yes	6	2	95	8000	yes	playing volleyball	Davis	rear left	Spring08
+female	right	green	yes	no	april	23	1989	227	62	2011	yes	20	walk	470	yes	yes	no	yes	yes	10	0	90	20000	yes	Running	Davis	front right	Spring08
+female	left	brown	yes	yes	feb	16	1987	253	63	2009	yes	15	walk		yes	no	no	yes	yes	8	8	95	10000	yes	hiking	Sugano	front left	Spring08
+female	right	hazel	no	yes	april	17	1988	239	63.5	2010	yes	13	walk	564	yes	yes	no	yes	yes	8	0.5	95	34000	yes	dancing	Sugano	front right	Spring08
+female	right	brown	yes	no	sept	3	1987	244	63	2010	yes	20	walk	200	no	yes	no	yes	yes	4	0	70	10000	yes	Drawing	Ioudina	front left	Spring08
+female	right	brown	yes	yes	june	18	1989	224	66	2010	yes	15	walk	553	yes	yes	no	yes	yes	7	0	100	20000	yes	golf	Davis	rear right	Spring08
+female	right	green	yes	no	feb	10	1988	241	65	2010	no	15	walk	660	yes	yes	no	yes	yes	8	0	70	5000	yes	tennis	Sugano	front right	Spring08
+female	right	hazel	yes	yes	july	9	1989	224	67	2011	yes	15	walk	500	yes	no	no	yes	yes	6	0	85	25000	yes	going to the beach	Davis	rear right	Spring08
+female	right	brown	yes	no	mar	28	1989	228	64	2011	yes	12	walk	2000	yes	yes	yes	yes	yes	10	0	110	25000	yes	Running	Ioudina	front left	Spring08
+female	right	brown	yes	no	may	9	1989	226	63	2011	yes	15	walk	640	no	no	no	yes	yes	12	0	85	30000	no	reading	Sugano	rear left	Spring08
+female	left	brown	yes	yes	sept	23	1988	234	62	2010	yes	18	walk	777	yes	yes	yes	yes	yes	7	6	110	5000	yes	playing the guitar and piano	Sugano	front left	Spring08
+male	right	brown	yes	yes	july	31	1987	248	70	2010	yes	10	skateboard	800	yes	yes	no	yes	yes	10	4	100	40000	yes	Music Production	Ioudina	rear left	Spring08
+male	right	brown	yes	no	jan	31	1989	230	68	2011	yes	15	walk	588	yes	yes	yes	yes	yes	7	0	100	30000	no	basketball	Davis	rear right	Spring08
+female	right	brown	yes	yes	oct	18	1988	234	63	2010	yes	15	walk	500	yes	yes	yes	yes	yes	7	0	95	70000	yes	singing	Sugano	rear right	Spring08
+female	right	hazel	no	yes	mar	21	1989	228	64	2011	no	45	car (by yourself)	596	yes	yes	no	yes	no	6	1	90	20000	yes	dancing	Sugano	front right	Spring08
+female	right	brown	no	no	oct	21	1989	221	62	2011	yes	20	walk	350	yes	yes	no	yes	yes	2	0	90	30000	no	arts and crafts	Ioudina	front left	Spring08
+female	left	blue	no	yes	july	7	1988	236	63	2010	yes	20	walk	700	yes	yes	no	yes	yes	7	0	90	10000	no	Working out	Davis	front right	Spring08
+female	right	brown	no	no	sept	4	1988	243	64	2010	no	75	carpool	250	yes	yes	no	yes	no	6	0	75	18000	no	none	Sugano	rear right	Spring08
+female	right	brown	no	no	sept	4	1988	234	64	2010	no	75	carpool	250	yes	yes	no	yes	no	6	0	75	18000	no	none	Sugano	rear left	Spring08
+female	right	brown	no	no	dec	3	1988	231	63.5	2011	yes	30	walk	500	yes	yes	no	yes	no	10	0	50	5000	no	drawing	Sugano	rear right	Spring08
+female	right	brown	yes	yes	mar	24	1988	240	62	2010	yes	20	walk	600	yes	yes	no	yes	yes	8	0	80	30000	yes	Tennis	Sugano	front left	Spring08
+female	right	brown	no	yes	june	8	1989	216	63	2011	no	30	car (by yourself)	800	yes	yes	no	yes	yes	8	0	100	25000	no	shopping	Davis	rear left	Spring08
+female	right	brown	no	yes	june	13	1989	224	70	2011	yes	15	walk	511	yes	yes	yes	yes	yes	6.5	0	95	20000	yes	Volleyball	Davis	rear left	Spring08
+female	ambidextrous	brown	yes	yes	jan	13	1989	231	65		yes	16	walk	250	yes	no	no	yes	no	6	0	92	42000	yes	cartooning	Davis	front left	Spring08
+female	right	brown	yes	yes	june	30	1989	225	61	2011	yes	16	walk	431	yes	yes	no	yes	yes	7	0	0	5000	yes	tennis	Davis	rear left	Spring08
+female	right	brown	yes	yes	dec	26	1987	244	63	2010	yes	20	walk	800	yes	yes	no	yes	no	7	0	90	33000	yes	drawing	Davis	front left	Spring08
+female	right	blue	no	yes	aug	1	1989	219	68	2011	yes	22	walk	450	yes	yes	no	yes	yes	9	5	110	20000	yes	snowboarding	Davis	front left	Spring08
+female	left	hazel	no	yes	june	19	1989	225	66	2011	yes	10	walk	264	yes	no	no	yes	no	8	0	95	20000	yes	riding horses	Davis	front left	Spring08
+female	right	brown	yes	no	aug	29	1987	248	62	2010	yes	15	walk	750	yes	yes	no	yes	yes	6	0	50	20000	yes	violin	Davis	rear right	Spring08
+male	right	hazel	yes	no	june	2	1988	228	72	2010	no	20	car (by yourself)	60	no	yes	yes	yes	yes	6	0	80	30000	no	watching movies	Sugano	rear left	Spring08
+male	right	brown	yes	yes	june	19	1989	225	70	2011	yes	16	walk	300	yes	yes	yes	yes	yes	7.5	0	90	23000	no	making beats	Sugano	rear left	Spring08
+male	right	brown	no	yes	oct	10	1988	233	67	2010	yes	15	walk	500	yes	yes	no	yes	no	7	1	100	20000	no	basketball	Sugano	front left	Spring08
+female	right	hazel	no	yes	dec	12	1988	232	62	2011	yes	12	walk	300	yes	yes	no	yes	yes	7	0	90	30000	yes	tennis	Davis	front right	Spring08
+female	right	hazel	no	yes	dec	12	1988	232	62	2011	yes	12	walk	300	yes	yes	no	yes	yes	7	0	90	30000	yes	tennis	Davis	front right	Spring08
+female	right	brown	no	no	sept	5	1988	233	61	2010	yes	20	walk	900	yes	yes	no	yes	yes	8	2	80	1000	yes	shopping	Sugano	front left	Spring08
+male	right	blue	yes	yes	nov	17	1987	244	68	2010	no	10	walk	325	yes	yes	no	yes	yes	5	1	100	20000	no	Mountain Bikings	Davis	front left	Spring08
+male	left	brown	yes	yes	mar	4	1988	241	68	2010	yes	15	walk	400	yes	yes	yes	yes	yes	8	0	90	40000	yes	Basketball	Davis	front left	Spring08
+male	right	hazel	no	yes	aug	5	1988	231	71	2011	yes	7	skateboard	300	yes	yes	no	yes	yes	5	0	110	35000	no	Socializing	Sugano	front right	Spring08
+female	right	brown	yes	yes	aug	20	1988	235	59	2010	yes	15	walk	700	yes	yes	no	yes	yes	7	0	100	10000	no	watching musicals	Sugano	front left	Spring08
+female	right	brown	yes	no	aug	19	1988	235	62	2010	yes	14	walk	400	yes	yes	yes	yes	yes	9	0	55	20000	yes	Writing novels	Sugano	front right	Spring08
+female	left	blue	no	yes	aug	11	1988	236	66	2010	yes	15	walk	500	yes	yes	no	yes	yes	8	0	100	20000	no	TV	Davis	front right	Spring08
+male	right	brown	yes	yes	june	30	1989	225	66	2011	yes	10	walk	200	yes	yes	yes	yes	yes	7	0	90	22000	yes	Photography	Davis	front left	Spring08
+female	right	brown	yes	yes	dec	9	1988	231	64	2011	yes	15	walk	165	yes	yes	no	yes	yes	5	0	131	10000	no	volleyball	Sugano	front right	Spring08
+male	right	brown	no	yes	april	26	1988	239	71	2010	yes	10	skateboard	500	yes	yes	no	yes	yes	5	1	110	20000	no	basketball	Davis	front left	Spring08
+female	right	brown	yes	yes	jan	2	1987	243	65	2008	no	20	walk	250	yes	yes	no	yes	yes	9	0	100	30000	yes	photography	Davis	front right	Spring08
+female	right	brown	yes	no	jan	19	1988	240	62	2010	yes	10	walk	880	yes	yes	yes	yes	no	7	0	70	1060	yes	Reading	Davis	rear left	Spring08
+female	right	brown	yes	yes	dec	19	1988	231	61	2011	yes	20	walk	860	yes	no	no	yes	yes	8	0	70	18000	yes	pingpong	Davis	front right	Spring08
+female	right	brown	yes	yes	may	17	1988	238	67	2010	no	15	walk	92	yes	yes	no	yes	yes	8	1	100	30000	yes	traveling	Davis	front right	Spring08
+male	right	brown	yes	yes	june	22	1988	228	64.8	2010	no	10	bus	106	yes	yes	no	yes	yes	4	0	100	24000	yes	none	Davis	front right	Spring08
+female	right	brown	yes	yes	feb	23	1989	229	64	2011	yes	15	walk	700	yes	no	yes	yes	yes	6	15	110	24000	yes	reading	Ioudina	rear left	Spring08
+male	right	brown	yes	no	feb	17	1986	266	70	2009	no	11	carpool	202	no	yes	no	yes	yes	6	0	141	20000	no	music	Sugano	front right	Spring08
+male	right	brown	yes	yes	dec	19	1988	232	68	2011	yes	10	walk	230	yes	yes	no	yes	yes	7	0	90	40000	no	Tennis	Sugano	front left	Spring08
+male	right	brown	yes	yes	feb	11	1989	222	68	2011	yes	8	walk	403	yes	yes	yes	yes	yes	6	0	65	30000	no	Guitar	Sugano	rear left	Spring08
+male	right	gray	no	yes	july	16	1989	224	69	2011	yes	11	walk	568	yes	yes	no	yes	yes	5	0	104	22362	no	World of Warcraft	Ioudina	front right	Spring08
+male	left	brown	no	yes	july	30	1988	237	72	2010	yes	15	walk	300	yes	no	no	yes	yes	7	8	95	15000	no	basketball	Sugano	rear left	Spring08
+female	right	green	yes	yes	nov	11	1989	221	67	2011	yes	12	walk	225	yes	yes	no	yes	yes	6	0	93		yes	swimming	Davis	rear right	Spring08
+female	right	green	yes	yes	mar	3	1988	241	64	2010	yes	15	walk	370	no	no	no	yes	yes	7	0	80	37000	yes	Debate	Sugano	front right	Spring08
+female	left	brown	no	yes	jan	22	1988	243	62	2010	yes	15	walk	532	yes	yes	no	yes	yes	6	0	100	25000	no	playing tennis	Davis	rear left	Spring08
+female	right	brown	yes	no	june	21	1988	237	65	2010	yes	15	walk	400	yes	yes	yes	yes	yes	4	0	75	10000	yes	tennis	Sugano	front right	Spring08
+male	right	other	yes	yes	may	1	1989	226	73	2011	yes	13	walk	745	yes	yes	no	yes	yes	7	0	85	40000	yes	music: listening, playing, watching, whatever	Sugano	front left	Spring08
+female	left	hazel	no	yes	sept	2	1987	247	68	2009	no	20	walk	400	yes	yes	no	yes	yes	7	5	95	30000	yes	surfing	Davis	rear left	Spring08
+female	right	brown	yes	yes	jan	26	1989	230	66	2011	yes	15	walk	530	yes	yes	no	yes	yes	6	0	95	50000	yes	swimming	Davis	front right	Spring08
+female	right	brown	no	yes	july	30	1987	244	66	2010	no	14	walk	500	yes	yes	no	yes	no	8	2	100	27000	yes	pole vaulting	Davis	front right	Spring08
+male	right	brown	no	no	nov	19	1987	246	75	2009	yes	15	walk	400	yes	yes	no	yes	yes	7	3	115	25000	no	Soccer	Sugano	rear right	Spring08
+male	right	brown	yes	no	sept	21	1988	234	62	2010	yes	15	walk	405	yes	yes	no	yes	yes	6	0	95	10000	no	Badminton	Davis	rear left	Spring08
+female	right	brown	yes	yes	july	27	1987	244	63	2009	no	20	walk	550	yes	no	no	yes	yes	7.5	0	85	10000	yes	Dance	Davis	front right	Spring08
+male	left	brown	no	yes	sept	5	1986	260	71	2010	yes	13	walk	550	yes	yes	no	yes	no	7	0	110	30000	no	basketball, piano	Davis	front right	Spring08
+male	right	brown	yes	yes	aug	25	1988	236	60	2010	yes	10	walk	700	yes	yes	no	yes	yes	8	0	75	10000	yes	Golf	Ioudina	front right	Spring08
+female	right	blue	yes	no	nov	2	1988	233	61	2011	yes	25	walk	1011	no	yes	no	yes	yes	9		110	30000	yes	Sailing	Davis	front left	Spring08
+male	right	hazel	no	yes	feb	6	1987	254	72	2009	yes	25	walk	252	yes	yes	no	yes	yes	1	75	142	17652	no	Beer Pong	Davis	rear right	Spring08
+male	right	brown	no	yes	may	10	1989	226	72	2011	yes	15	walk	750	yes	yes	no	yes	yes	6.5	0	110	50000	yes	guitar	Davis	front right	Spring08
+male	ambidextrous	hazel	no	yes	jan	28	1989	230	71	2011	yes	17	walk	240	yes	yes	no	yes	no	6	25	135	25000	yes	none	Sugano	rear left	Spring08
+male	left	brown	yes	no	dec	31	1988	231	73	2011	yes	10	walk	1500	no	yes	no	yes	yes	8	5	100	30000	no	basketball	Sugano	front left	Spring08
+female	right	green	no	yes	oct	10	1987	246	66	2009	no	20	walk	300	yes	no	no	yes	yes	8	1	85	5000	yes	Art	Davis	front right	Spring08
+female	left	brown	yes	yes	june	21	1986	263	62	2008	yes	90	bus	273	yes	yes	no	yes	yes	3	0	0	8000	yes	reading	Davis	front left	Spring08
+female	right	brown	yes	yes	april	27	1989	216	63	2011	yes	15	walk	650	yes	no	no	yes	yes	6	0	120	8000	yes	playing my guitar	Davis	front right	Spring08
+female	right	brown	yes	yes	sept	30	1989	233	63	2011	yes	15	walk	500	yes	yes	no	yes	yes	6	0	80	25000	yes	frisbee	Sugano	front left	Spring08
+female	right	brown	yes	yes	mar	3	1988	228	63	2010	yes	20	walk	300	yes	yes	no	yes	yes	6	0	85	3500	no	watching tv	Sugano	rear right	Spring08
+female	right	brown	yes	yes	sept	3	1988	235	67	2010	yes	13	walk	530	yes	yes	no	yes	yes	5	0	100	25000	yes	watching movies	Davis	rear right	Spring08
+male	right	brown	yes	no	aug	27	1988	236	64	2010	yes	15	walk	625	yes	yes	no	yes	no	7	1	90	60000	no	basketball	Davis	front left	Spring08
+male	right	brown	no	yes	jan	11	1989	231	67	2011	yes	15	walk	400	yes	yes	no	yes	yes	8	0	110		yes	Video Games	Davis	front right	Spring08
+male	right	brown	yes	yes	dec	9	1988	231	70	2011	yes	15	walk	800	yes	yes	no	yes	yes	8	0	110	10000	no	Sing	Sugano	rear left	Spring08
+female	right	brown	yes	no	july	14	1988	236	63	2010	yes	15	walk	870	yes	yes	no	yes	yes	7.5	1	85	30000	yes	reading the Bible	Davis	rear left	Spring08
+male	right	brown	no	yes	may	27	1989	227	66	2011	yes	15	walk	600	yes	yes	no	yes	yes	6	0	80	20000	yes	watching movies	Davis	rear right	Spring08
+male	right	brown	no	yes	may	27	1989	227	66	2011	yes	15	walk	600	yes	yes	no	yes	yes	6	0	80	16000	yes	watching movies	Davis	rear right	Spring08
+male	right	brown	no	yes	may	27	1989	227	66	2011	yes	15	walk	600	yes	yes	no	yes	yes	6	0	80	20000	yes	watching movies	Davis	rear right	Spring08
+male	right	gray	yes	no	july	22	1985	273	56	2010	no	15	walk	250	no	yes	no	yes	yes	8	0	90	35000	yes	None	Davis	rear right	Spring08
+male	right	hazel	no	yes	june	8	1986	262	72	2008	no	30	walk	300	yes	yes	no	yes	yes	10	10	145	30000	no	Skiing	Davis	front left	Spring08
+female	right	blue	no	no	jan	18	1989	230	63	2011	yes	20	walk	500	no	yes	no	yes	yes	7	5	100	50000	yes	soccer	Davis	rear right	Spring08
+female	right	brown	yes	no	feb	23	1988	241	65	2010	yes	15	walk	532	yes	yes	no	yes	no	5.5	0	90	21000	no	photography	Davis	front right	Spring08
+female	right	brown	yes	yes	sept	30	1989	219	64	2011	yes	12	walk	516	yes	yes	yes	yes	yes	8	3	100	35000	no	dancing	Davis	rear left	Spring08
+female	right	brown	yes	yes	july	10	1989	225	63	2011	yes	20	walk	200	yes	yes	no	yes	yes	8	18	80	45000	yes	dance	Sugano	front right	Spring08
+female	right	brown	yes	yes	june	11	1988	238	60	2010	yes	13	walk	520	yes	yes	no	yes	no	5	0	80	100000	no	tennis	Davis	rear right	Spring08
+female	right	brown	no	no	dec	26	1987	243	61	2010	yes	15	walk	312	yes	yes	no	yes	no	7	2	125	60000	no	basketball	Davis	front right	Spring08
+male	right	brown	yes	no	april	11	1988	240	67	2010	yes	20	walk	296	no	yes	no	yes	yes	7	0	80	35000	yes	guitar	Davis	front left	Spring08
+male	right	blue	no	yes	oct	4	1988	234	71	2010	yes	15	walk	700	yes	yes	yes	yes	yes	7	0	109	40000	yes	soccer	Sugano	front left	Spring08
+male	left	brown	yes	yes	may	1	1988	228	74	2010	yes	7	skateboard	800	yes	yes	no	yes	yes	8	8	110	10000	no	Basketball	Sugano	front left	Spring08
+male	right	brown	no	no	june	2	1988	239	74	2010	no	8	car (by yourself)	155	no	yes	no	yes	yes	6	0	120	14000	yes	Basketball	Davis	front right	Spring08
+female	right	brown	no	yes	july	1	1988	232	64	2010	yes	17	walk	290	yes	yes	no	yes	yes	7	8	85	15000	no	dancing	Sugano	front right	Spring08
+female	right	brown	yes	yes	oct	28	1988	231	66	2010	yes	20	walk	240	yes	yes	no	yes	yes	7	1	90	20000	no	shopping	Davis	front right	Spring08
+female	right	brown	yes	yes	july	14	1986	260	66	2008	yes	14	walk	73	yes	yes	no	yes	yes	5	14	120	38000	yes	ballet	Davis	front right	Spring08
+female	right	brown	no	yes	feb	25	1988	240	60	2010	yes	30	walk	500	yes	yes	no	yes	yes	6	1	70		yes	none	Davis	front right	Spring08
+female	right	brown	yes	yes	may	25	1988	238	63	2010	yes	13	walk	426	yes	yes	yes	yes	yes	6	0	75	10000	no	music	Davis	rear right	Spring08
+female	right	brown	yes	yes	april	3	1988	240	62	2010	no	25	walk	520	yes	yes	no	yes	yes	5	0	50	25000	yes	Writing	Davis	front left	Spring08
+female	right	brown	yes	no	oct	15	1988	228	62	2011	yes	15	walk	600	yes	no	no	yes	yes	6	0	100	2000	yes	Singing	Davis	front right	Spring08
+female	right	brown	yes	yes	april	18	1989	227	65	2011	yes	15	walk	650	yes	yes	no	yes	yes	7.5	0	85	40000	yes	basketball	Davis	rear left	Spring08
+female	right	green	no	yes	mar	10	1989	228	67	2011	yes	15	walk	88	yes	no	no	yes	yes	9	2.5	70	25000	yes	painting	Davis	front right	Spring08
+male	right	brown	no	yes	july	1	1988	237	68	2009	yes	15	walk	530	yes	no	no	yes	yes	6	2	90	40000	yes	Gymnastics	Davis	front right	Spring08
+female	right	brown	yes	yes	oct	22	1989	216	65	2011	no	40	bus	350	yes	no	no	yes	yes	8	0	75	9000	yes	eating	Davis	rear right	Spring08
+female	right	brown	yes	no	april	1	1989	228	63	2011	yes	20	walk	480	yes	yes	no	yes	no	8	0	70	5000	yes	running	Davis	rear left	Spring08
+male	right	blue	no	yes	jan	26	1989	230	76	2011	yes	12	walk	400	yes	yes	no	yes	yes	8	2	100	25000	yes	Fantasy Sports	Sugano	rear right	Spring08
+male	right	blue	no	yes	aug	27	1989	223	73	2011	yes	12	walk	500	yes	yes	yes	yes	yes	9	10	120	50000	yes	Smoking weed.	Sugano	front right	Spring08
+female	right	blue	yes	no	jan	19	1989	228	73	2011	yes	20	walk	800	no	yes	no	yes	yes	7	0	100	65764	yes	piano	Ioudina	front left	Spring08
+female	right	blue	no	yes	nov	11	1989	220	64	2011	yes	20	walk	98	yes	yes	no	yes	yes	8	0	85	9000	yes	Guitar	Ioudina	front right	Spring08
+female	right	blue	no	yes	aug	4	1989	224	64	2011	yes	15	walk	400	yes	yes	no	yes	no	7	1	85	7000	yes	running	Sugano	front left	Spring08
+female	right	brown	yes	yes	june	23	1989	226	67	2010	yes	15	walk	360	yes	no	no	yes	yes	9	0	95	30000	yes	running	Sugano	front right	Spring08
+female	right	hazel	no	no	jan	27	1987	254	72	2009	no	10	walk	1000	no	no	no	yes	yes	8	2	100	25000	yes	volleyball	Sugano	front left	Spring08
+male	right	green	no	yes	july	17	1989	224	70	2011	yes	15	walk	86	yes	yes	no	yes	yes	7	3	100	30000	no	watching movies	Ioudina	rear right	Spring08
+female	right	green	yes	yes	jan	8	1988	243	60	2010	yes	15	walk	700	yes	yes	no	yes	yes	5	1	90	20000	no	none	Ioudina	rear left	Spring08
+male	right	brown	yes	no	oct	28	1988	234	73	2010	yes	15	walk	700	yes	yes	no	yes	yes	8	4	120	25000	no	outdoors stuff	Ioudina	front right	Spring08
+female	right	brown	yes	yes	nov	27	1988	232	62	2010	yes	15	walk	150	yes	yes	no	yes	yes	4	1	95	35000	yes	running	Ioudina	front right	Spring08
+male	right	green	yes	yes	jan	15	1988	243	75	2009	yes	50	car (by yourself)	145	yes	yes	no	yes	yes	6.5	0	120	25000	no	soccer	Ioudina	front right	Spring08
+female	right	blue	no	yes	aug	19	1989	223	66	2011	yes	15	walk	175	yes	yes	no	yes	yes	6	1	85	10000	yes	Mock Trial	Ioudina	front left	Spring08
+female	right	hazel	yes	no	june	10	1989	226	66	2011	yes	20	walk	350	yes	yes	no	yes	yes	8	4	85	20000	yes	running	Sugano	front right	Spring08
+female	right	brown	no	yes	july	10	1989	216	65	2011	yes	20	walk	201	yes	yes	no	yes	yes	7	0	90	30000	no	watching movies	Ioudina	front right	Spring08
+male	right	hazel	yes	yes	jan	6	1986	267	73	2009	no	15	car (by yourself)	60	yes	yes	no	yes	yes	7	1	110	23000	yes	hiking	Ioudina	front right	Spring08
+female	right	blue	no	yes	aug	19	1989	223	66	2011	yes	15	walk	175	yes	yes	no	yes	yes	6	1	85	10000	yes	Mock Trial	Ioudina	front left	Spring08
+female	right	blue	yes	no	april	9	1986	252	65	2010	no	13	carpool	62	yes	yes	no	yes	yes	9	0	110	18000	yes	cooking	Sugano	rear right	Spring08
+female	right	brown	yes	yes	sept	14	1988	231	69	2010	yes	12	walk	560	yes	yes	yes	yes	yes	8	50	85	20000	yes	shabbat	Sugano	front left	Spring08
+male	right	brown	no	yes	april	8	1989	228	60	2011	yes	15	walk	750	yes	yes	no	yes	yes	8	0	135	26000	yes	listening to music	Ioudina	front right	Spring08
+female	right	brown	yes	yes	mar	4	1988	241	64	2010	yes	20	walk	254	yes	yes	no	yes	yes	8	0	80	50000	yes	Making clothes	Ioudina	front right	Spring08
+female	left	blue	yes	no	july	20	1989	225	65	2011	yes	10	walk	250	yes	yes	no	yes	yes	8	0	100	50000	yes	reading	Ioudina	rear left	Spring08
+female	right	brown	yes	no	nov	14	1988	228	62	2011	yes	15	walk	500	yes	yes	no	yes	yes	5	0	42	40000	no	computer games	Ioudina	rear left	Spring08
+male	right	brown	yes	yes	june	12	1988	238	64	2010	no	15	walk	12	no	no	no	yes	yes	7	0	95	29000	yes	Taekwondo	Ioudina	front right	Spring08
+male	right	blue	no	yes	april	7	1986	264	76	2009	yes	15	walk	800	yes	no	no	yes	yes	4	5	145	15000	yes	LSD and Muay Thai	Ioudina	front right	Spring08
+female	ambidextrous	brown	no	yes	oct	25	1989	221	68	2011	yes	15	walk	500	yes	yes	yes	yes	yes	5	0	90	30000	no	dance	Ioudina	front left	Spring08
+female	right	blue	yes	yes	jan	10	1988	242	71	2010	no	5	motorcycle	1100	yes	yes	no	yes	yes	5	8	110	30000	no	working out	Davis	front right	Spring08
+female	right	hazel	yes	no	july	17	1987	249	66	2009	no	25	bus	350	yes	yes	no	yes	yes	5	3	90	35000	yes	Singing	Sugano	rear left	Spring08
+female	right	green	yes	yes	jan	27	1988	242	66	2010	yes	10	walk	150	yes	yes	no	yes	yes	7	1	85	30000	yes	Sailing	Davis	front right	Spring08
+female	right	hazel	no	yes	june	4	1989	226	63	2011	yes	20	walk	435	yes	yes	no	yes	yes	10	5	85	40000	yes	Soccer	Ioudina	rear right	Spring08
+male	right	brown	no	yes	july	27	1988	236	70	2010	yes	25	walk	256	yes	yes	no	yes	yes	7.5	0	50	40000	yes	Video Games	Ioudina	rear left	Spring08
+female	right	gray	no	yes	oct	4	1989	222	67	2011	yes	15	walk	365	yes	yes	no	yes	yes	8	1	120	30000	yes	listening to music	Ioudina	front right	Spring08
+male	right	brown	yes	no	aug	19	1988	236	72	2011	yes	20	walk	500	yes	yes	yes	yes	yes	6	1	145	40000	no	Guitar, basketball	Ioudina	rear left	Spring08
+male	right	brown	yes	yes	oct	4	1988	226	70	2010	yes	7	bicycle	1900	yes	yes	no	yes	no	6	0	107	35000	yes	Reading my Bible	Ioudina	front right	Spring08
+male	right	brown	no	yes	may	10	1990	215	72	2011	yes	12	walk	550	yes	yes	no	yes	no	8	0	60	35000	no	soccer	Ioudina	rear right	Spring08
+male	right	brown	no	yes	mar	31	1987	252	70	2009	no	20	walk	500	no	no	no	yes	yes	9	5	140	20000	no	Snowboarding	Ioudina	front left	Spring08
+female	right	brown	no	no	feb	17	1987	254	66	2009	no	30	bus	460	yes	no	no	yes	yes	6	0	25	60000	yes	swimming	Ioudina	front right	Spring08
+male	right	brown	yes	yes	nov	3	1988	232	67	2011	yes	20	walk	300	yes	yes	no	yes	yes	8	0.5	80	5000	yes	art	Ioudina	rear left	Spring08
+female	right	brown	yes	yes	mar	3	1988	241	71	2010	yes	15	walk	170	yes	yes	no	yes	yes	8	0	85	40000	yes	singing	Ioudina	front left	Spring08
+female	right	brown	yes	yes	jan	13	1989	232	68	2011	no	45	bus	560	yes	yes	no	yes	yes	6	0	55	39000	yes	reading	Ioudina	front left	Spring08
+female	right	hazel	no	yes	feb	11	1989	229	65	2011	yes	60	carpool	56	yes	yes	no	yes	yes	5	0	45	40000	no	hockey	Ioudina	rear left	Spring08
+female	right	brown	no	yes	feb	2	1988	242	66	2010	yes	15	walk	700	yes	yes	no	yes	yes	3	2		5000	no	sleeping	Ioudina	rear right	Spring08
+female	left	brown	no	yes	feb	3	1988	242	67	2010	yes	12	walk	400	yes	yes	no	yes	yes	6	15	125	5000	no	sleeping	Ioudina	rear left	Spring08
+male	left	blue	no	no	feb	14	1989	229	70	2011	yes	12	walk	695	yes	yes	no	yes	yes	5	6	98	30000	no	working out	Ioudina	rear left	Spring08
+female	right	brown	no	yes	feb	6	1988	241	62	2010	yes	20	walk	665	yes	yes	no	yes	yes	9	3	120	27000	no	beach	Ioudina	front right	Spring08
+male	right	blue	yes	yes	nov	11	1983	295	68	2011	no	10	walk	600	yes	yes	yes	yes	yes	4	5	95	20000	no	Snowboarding, surfing, skateboarding, Programming	Ioudina	rear left	Spring08
+female	left	brown	yes	yes	feb	9	1989	229	65	2011	yes	15	walk	256	yes	no	no	yes	yes	7	0	130	20000	no	Photography	Davis	rear left	Spring08
+male	right	green	yes	yes	aug	29	1989	208	71	2011	yes	15	walk	700	yes	yes	no	yes	yes	8	2	90	25000	yes	sports	Ioudina	front right	Spring08
+male	right	brown	yes	yes	jan	27	1988	244	58	2010	yes	20	walk	1000	yes	yes	yes	yes	no	7	1	90	20000	yes	soccer	Ioudina	front right	Spring08
+male	right	brown	yes	no	jan	1	1984	288	60	2010	no	40	car (by yourself)	60	no	yes	no	yes	no	8	0	100	10000	no	basketball	Ioudina	front left	Spring08
+male	right	brown	yes	no	aug	26	1988	224	68.9	2009	no	35	bus	42	no	yes	no	yes	yes	7	0	90	35000	yes	table tennis	Ioudina	front right	Spring08
+female	left	brown	yes	yes	aug	21	1986	272	58	2008	no	60	bicycle	300	yes	no	no	no	yes	4	2	100	23000	yes	biking	Ioudina	front right	Spring08
+female	right	brown	yes	yes	feb	14	1990	217	63	2011	yes	25	walk	267	yes	yes	no	yes	yes	8	0	85	35000	yes	Dance	Davis	front right	Spring08
+female	right	blue	yes	yes	mar	9	1989	229	72	2011	yes	15	motorcycle	740	yes	no	yes	yes	yes	8	0	90	20000	yes	beach volleyball	Davis	rear left	Spring08
+female	right	brown	yes	yes	dec	29	1987	243	65	2010	yes	10	walk	256	yes	no	no	yes	no	8	0	20	30000	yes	reading	Davis	rear left	Spring08
+female	right	brown	no	yes	dec	8	1987	232	65	2010	no	10	motorcycle	200	yes	no	no	yes	yes	7	2	110	30000	yes	swimming	Davis	front right	Spring08
+female	right	blue	yes	yes	feb	13	1985	277	60	2009	no	60	car (by yourself)	55	yes	no	no	yes	yes	10	0	110	100000	yes	writing	Davis	rear left	Spring08
+male	right	hazel	no	yes	june	20	1989	224	72	2011	yes	15	walk	670	yes	yes	no	yes	yes	7	0	100	20000	yes	Running	Davis	front right	Spring08
+male	right	brown	no	no	oct	20	1989	221	67	2011	yes	5	skateboard	400	yes	yes	yes	yes	yes	6	6	110	38642	no	guitar	Sugano	front left	Spring08
+male	right	brown	yes	yes	mar	1	1989	228	67	2011	yes	15	walk	300	yes	yes	yes	yes	yes	7	5	117	30000	yes	music	Ioudina	front left	Spring08
+female	right	brown	yes	yes	feb	27	1989	229	65	2011	yes	13	walk	600	yes	yes	no	yes	yes	8	1	110	20000	yes	tennis	Ioudina	rear left	Spring08
+female	right	brown	no	yes	july	7	1988	232	64	2010	yes	25	walk	2000	yes	no	no	yes	yes	6	1	95	20000	yes	Shopping	Ioudina	rear right	Spring08
+male	right	brown	yes	no	jan	8	1989	231	65	2011	yes	20	walk	432	no	yes	yes	yes	yes	12	2	130	30000	yes	photography	Ioudina	front left	Spring08
+female	right	brown	yes	no	april	18	1989	227	67	2011	yes	18	walk	212	no	yes	no	yes	yes	9	2	65	45000	yes	tennis	Ioudina	rear left	Spring08
+female	right	brown	yes	no	july	5	1984	285	64	2009	no	45	car (by yourself)	300	yes	no	no	yes	yes	10	1	100	10000	yes	slepping	Ioudina	front left	Spring08
+female	right	hazel	no	no	jan	27	1987	255	66	2010	no	25	walk	30	yes	yes	no	yes	yes	8	3	100	15000	yes	Freestyle Skiing	Ioudina	front left	Spring08
+female	right	brown	yes	yes	oct	5	1987	243	62	2009	no	65	bus	400	yes	yes	no	yes	yes	6	0	90	15000	no	dancing	Ioudina	front right	Spring08
+male	right	brown	no	yes	feb	23	1987	254	58	2009	no	7	carpool	300	yes	no	no	yes	yes	9	0	110		no	herbal refreshments	Davis	front right	Spring08
+female	right	brown	yes	yes	feb	4	1988	240	62	2010	yes	20	walk	500	yes	yes	no	yes	yes	6	0	60	20000	yes	playing piano	Ioudina	front right	Spring08
+male	right	brown	yes	no	dec	23	1986	243	71	2010	no	20	walk		yes	yes	no	yes	yes	9	1	100	60000	no	Snowboard	Ioudina	rear right	Spring08
+female	right	blue	yes	yes	oct	8	1987	312	63	2010	yes	20	walk	600	yes	no	no	yes	no	8	0	100	40000	no	none	Ioudina	front left	Spring08
+male	left	brown	no	yes	sept	7	1988	235	77	2011	yes	20	walk	513	yes	yes	yes	yes	yes	5	15	143	18000	yes	Basketball	Ioudina	front right	Spring08
+male	right	brown	yes	no	nov	8	1988	232	68	2010	no	20	bus	257	yes	yes	no	yes	yes	9	3	95	8522	yes	basketball	Ioudina	front left	Spring08
+female	right	blue	no	yes	april	18	1989	228	61	2011	yes	15	walk	450	yes	no	no	yes	yes	8	1	90	40000	yes	listening to music	Ioudina	front right	Spring08
+female	right	brown	yes	yes	june	20	1988	240	61	2010	yes	15	walk	320	yes	yes	yes	yes	yes	9	1	0	14000	no	singing	Ioudina	front right	Spring08
+male	right	brown	yes	yes	april	12	1987	251	64	2009	yes	15	walk	350	yes	yes	no	yes	yes	8	0	80	25000	yes	piano	Ioudina	front left	Spring08
+male	right	brown	yes	yes	aug	18	1989	217	64	2011	yes	15	walk	300	yes	yes	yes	yes	no	6	0	70	20000	no	none	Ioudina	front left	Spring08
+male	right	other	yes	yes	sept	4	1989	224	71	2011	yes	12	walk	400	yes	yes	no	yes	yes	9	0	80	5000	yes	Tennis	Ioudina	front right	Spring08
+female	right	hazel	no	yes	may	24	1989	216	66	2011	yes	15	walk	575	yes	yes	no	yes	yes	9		90	42000	no	napping	Ioudina	rear left	Spring08
+male	ambidextrous	brown	yes	no	may	27	1988	228	67	2010	yes	10	skateboard	8	no	yes	no	yes	yes	8.5	0	110	35000	yes	tennis	Ioudina	rear right	Spring08
+male	right	blue	no	yes	feb	22	1989	230	73	2011	yes	10	walk	450	yes	yes	no	yes	yes	10	20	104	20000	no	sports	Ioudina	front left	Spring08
+male	right	brown	no	yes	jan	28	1989	231	68	2011	yes	15	walk	64	yes	yes	no	yes	yes	9	4	120	42000	no	basketball	Ioudina	rear right	Spring08
+male	right	brown	yes	yes	may	13	1988	239	66	2010	yes	15	walk	470	yes	yes	no	yes	yes	7	2	125	35000	no	Playing video games	Davis	rear left	Spring08
+male	right	brown	no	no	april	10	1988	240	69	2010	yes	10	walk	500	yes	yes	yes	yes	yes	7	0	110		no	Music	Sugano	front right	Spring08
+male	right	brown	yes	yes	sept	20	1987	246	70	2008	yes	20	walk	21	yes	yes	no	yes	yes	7	0	92	10000	yes	Sitting down	Ioudina	front left	Spring08
+female	right	brown	yes	no	may	7	1988	239	61	2010	yes	30	walk	300	yes	yes	no	yes	yes	10	1	130	30000	no	sleeping	Ioudina	front right	Spring08
+female	right	brown	yes	yes	july	22	1988	236	63	2010	yes	15	walk	550	yes	yes	no	yes	yes	6	0	91	50000	yes	Badminton	Ioudina	rear right	Spring08
+male	right	brown	yes	yes	aug	25	1988	236	60	2010	yes	10	walk	650	yes	yes	no	yes	yes	8	0	75	10000	yes	Read	Ioudina	front right	Spring08
+male	right	brown	no	yes	april	3	1988	240	70	2010	yes	20	walk	500	yes	yes	no	yes	yes	4	0	110	25000	no	Community Service	Ioudina	front right	Spring08
+female	left	brown	yes	yes	jan	3	1989	231	63	2010	yes	15	walk	400	yes	yes	no	yes	yes	9	0	85	12000	no	watching movies	Ioudina	front left	Spring08
+male	right	brown	yes	yes	sept	9	1989	223	71	2011	yes	20	walk	220	yes	yes	no	yes	yes	8	0	80	30000	no	running	Ioudina	front right	Spring08
+female	right	blue	yes	yes	nov	28	1989	220	70	2011	yes	10	walk	260	yes	yes	yes	yes	yes	6	0	100	20000	yes	travelling	Ioudina	front left	Spring08
+female	left	hazel	no	no	jan	15	1988	243	68	2010	no	19	walk	900	yes	yes	yes	yes	yes	9	9	110	15000	yes	Shopping	Ioudina	front left	Spring08
+male	right	blue	yes	yes	july	7	1988	233	73	2010	yes	15	walk	900	yes	yes	no	yes	yes	9	0	95	25000	yes	Basketball	Ioudina	front right	Spring08
+female	right	green	no	no	feb	4	1988	242	65	2010	yes	13	walk	250	yes	no	no	yes	yes	6	8	90	15000	yes	reading	Ioudina	front left	Spring08
+female	right	brown	yes	no	jan	27	1987	243	67	2009	yes	20	walk	500	yes	yes	no	yes	no	9	0	90	50000	yes	drawing	Ioudina	front right	Spring08
+female	right	brown	yes	no	mar	22	1989	217	66	2011	yes	30	walk	80	yes	yes	no	yes	yes	3	0	80	2000	no	watch movies	Ioudina	front right	Spring08
+female	right	green	no	yes	june	6	1989	226	62	2011	yes	15	walk	400	yes	yes	yes	yes	yes	6	12	110	10000	yes	soccer	Ioudina	rear right	Spring08
+male	right	blue	no	yes	july	25	1983	296	72.5	2009	no	20	motorcycle	900	yes	yes	no	yes	yes	4	3	150	25000	no	snowboarding	Ioudina	front right	Spring08
+female	right	brown	yes	no	april	17	1987	243	61	2010	no	20	walk	500	yes	yes	no	yes	yes	7	0	90	30000	no	arts and crafts	Ioudina	rear left	Spring08
+male	right	brown	yes	yes	feb	5	1987	252	64	2009	no	15	walk	300	yes	yes	no	yes	yes	6	0	0	30000	yes	watching movies	Ioudina	rear right	Spring08
+female	right	hazel	no	no	mar	12	1988	240	65	2010	yes	30	walk	500	yes	yes	no	yes	yes	5	1	90	44000	no	dancing	Ioudina	rear left	Spring08
+male	right	green	no	yes	april	16	1986	264	74	2008	no	15	walk	770	yes	yes	no	yes	yes	6	7	90	40000	yes	working out	Davis	rear left	Spring08
+female	right	hazel	yes	yes	oct	11	1984	281	64	2008	no	20	car (by yourself)	309	yes	no	no	yes	yes	10	1	90	28000	no	painting	Davis	rear left	Spring08
+male	right	brown	no	yes	feb	8	1989	229	72	2012	no	20	other	76	yes	yes	no	yes	yes	5	0	110	30000	yes	martial arts	Davis	front right	Spring08
+female	right	hazel	no	yes	april	26	1987	252	63	2009	yes	20	bus	250	yes	yes	no	yes	yes	8	0	100	40000	yes	decorating	Davis	rear right	Spring08
+female	right	brown	yes	no	june	5	1986	262	63	2008	no	15	car (by yourself)	600	yes	yes	no	yes	no	10	1	90	5000	no	Cooking	Davis	front left	Spring08
+female	right	brown	yes	yes	feb	12	1989	230	64	2010	yes	20	walk	860	yes	yes	yes	yes	yes	7	2	90	25000	yes	painting	Sugano	front right	Spring08
+female	right	brown	yes	yes	feb	12	1988	241	65	2010	yes	20	walk	200	yes	yes	no	yes	yes	8	0	90	100000	yes	tennis	Davis	front left	Spring08
+female	right	blue	yes	no	aug	27	1985	272	67	2008	no	15	car (by yourself)	280	yes	no	no	yes	yes	7	2	110	10000	yes	painting	Davis	front left	Spring08
+female	right	green	no	yes	april	26	1988	240	61.5	2010	yes	20	walk	368	yes	yes	no	yes	yes	7	0	95	40000	no	reading	Sugano	front left	Spring08
+male	right	brown	yes	yes	june	30	1988	238	75	2010	yes	12	walk	250	yes	yes	yes	yes	yes	5	0	105	35000	yes	Guitar	Sugano	front left	Spring08
+female	right	amber	yes	yes	mar	12	1989	229	68	2011	yes	15	walk	440	yes	yes	no	yes	yes	5	8	98	30000	yes	salsa dancing	Davis	front right	Spring08
+female	right	brown	no	yes	aug	12	1989	237	66	2011	yes	15	walk	327	yes	no	no	yes	yes	7	0	80	23000	yes	dancing	Davis	front left	Spring08
+male	right	hazel	yes	yes	feb	27	1987	253	69	2008	no	15	walk	85	yes	yes	no	yes	yes	3	0	110	10000	no	working out	Davis	front left	Spring08
+male	right	brown	no	yes	jan	28	1989	230	69	2011	yes	15	walk	920	yes	yes	yes	yes	yes	7	0	85	20000	yes	tennis	Davis	front left	Spring08
+female	right	brown	yes	no	oct	5	1987	246	63	2010	no	15	walk	400	yes	yes	no	yes	no	8	0	90	23000	yes	Dance	Davis	front left	Spring08
+female	left	brown	no	no	june	12	1988	238	69	2010	no	5	walk	650	yes	yes	no	yes	yes	7	2	105	10000	yes	reading	Davis	front left	Spring08
+female	right	brown	no	no	nov	18	1988	232	65	2010	yes	20	walk	400	yes	yes	no	yes	yes	2	10	130	10000	no	NONE	Davis	front right	Spring08
+female	right	brown	no	yes	feb	28	1988	242	69	2010	yes	20	walk	520	yes	yes	no	yes	yes	7	0	83	15000	no	music	Davis	rear right	Spring08
+female	right	brown	no	yes	nov	19	1985	268	64	2009	no	90	car (by yourself)	400	yes	no	no	yes	yes	6	0	90	8000	no	dancing	Davis	front left	Spring08
+male	left	brown	yes	yes	june	5	1987	249	72	2009	yes	15	walk	750	yes	yes	no	yes	yes	10	2	75	1000	yes	Travel	Davis	rear left	Spring08
+female	right	blue	no	yes	oct	12	1989	222	69	2011	yes	14	walk	150	yes	yes	no	yes	yes	9	0	100	9000	yes	Track and Field	Sugano	front right	Spring08
+male	right	brown	yes	yes	june	30	1989	226	65	2011	yes	15	walk	353	yes	yes	no	yes	yes	8	0	85	24000	no	nono	Sugano	rear left	Spring08
+female	right	amber	yes	yes	oct	27	1989	222	67	2011	yes	15	walk	325	yes	no	no	yes	yes	6	7	100	50000	yes	dance	Sugano	rear left	Spring08
+male	right	hazel	yes	yes	nov	30	1989	220	72	2011	yes	15	walk	330	yes	yes	no	yes	yes	9	0	120		no	basketball	Davis	front left	Spring08
+female	right	brown	no	yes	jan	7	1989	231	64	2011	yes	20	walk	168	yes	yes	no	yes	yes	12	0	65	15000	no	dance	Sugano	front right	Spring08
+female	right	brown	yes	yes	may	2	1989	224	67	2011	yes	20	walk	385	yes	yes	no	yes	yes	7	0	55	20000	yes	puzzle-making	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	dec	13	1987	240	64	2010	yes	15	walk	320	yes	no	no	yes	yes	6	1	105	30000	yes	Shopping	Kreigler	front right	Winter08
+female	left	brown	no	yes	mar	19	1989	226	66	2011	yes	15	walk	305	yes	no	no	yes	yes	7	0	90	45000	no	exercising	Davis	front left	Winter08
+female	right	brown	no	yes	aug	5	1989	221	66	2011	yes	20	walk	200	yes	no	no	yes	yes	6	0	95	30000	no	basketball	Davis	front left	Winter08
+female	right	brown	yes	no	june	21	1989	223	62.5	2011	yes	20	walk	462	yes	yes	no	yes	yes	7	0	102	20000	no	tap dancing	Davis	rear left	Winter08
+female	right	hazel	yes	yes	may	10	1989	223	61	2011	yes	7	walk	280	yes	yes	no	yes	yes	4	0	90	40000	no	tennis	Davis	front right	Winter08
+female	right	hazel	yes	no	may	4	1988	236	70	2010	yes	15	motorcycle	300	yes	no	no	yes	yes	6	0	105	1000	no	Tennis	Davis	front right	Winter08
+female	right	brown	yes	yes	oct	23	1989	219	64	2011	yes	20	walk	500	yes	yes	no	yes	yes	7	0	90	22000	yes	baking	Kreigler	front left	Winter08
+male	right	brown	yes	no	april	21	1988	237	70	2010	yes	15	walk	423	yes	yes	yes	yes	yes	6	0	120	35000	yes	video games	Davis	front right	Winter08
+female	right	green	no	yes	feb	15	1989	227	64		yes		walk		yes	yes	yes	yes	yes					yes		Davis	front left	Winter08
+male	right	brown	yes	yes	nov	25	1989	218	69	2011	yes	7	skateboard	395	yes	no	no	yes	yes	6.25	2	90	10000	yes	rock climbing	Davis	front right	Winter08
+female	right	brown	no	yes	july	24	1988	234	68	2010	yes	15	walk	600	yes	no	no	yes	yes	6.5	3	120	30000	yes	dance	Davis	front left	Winter08
+female	left	amber	no	yes	feb	2	1989	227	65	2011	yes	15	walk	286	yes	yes	no	yes	yes	7	0	75	20000	yes	Writing	Davis	rear left	Winter08
+female	right	brown	no	yes	mar	16	1986	261	64	2008	no	30	carpool	33	yes	yes	no	yes	yes	7	0	60	30000	no	cooking	Davis	front left	Winter08
+female	right	brown	yes	yes	aug	23	1989	220	63	2011	yes	15	walk	366	yes	yes	no	yes	yes	7	1	70	11000	no	listening to music	Davis	rear right	Winter08
+female	right	hazel	no	yes	aug	11	1989	220	67	2011	yes	15	walk	200	yes	yes	no	yes	yes	7	0	80	20000	no	Basketball	Davis	rear right	Winter08
+male	right	brown	yes	no	may	23	1985	271	67	2008	no	15	walk	250	yes	yes	no	yes	yes	4	0	100	50000	no	soccer	Davis	rear right	Winter08
+male	right	brown	no	yes	april	14	1988	237	65	2010	no	25	walk	304	yes	yes	no	yes	yes	5	0	100	35000	yes	I produce hip hop music	Davis	rear left	Winter08
+female	right	brown	no	yes	oct	2	1988	231	62	2010	yes	20	walk	700	yes	yes	no	yes	yes	7	3	90	45000	yes	dance	Davis	front right	Winter08
+female	right	brown	no	yes	mar	24	1988	238	65	2010	yes	15	walk	400	yes	yes	no	yes	yes	7	0	95	6000	yes	scrapbooking	Davis	front left	Winter08
+male	right	brown	yes	yes	sept	29	1988	232	72	2010	yes	20	walk	500	yes	yes	yes	yes	yes	4	5	90	5000	no	sports	Davis	front left	Winter08
+female	left	brown	yes	yes	oct	20	1988	231	66	2011	yes	15	walk	300	yes	yes	no	yes	yes	8	4	70	45000	yes	swimming	Davis	rear left	Winter08
+male	right	hazel	yes	yes	mar	23	1987	250	68	2009	no	15	bicycle	625	yes	yes	no	yes	yes	6	1	130	25000	no	Games	Davis	rear left	Winter08
+male	left	brown	yes	no	april	7	1987	249	71	2010	yes	15	walk	350	yes	yes	no	yes	yes	6	2	90	40000	yes	tennis	Davis	front left	Winter08
+female	right	hazel	no	yes	mar	22	1988	238	66	2010	no	10	walk	300	yes	yes	no	yes	yes	7	4	95	36000	yes	soccer	Davis	front left	Winter08
+female	right	brown	yes	yes	april	21	1987	249	62	2009	yes	25	walk	595	yes	yes	no	yes	yes	6.5	0	80	18000	no	running	Davis	front right	Winter08
+male	right	brown	no	yes	nov	12	1988	230	72	2010	no	10	bicycle	240	yes	yes	no	yes	yes	6	15	110	27000	yes	Sailing	Davis	front right	Winter08
+female	right	brown	yes	yes	may	5	1989	224	61	2011	yes	15	walk	81	yes	yes	no	yes	yes	6	0	80	30000	no	dance	Davis	front left	Winter08
+female	right	brown	no	yes	oct	27	1989	219	64	2011	yes	15	walk	850	yes	yes	no	yes	yes	6.5	3	85	70000	no	field hockey	Davis	front right	Winter08
+female	right	green	no	yes	feb	15	1989	227	64		yes	15	walk	300	yes	no	no	yes	yes	7	1	80	50000	no	drawing	Davis	rear right	Winter08
+female	right	blue	no	yes	june	26	1988	235	62	2010	yes	20	walk	200	yes	yes	no	yes	yes	6.5	0	85	20000	yes	salsa dancing	Davis	front right	Winter08
+female	right	brown	yes	yes	sept	21	1988	232	63	2010	yes	15	walk	994	yes	yes	no	yes	yes	5	0	65	25000	yes		Davis	front right	Winter08
+female	right	brown	yes	no	aug	1	1987	245	62	2010	yes	20	walk	85	yes	yes	yes	yes	yes	5	3	90	25000	yes	Dance	Davis	front right	Winter08
+female	right	green	yes	yes	jan	14	1988	240	66	2010	yes	12	walk	300	yes	yes	no	yes	yes	8	3	85	10000	yes	Snowboarding	Davis	front left	Winter08
+male	right	brown	no	no	may	7	1988	236	71	2010	no	60	car (by yourself)	600	yes	yes	yes	yes	no	6	3	110	10000	no	snowboarding	Davis	rear left	Winter08
+female	right	brown	no	yes	oct	2	1988	231	63	2011	yes	20	walk	350	yes	yes	no	yes	yes	6	0	90	30000	no	listening to music	Davis	rear left	Winter08
+female	right	brown	no	no	june	6	1988	235	64	2010	yes	25	walk	500	yes	no	no	yes	yes	6	0	100	10000	yes	shopping	Davis	front left	Winter08
+female	right	brown	yes	yes	may	3	1988	236	64	2010	yes	20	walk	1000	yes	yes	no	yes	yes	4	0	60	15000	yes	reading	Davis	front left	Winter08
+female	right	other	yes	no	sept	7	1985	268	64.9	2009	no	50	other	400	yes	yes	no	yes	yes	6	0	85	2000	yes	none	Davis	front right	Winter08
+female	left	brown	yes	no	jan	28	1988	240	64	2010	yes	15	walk	500	yes	no	no	yes	yes	5	4	110	30000	yes	watching movies	Davis	rear left	Winter08
+female	right	brown	yes	no	sept	3	1988	232	63	2010	yes	15	walk	900	yes	yes	no	yes	yes	7	2	100	28000	yes	shopping	Davis	rear right	Winter08
+female	right	brown	yes	yes	jan	7	1989	228	66	2011	yes	15	walk	560	yes	no	no	yes	yes	8	0	0	20000	no	Traveling	Davis	front right	Winter08
+female	right	brown	no	yes	mar	16	1988	238	65	2009	yes	30	walk	350	yes	no	no	yes	yes	7	0	70	15000	no	baking	Davis	rear right	Winter08
+male	right	brown	yes	no	dec	11	1988	229	69	2010	yes	15	walk	343	yes	yes	no	yes	yes	5	0	90	5000	no	football	Davis	front left	Winter08
+male	left	brown	yes	no	nov	9	1987	242	69	2010	yes	17	car (by yourself)	550	yes	yes	no	yes	yes	5	0	134	15000	yes	Driving, Working on cars	Davis	front left	Winter08
+female	right	brown	yes	no	mar	2	1989	226	58	2011	yes	17	walk	450	yes	yes	no	yes	yes	7	0	70	9000	yes	tennis	Davis	front right	Winter08
+female	right	green	no	yes	aug	12	1989	221	65	2011	yes	25	walk	278	yes	no	yes	yes	yes	7.5	0	90	35000	yes	knitting	Davis	front right	Winter08
+male	right	brown	yes	yes	june	29	1989	223	70	2011	yes	10	walk	415	yes	yes	no	yes	yes	7	8	110	40000	yes	singing	Davis	rear left	Winter08
+female	right	brown	yes	no	sept	24	1986	256	63	2008	no	52	walk	186	yes	yes	yes	yes	yes	4	1	100	15000	yes	dance	Davis	rear left	Winter08
+female	right	brown	yes	yes	jan	26	1989	228	67	211	yes	20	walk	900	yes	no	yes	yes	yes	7	0	80	30000	yes	Trapeze	Davis	front right	Winter08
+male	right	brown	yes	yes	may	17	1989	224	68	2011	yes	20	walk	200	yes	yes	no	yes	yes	7	2	85	15000	no	Listening to music	Davis	rear left	Winter08
+female	left	hazel	no	yes	feb	21	1989	227	66	2011	yes	15	walk	1010	yes	yes	no	yes	yes	6.5	0	90	10000	yes	reading	Davis	front left	Winter08
+female	left	brown	yes	no	nov	21	1987	242	59	2009	no	10	carpool	200	yes	yes	no	yes	yes	7	2	100	21000	no	baking	Davis	front right	Winter08
+female	right	brown	yes	no	july	31	1988	234	62	2010	yes	20	walk	300	yes	yes	no	yes	yes	7	1	90	50000	yes	scrapbooking	Davis	front left	Winter08
+male	right	brown	yes	yes	june	6	1988	235	73	2010	yes	14	walk	410	yes	yes	no	yes	yes	6	0	95	15000	yes	basketball	Davis	rear right	Winter08
+female	right	brown	yes	yes	april	30	1988	237	60	2010	no	30	walk	100	yes	yes	no	yes	yes	6	0	80	2500	no	none	Davis	front left	Winter08
+female	right	brown	yes	no	jan	7	1988	240	63	2010	yes	15	walk	750	yes	yes	no	yes	yes	5.5	0	80	5000	no	music	Davis	front left	Winter08
+female	right	gray	yes	no	mar	4	1989	226	63	2011	yes	16	walk	5623	no	yes	no	yes	yes	5.5	0	85	26000	yes	snorkeling	Davis	front left	Winter08
+female	left	brown	yes	yes	june	19	1988	235	64	2010	yes	13	walk	700	yes	no	no	yes	no	3	0	70	2000	yes	soccer	Davis	front left	Winter08
+female	right	brown	yes	yes	april	3	1987	249	63	2009	no	15	walk		yes	yes	yes	yes	yes	6	1	80	20000	yes	none.	Davis	front right	Winter08
+female	right	brown	yes	yes	jan	14	1987	252	63	2009	no	40	car (by yourself)	140	yes	no	no	yes	yes	5	0	95	15000	no	Dancing	Davis	front left	Winter08
+female	right	brown	no	yes	feb	3	1987	251	60	2009	yes	30	bus		yes	yes	no	yes	yes	7	3	90	5000	yes	movies	Davis	front right	Winter08
+female	left	brown	yes	yes	dec	6	1988	229	62	2011	yes	20	walk	200	yes	yes	yes	yes	yes	6	4	90	30000	yes	shopping	Davis	rear right	Winter08
+female	right	brown	no	yes	feb	16	1989	227	62	2011	yes	12	walk	600	yes	yes	no	yes	yes	7	0	88	33000	yes	hiking	Davis	front left	Winter08
+female	right	brown	yes	yes	june	6	1987	247	65	2009	no	30	walk	650	yes	yes	no	yes	no	6	0	70	30000	yes	singing	Davis	rear left	Winter08
+male	right	brown	no	no	aug	26	1986	257	70	2009	yes	15	walk	500	yes	yes	no	yes	yes		0	110	20000	no	sports	Davis	front right	Winter08
+female	right	green	no	yes	sept	17	1985	268	67	2008	no	37	bus	550	yes	no	no	yes	yes	7	1	120	40000	yes	singing	Davis	front right	Winter08
+female	right	brown	yes	no	feb	24	1987	251	67	2009	no	20	walk	400	yes	yes	no	yes	yes	7	1	90	3000	yes	cooking	Davis	front right	Winter08
+female	right	hazel	no	yes	feb	7	1989	227	67	2010	yes	12	walk	620	yes	yes	yes	yes	yes	7	10	97	30000	no	track & field	Davis	rear right	Winter08
+female	left	brown	yes	yes	mar	16	1990	214	52	2011	yes	11	walk	562	yes	yes	yes	yes	yes	7	0	75	10000	yes	Watching movies	Davis	rear right	Winter08
+female	right	brown	yes	no	feb	26	1987	251	63	2010	yes	15	walk	524	yes	yes	no	yes	no	7	2	85	25000	yes	dancing	Davis	rear right	Winter08
+female	right	brown	yes	yes	sept	14	1988	220	64	2010	no	20	walk	980	yes	yes	no	yes	yes	7	0	90	40000	yes	Bowling	Davis	rear left	Winter08
+female	right	green	yes	yes	oct	20	1988	219	67	2010	no	10	walk	184	yes	yes	no	yes	yes	9	10	85	20000	yes	reading	Kreigler	front left	Winter08
+female	right	green	yes	yes	aug	8	1988	221	70	2010	no	20	carpool	624	no	no	no	yes	yes	7	7	98	27583	yes	sports	Davis	front left	Winter08
+female	right	brown	no	yes	april	12	1989	225	65	2011	yes	25	walk	400	yes	no	no	yes	yes	8	0	95	10000	no	water polo	Davis	rear right	Winter08
+female	right	brown	yes	yes	may	25	1988	236	68	2009	yes	15	walk	375	yes	yes	no	yes	yes	8	0	110	8500	yes	Drawing	Davis	rear left	Winter08
+male	right	brown	yes	no	sept	28	1988	232	69	2010	yes	20	walk	370	yes	yes	no	yes	yes	7	0	80	9000	yes	filmmaking	Davis	rear left	Winter08
+male	right	green	no	no	sept	12	1989	220	69	2011	yes	20	walk	600	yes	yes	no	yes	yes	8.5	10	100	28000	no	Guitar	Davis	front left	Winter08
+male	right	brown	no	no	june	26	1987	247	70	2009	no	20	walk	655	yes	yes	no	yes	yes	4	2	120	10000	yes	entertainment industry news	Davis	front right	Winter08
+female	right	green	no	yes	feb	22	1989	227	64	2011	yes	25	walk	550	yes	yes	no	yes	yes	5.5	1	100	25000	yes	volleyball	Davis	front right	Winter08
+female	right	green	no	yes	nov	21	1989	218	69	2011	yes	20	walk	670	yes	yes	yes	yes	yes	9	2	100	25000	yes	working out	Davis	front left	Winter08
+female	right	brown	no	no	mar	24	1988	238	65	2010	yes	3	walk	500	yes	yes	yes	yes	yes	6	0	80	6000	yes	running	Davis	rear right	Winter08
+male	right	blue	no	yes	feb	13	1988	239	71	2010	yes	15	walk	225	yes	yes	no	yes	no	7	4	100	20000	no	Video Games	Davis	front left	Winter08
+female	right	brown	no	yes	may	27	1987	248	65	2010	no	20	walk	500	yes	yes	no	yes	yes	8	0	90	10000	no	dance	Davis	rear right	Winter08
+male	right	brown	yes	no	april	4	1987	249	68	2009	yes	15	walk	250	yes	yes	no	yes	yes	6	0	85	27000	yes	TV	Davis	front left	Winter08
+male	right	brown	yes	no	jan	22	1988	240	70	2010	yes	15	walk	1000	yes	yes	yes	yes	yes	9	2	120	25000	yes	work out	Davis	front left	Winter08
+female	left	blue	no	yes	july	27	1987	246	65	2009	no	20	walk	450	yes	yes	no	yes	yes	6	4	85	20000	yes	dance	Davis	front left	Winter08
+female	right	brown	yes	yes	july	30	1989	222	63	2010	yes	20	walk	600	yes	yes	no	yes	yes	7	0	75	15000	yes	sleeping	Davis	front left	Winter08
+female	right	brown	yes	yes	june	17	1987	247	71	2009	no	25	walk	550	yes	no	no	yes	yes	9		90		yes	volleyball	Davis	front right	Winter08
+female	right	blue	yes	no	may	18	1989	224	69	2011	yes	12	walk	500	yes	yes	no	yes	yes	8	0	95	28000	yes	Ultimate Frisbee	Kreigler	rear left	Winter08
+female	right	brown	no	no	oct	11	1989	219	63	2011	yes	15	walk	600	yes	yes	no	yes	no	7	0	90	11000	no	dragonboat	Kreigler	rear left	Winter08
+female	right	brown	no	no	mar	31	1988	238	65	2011	yes	20	walk	180	yes	yes	yes	yes	yes	6	0	85	20000	yes	exercise	Kreigler	front right	Winter08
+female	right	green	yes	no	april	27	1988	237	62	2010	yes	20	walk	600	yes	yes	yes	yes	yes	6	10	90	10000	yes	reading	Kreigler	front left	Winter08
+female	right	brown	no	no	may	21	1989	224	67	2011	yes	10	walk	563	yes	yes	yes	yes	yes	6	4	100	30000	no	basketball	Kreigler	front right	Winter08
+male	right	brown	no	no	july	24	1986	258	74	2009	no	15	walk	570	yes	no	no	yes	yes	7	10	105	25789	yes	surfing	Davis	front right	Winter08
+female	right	brown	no	no	june	10	1989	223	62	2011	yes	20	walk	600	yes	yes	no	yes	yes	7	0		25000	yes	photography	Davis	rear left	Winter08
+female	right	brown	yes	yes	april	12	1988	237	63	2010	yes	15	walk	110	yes	no	no	yes	yes	3.5	0	70	30000	yes	soccer	Davis	rear left	Winter08
+female	right	green	no	yes	jan	10	1988	240	64	2021	yes	15	walk	364	yes	no	no	yes	yes	8	0	110	10000	no	Campaigning for Ron Paul for president	Kreigler	front right	Winter08
+female	left	brown	no	yes	april	22	1988	237	65	2010	yes	16	walk	220	yes	yes	no	yes	yes	6.5	0	87	20000	yes	Rowing	Kreigler	rear left	Winter08
+male	right	brown	yes	yes	may	11	1989	224	69	2011	yes	15	walk	500	yes	yes	no	yes	yes	7	0	100	10000	yes	basketball	Ioudina	front left	Winter08
+male	ambidextrous	brown	yes	no	feb	1	1989	227	78	2011	yes	20	walk	150	no	yes	no	yes	yes					yes		Davis	front left	Winter08
+female	right	brown	yes	yes	dec	31	1988	229	65	2011	no	120	bus	125	yes	yes	no	yes	yes	7	0	45	38000	yes	Reading	Ioudina	front left	Winter08
+female	right	brown	yes	yes	nov	18	1988	230	63	2010	yes	10	walk	600	yes	yes	no	yes	yes	6	0	80		yes	eating	Ioudina	front right	Winter08
+male	right	brown	yes	no	july	12	1988	234	69	2010	yes	17	walk	300	yes	yes	no	yes	yes	7	0	135	20000	yes	Frisbee	Ioudina	rear right	Winter08
+female	right	brown	no	yes	nov	10	1988	230	66	2011	yes	15	walk	60	yes	yes	no	yes	yes	9	0	80	12000	yes	Skiing	Ioudina	front right	Winter08
+female	right	brown	yes	yes	aug	17	1986	257	67	2008	no	25	walk	253	yes	no	no	yes	yes	6	0	80	16000	yes	Scrapbooking	Ioudina	front left	Winter08
+female	right	brown	yes	yes	dec	17	1987	241	68	2010	yes	20	walk	350	yes	yes	no	yes	yes	8	0	90	50000	no	playing guitar	Ioudina	front right	Winter08
+female	left	blue	no	no	aug	2	1989	221	66		yes	5	walk	456	no	yes	no	yes	yes	8	0	98	25000	no	cheerleading	Ioudina	front right	Winter08
+female	left	hazel	yes	yes	feb	26	1988	239	60	2010	no	45	carpool	625	yes	yes	no	yes	no	7	0	90	30000	no	shopping	Ioudina	front left	Winter08
+female	right	blue	yes	no	feb	8	1988	239	66	2010	yes	10	walk	100	no	yes	no	yes	no	6	10	100	8000	no	shopping	Ioudina	front right	Winter08
+female	right	brown	yes	yes	sept	27	1989	220	65	2011	yes	20	car (by yourself)	700	yes	yes	no	yes	yes	6	0	90	54000	no	writing	Ioudina	front left	Winter08
+male	right	green	no	yes	may	26	1988	236	71	2010	yes	10	walk	350	yes	yes	no	yes	yes	7	2	95	18000	yes	reading	Ioudina	front right	Winter08
+female	right	hazel	yes	yes	nov	8	1989	218	65	2011	yes	20	walk	900	yes	no	yes	yes	yes	5.5	3	90	15000	yes	dance	Ioudina	rear right	Winter08
+male	right	green	no	yes	sept	24	1989	220	74	2011	yes	15	walk	550	yes	yes	yes	yes	yes	8	0	90	21000	yes	band	Ioudina	front right	Winter08
+female	right	brown	no	yes	jan	4	1987	252	60	2009	no	120	car (by yourself)	400	yes	yes	no	yes	yes	6	0	130	20000	yes	dancing	Ioudina	front right	Winter08
+female	ambidextrous	brown	yes	yes	feb	14	1986	263	65	2008	no	20	walk	600	yes	yes	no	yes	yes	6	2	90	8000	no	tv shows	Ioudina	rear left	Winter08
+female	right	brown	yes	yes	june	23	1988	235	66	2010	yes	15	walk	800	yes	yes	no	yes	yes	8	3	85	20000	yes	polynesian dancing	Ioudina	front right	Winter08
+male	right	brown	no	yes	mar	7	1988	238	72	2010	yes	15	walk	700	yes	yes	no	yes	yes	7	7	120	28000	no	snowboarding	Ioudina	front left	Winter08
+female	right	brown	yes	yes	mar	30	1989	226	67	2011	yes	15	walk	3000	yes	yes	no	yes	yes	8	0	85	30000	yes	painting	Ioudina	front right	Winter08
+male	ambidextrous	blue	no	yes	jan	5	1987	252	72	2009	no	17	walk	500	yes	yes	no	yes	yes	6	10	130	30000	yes	surfing	Ioudina	rear right	Winter08
+male	left	brown	yes	yes	sept	1	1988	232	66	2010	no	12	walk	750	yes	yes	no	yes	yes	9	0	80	2303	no	Guitar	Ioudina	rear left	Winter08
+female	right	blue	yes	yes	aug	9	1989	221	67	2011	yes	1	walk	624	yes	no	no	yes	yes	11.5	3	90	10000	no	singing	Ioudina	front right	Winter08
+male	ambidextrous	brown	yes	yes	feb	1	1989	227	78	2011	yes	20	walk	150	no	yes	no	yes	yes	7	0	100	28000	no	exercise	Ioudina	front right	Winter08
+female	right	brown	yes	no	june	1	1988	235	60	2010	yes	15	walk	500	yes	yes	no	yes	yes	5	0	90	30000	no	TV	Ioudina	front right	Winter08
+female	right	brown	yes	no	june	1	1988	235	62	2010	yes	18	walk	500	yes	yes	no	yes	yes	7	0	100	25000	no	beach	Ioudina	front right	Winter08
+female	right	brown	yes	yes	july	19	1988	234	61	2010	yes	30	walk		yes	yes	yes	yes	yes	7	0	110	2813	yes	Tennis and Games	Ioudina	front left	Winter08
+male	right	brown	no	no	oct	10	1988	231	66	2011	yes		walk	279	yes	yes	no	yes	yes	2	0	40	48000	yes	writing	Ioudina	rear right	Winter08
+female	right	blue	yes	yes	mar	13	1989	224	64	2011	yes	1	walk	800	yes	yes	no	yes	yes	9	3	100	11000	no	partying	Ioudina	front right	Winter08
+female	right	brown	yes	no	may	18	1988	236	62.5	2010	yes	20	walk	880	yes	no	no	yes	yes	7.5	0	90	30000	no	Painting	Ioudina	front right	Winter08
+female	left	brown	no	yes	nov	27	1988	230	61	2010	no	55	car (by yourself)	300	yes	yes	no	yes	yes	4	0	80	2500	no	dance	Ioudina	front right	Winter08
+female	right	brown	yes	no	july	5	1983	294	67	2009	no	40	car (by yourself)	800	yes	no	no	yes	yes	8	2	90	10000	yes	none	Ioudina	front left	Winter08
+male	right	brown	yes	no	jan	7	1981	324	66	2008	no	45	car (by yourself)	360	no	yes	no	yes	no	7	1	45	50000	no	poker	Ioudina	front left	Winter08
+female	right	brown	yes	yes	july	29	1989	222	62	2011	yes	20	walk	356	yes	no	no	yes	yes	6	0	90	45000	yes	television watching	Kreigler	rear left	Winter08
+female	right	blue	yes	yes	aug	19	1988	233	63	2011	yes	15	walk	100	yes	no	no	yes	yes	7	0	110	12000	no	painting	Davis	front left	Winter08
+male	right	brown	yes	yes	july	19	1985	270	64	2009	no	20	walk	360	yes	yes	no	yes	yes	5	2	100	20000	yes	basketball	Davis	rear left	Winter08
+male	right	brown	yes	yes	feb	22	1989	227	66	2011	yes	15	walk	500	yes	yes	no	yes	yes	6	0	75	25000	yes	art	Davis	rear left	Winter08
+male	right	brown	yes	no	may	13	1988	236	69	2010	yes	30	walk	470	yes	yes	no	yes	yes	8	0	90	25000	no	cooking	Ioudina	front left	Winter08
+female	right	brown	yes	yes	mar	7	1989	226	63.5	2011	yes	15	walk	385	yes	yes	yes	yes	yes	8	6	87	25000	yes	swimming	Ioudina	rear left	Winter08
+female	right	brown	no	yes	mar	7	1988	238	62.5	2010	yes	30	walk	400	yes	yes	no	yes	yes	7	2	100	20000	no	sleep	Ioudina	front right	Winter08
+female	right	brown	no	no	jan	12	1988	240	65	2010	yes	15	walk	400	yes	yes	no	yes	yes	7	10	90	20000	no	scrapbooking	Ioudina	front left	Winter08
+female	right	brown	no	yes	mar	7	1988	238	62.5	2010	yes	30	walk	400	yes	yes	no	yes	yes	7	2	100	20000	no	sleep	Ioudina	front right	Winter08
+female	right	blue	no	yes	mar	21	1989	226	66	2011	yes	10	walk	900	yes	no	no	yes	yes	9	0	100	40000	no	football	Ioudina	front right	Winter08
+female	right	brown	yes	yes	mar	8	1990	214	65	2011	yes	30	walk	111	yes	no	no	yes	no	9	0	90	40000	yes	Writing Poems	Ioudina	front right	Winter08
+female	left	blue	yes	yes	nov	14	1986	254	66	2010	no	60	car (by yourself)	113	no	yes	no	yes	yes	6	0	90	10000	no	watching movies	Ioudina	rear left	Winter08
+male	right	brown	no	yes	aug	19	1988	233	70	2010	no	12	walk	526	yes	yes	no	yes	yes	10	20	90	28000	no	piano	Ioudina	front left	Winter08
+female	right	brown	no	yes	mar	17	1989	226	62	2011	yes	25	walk	500	yes	yes	no	yes	yes	10	0	80	50000	yes	Drawing	Ioudina	front right	Winter08
+female	right	brown	yes	no	july	2	1989	222	63	2011	yes	20	walk	420	yes	yes	no	yes	yes	9	0		30000	yes	Playing tennis	Ioudina	front left	Winter08
+female	right	brown	no	yes	mar	7	1988	238	62.5	2010	yes	30	walk	400	yes	yes	no	yes	yes	7	2	100	20000	no	sleep	Ioudina	front right	Winter08
+male	right	brown	yes	no	dec	27	1988	229	71	2011	yes	30	walk	14	yes	yes	no	yes	yes	8	0	75	40000	no	swimming	Ioudina	rear right	Winter08
+male	right	brown	yes	yes	oct	31	1989	219	64	2011	no	100	bus	604	yes	yes	no	yes	yes	8	0	35	25000	no	video games	Ioudina	rear left	Winter08
+female	right	hazel	yes	yes	july	4	1987	246	65	2009	no	30	walk	423	yes	yes	no	yes	no	7	0	95	25000	yes	traveling	Ioudina	rear left	Winter08
+female	right	brown	yes	yes	dec	29	1989	217	62	2011	yes	12	walk	102	yes	yes	no	yes	yes	7	0	100	11480	yes	dance	Ioudina	front right	Winter08
+male	right	hazel	no	yes	sept	9	1988	232	69	2011	yes	15	walk	433	yes	yes	yes	yes	no	9	0	70	38000	yes	none	Ioudina	rear left	Winter08
+female	left	brown	yes	yes	sept	16	1989	220	64	2011	yes	15	walk	360	yes	yes	no	yes	yes	11	0	80	2500	no	listening to music	Ioudina	front right	Winter08
+female	right	brown	no	yes	oct	21	1989	219	64	2011	yes	15	walk	781	yes	yes	no	yes	yes	9	0	100	20000	no	Watching movies	Ioudina	front left	Winter08
+female	right	blue	no	yes	april	3	1986	261	62	2008	no	25	car (by yourself)	500	yes	yes	no	yes	yes	8	0	90		yes	cooking	Ioudina	front right	Winter08
+female	left	blue	no	yes	feb	21	1988	239	57	2010	yes	16	walk	437	yes	yes	no	yes	yes	6	0	90	35000	yes	Dance	Ioudina	front left	Winter08
+female	right	green	no	yes	april	30	1989	225	64	2011	yes	17	walk	300	yes	no	no	yes	no	7	0	75	3000	yes	tennis	Ioudina	front right	Winter08
+female	right	brown	yes	no	aug	8	1989	221	69.5	2011	yes	10	walk	600	yes	yes	yes	yes	yes	8	0	90	20000	yes	running	Ioudina	front right	Winter08
+male	right	brown	no	no	nov	11	1988	230	67	2010	yes	15	walk	500	yes	no	no	yes	no	6	3	100		yes	statistics	Ioudina	rear left	Winter08
+male	right	brown	no	no	dec	1	1989	217	70	2011	yes	20	walk	200	yes	no	no	yes	yes	8	0	95	30000	yes	football	Ioudina	rear right	Winter08
+female	right	brown	no	yes	jan	13	1989	228	60	2011	yes	20	walk	110	yes	yes	no	yes	yes	10	0		2000	yes	traveling	Ioudina	front left	Winter08
+male	right	brown	no	yes	dec	21	1988	229	70	2011	yes	15	walk	831	yes	no	no	yes	yes	8	0	109	55000	no	plaing the trumpet	Kreigler	rear left	Winter08
+female	left	brown	no	yes	dec	21	1988	229	63	2011	yes	20	walk	400	yes	no	no	yes	yes	7	0	100	20000	yes	reading	Ioudina	rear right	Winter08
+female	right	brown	no	yes	jan	31	1988	240	63	2010	yes	15	walk	300	yes	yes	no	yes	yes	4	2	20	40000	yes	working out	Ioudina	front right	Winter08
+female	right	brown	yes	no	june	14	1988	235	64	2010	yes	11	walk	3	yes	yes	no	yes	no	6	0	70	30000	yes	running	Ioudina	rear left	Winter08
+female	left	brown	no	yes	may	5	1987	248	64	2009	no	30	car (by yourself)	260	yes	no	no	yes	yes	6	6	100		no	none	Ioudina	rear left	Winter08
+female	right	green	yes	no	june	29	1988	235	64	2010	yes	15	walk	199	yes	no	no	yes	yes	6	4	90	10000	yes	Reading	Kreigler	front left	Winter08
+female	right	green	no	yes	jan	31	1989	228	72	2012	yes	20	walk	700	yes	no	no	yes	yes	6	0	30	20000	yes	Reading	Davis	front right	Winter08
+female	right	green	yes	yes	mar	15	1988	238	60	2010	yes	16	walk	330	yes	yes	no	yes	yes	7.5	5	97	35000	yes	Dancing	Kreigler	front left	Winter08
+female	right	brown	yes	yes	sept	1	1988	232	60	2010	yes	10	walk	450	yes	yes	no	yes	yes	6	0	0	40000	yes	watching movies	Davis	front left	Winter08
+female	right	brown	yes	yes	dec	30	1987	241	65	2010	yes	10	walk	450	yes	yes	no	yes	yes	8	0	90	40000	yes	being with friends	Davis	front left	Winter08
+male	right	brown	yes	yes	oct	23	1989	219	77	2011	yes	16	walk	597	yes	yes	no	yes	yes	8.5	0	87	27159	yes	Skiing	Kreigler	front right	Winter08
+female	right	brown	yes	no	sept	5	1989	220	67	2011	yes	15	walk	500	yes	yes	yes	yes	yes	6	1	90	38000	yes	dancing	Kreigler	front right	Winter08
+female	right	brown	yes	no	april	19	1987	249	61	2009	no	15	walk	530	yes	no	no	yes	yes	8	4	100	20000	yes	watching television	Davis	front left	Winter08
+female	right	hazel	yes	yes	dec	10	1987	241	60	2010	yes	20	walk	700	yes	yes	no	yes	yes	5	0	85	25000	no	photography	Kreigler	front right	Winter08
+female	right	brown	yes	no	oct	10	1988	231	62	2010	yes	20	walk	1000	yes	yes	no	yes	yes	7	0	85	30000	yes	singing.	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	feb	22	1988	239	61	2010	yes	15	walk	16	no	yes	no	yes	yes	8	0	50	20000	yes	playing guitar	Davis	front left	Winter08
+male	right	brown	yes	no	july	2	1987	246	71	2009	no	10	walk	433	yes	yes	no	yes	yes	8	3	120	12000	yes	Snowboarding	Kreigler	front right	Winter08
+female	right	brown	yes	yes	mar	10	1989	226	65	2011	yes	20	walk	246	yes	yes	no	yes	yes	6	0	100	40000	no	movies	Davis	rear left	Winter08
+male	right	brown	no	no	dec	12	1988	229	72	2011	yes	15	walk	644	yes	yes	no	yes	yes	6	0	85	20000	no	Running	Kreigler	front right	Winter08
+female	right	brown	yes	yes	june	6	1988	235	67	2010	yes	20	walk	500	yes	yes	no	yes	yes	6	4	85	30000	yes	swimming	Kreigler	front right	Winter08
+male	right	brown	yes	yes	mar	24	1985	274	65	2009	no	35	car (by yourself)		yes	yes	no	yes	yes	6	0	110	30000	yes	jogging	Kreigler	front left	Winter08
+male	left	green	yes	yes	oct	13	1987	243	72	2009	yes	20	walk	250	yes	yes	no	yes	yes	8	1	85	20000	yes	Basketball	Davis	front right	Winter08
+female	right	green	no	no	oct	9	1987	243	70	2010	no	30	bus	642	yes	yes	no	yes	yes	8	0	140	20000	yes	swimming	Kreigler	front right	Winter08
+male	right	blue	no	yes	sept	14	1989	220	79	2011	yes	15	walk	9	yes	yes	no	yes	yes	5	12	115	10000	no	Guitar	Kreigler	rear left	Winter08
+female	right	brown	yes	no	oct	20	1988	231	66	2010	yes	20	walk	500	yes	yes	no	yes	yes	8	0	90	15000	yes	Reading	Kreigler	rear right	Winter08
+male	right	brown	yes	no	feb	4	1988	239	68	2010	yes	20	walk	558	no	yes	no	yes	yes	6	0	70	16354	no	video games	Kreigler	front right	Winter08
+female	right	brown	yes	yes	jan	23	1989	228	67	2011	yes	20	walk	600	yes	no	no	yes	yes	8	0	40	1000	yes	Reading	Kreigler	front right	Winter08
+female	right	green	no	no	mar	22	1989	226	65	2011	yes	15	walk	325	yes	yes	no	yes	yes	6	0			no	soccer	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	june	30	1989	223	66	2011	yes	10	walk	600	yes	no	no	yes	yes	7	5	85	20000	yes	soccer	Kreigler	rear left	Winter08
+male	right	green	no	yes	june	8	1989	223	72	2011	yes	13	walk	500	yes	no	no	yes	yes	8	0	90	40000	no	Football	Kreigler	front left	Winter08
+female	right	green	yes	no	dec	1	1988	229	63	2010	no	40	car (by yourself)	250	yes	yes	no	yes	yes	7	1	85	10000	yes	drawing	Kreigler	front left	Winter08
+female	right	brown	yes	yes	june	10	1988	235	59	2010	yes	20	walk	600	yes	no	no	yes	yes	4	0.5	100	24000	no	sleeping	Kreigler	front right	Winter08
+male	right	brown	yes	yes	feb	17	1988	239	70	2010	yes	15	walk	555	yes	yes	no	yes	yes	6	1	109	30000	yes	Dance	Davis	rear left	Winter08
+female	right	brown	yes	yes	mar	24	1988	238	58	2010	yes	15	walk	623	yes	yes	no	yes	yes	9	3	90	10000	no	Basketball	Kreigler	front right	Winter08
+female	right	blue	no	yes	april	24	1989	225	67	2011	yes	25	walk	240	yes	yes	no	yes	yes	7	2	100	45000	no	shopping	Kreigler	rear left	Winter08
+female	right	brown	yes	yes	feb	24	1988	239	69	2010	no	10	walk	300	yes	no	no	yes	yes	6	15	85	10000	no	dancing	Kreigler	front right	Winter08
+female	right	blue	yes	no	sept	25	1988	232	65	2010	no	10	walk	330	no	yes	no	yes	yes	7	12	105	10000	yes	tennis	Kreigler	front right	Winter08
+male	right	brown	no	yes	feb	10	1989	227	74	2010	yes	20	walk	500	yes	yes	no	yes	yes	7	0	98	30000	yes	Playing the guitar	Kreigler	front right	Winter08
+female	right	brown	yes	yes	nov	15	1988	230	67	2010	no	15	walk	628	yes	yes	yes	yes	yes	6	0	95	2000	no	watching korea dramas	Kreigler	front left	Winter08
+female	right	brown	yes	yes	feb	21	1989	227	63	2011	yes	15	walk	640	yes	yes	no	yes	yes	7	0	70	4000	yes	photography	Davis	front right	Winter08
+female	right	brown	yes	yes	aug	18	1989	221	68	2011	yes	15	walk	500	yes	yes	no	yes	yes	6	0	70	30000	yes	being with friends	Kreigler	front right	Winter08
+female	right	hazel	no	yes	feb	28	1989	227	68	2011	yes	10	walk	270	yes	no	no	yes	yes	5	0	90	20000	no	music	Davis	front right	Winter08
+female	right	brown	yes	yes	mar	4	1987	250	63	2009	no	15	carpool	154	yes	yes	no	yes	yes	9	9	92	24000	yes	snowboard	Kreigler	rear right	Winter08
+female	right	brown	yes	no	may	1	1987	248	62	2009	yes	13	walk	954	no	yes	no	yes	yes	6	0	98	26000	yes	film and theatre	Davis	front right	Winter08
+male	right	brown	yes	no	oct	11	1984	279	69	2009	no	90	car (by yourself)	550	no	yes	no	yes	no	6	0	75	25000	yes	music	Davis	front right	Winter08
+female	right	brown	yes	yes	july	2	1988	234	64	2010	yes	10	walk	200	yes	yes	no	yes	yes	5	0	80	30000	no	listening to music	Davis	front left	Winter08
+male	right	brown	yes	yes	dec	26	1987	241	68	2010	yes	20	walk	4000	yes	yes	no	yes	yes	8	0	100	25000	no	Movies	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	april	10	1988	237	62.5	2010	yes	15	walk	1000	yes	yes	no	yes	no	6	2	85	10000	yes	sleep	Davis	rear left	Winter08
+female	right	brown	no	yes	may	26	1989	224	63	2011	yes	5	walk	527	yes	no	no	yes	yes	5	0	80	40000	no	soccer	Davis	front right	Winter08
+male	right	brown	yes	yes	nov	20	1988	230	69	2011	yes	15	walk	619	yes	yes	no	yes	yes	8	0	100	30000	no	tennis	Kreigler	front left	Winter08
+female	right	brown	yes	yes	june	21	1988	235	60	2010	yes	25	walk	350	yes	yes	no	yes	yes	6	9	100	60000	no	soccer	Davis	rear right	Winter08
+female	right	brown	no	yes	oct	15	1986	255	63	2008	no	20	walk	350	yes	no	no	yes	yes	4	18	15	15000	yes	Sex	Davis	front left	Winter08
+female	right	brown	yes	no	feb	22	1989	227	62	2011	yes	13	walk	580	yes	no	yes	yes	yes	6.5	6	90	17000	yes	flute	Kreigler	front left	Winter08
+female	right	brown	yes	yes	july	3	1988	234	62	2010	yes	15	walk	350	yes	yes	yes	yes	yes	5	0	60	20000	yes	Swimming	Davis	front left	Winter08
+male	right	brown	yes	no	sept	12	1989	220	68	2011	yes	15	walk	450	yes	yes	no	yes	yes	7	0	95	15000	no	basketball	Davis	front right	Winter08
+female	right	brown	yes	yes	feb	7	1989	227	68	2010	yes	13	walk	611	yes	yes	yes	yes	yes	4	18	103	23045	no	volleyball	Davis	front right	Winter08
+female	right	brown	yes	no	nov	7	1988	230	65	2010	yes	15	walk	600	yes	yes	no	yes	yes	1	0	65	20000	yes	swimming	Davis	front left	Winter08
+female	right	brown	no	yes	june	21	1985	271	67	2009	no	80	bus	400	yes	yes	no	yes	no	7	0	75	7300	yes	basketball	Davis	rear right	Winter08
+female	right	brown	no	yes	aug	27	1988	233	61	2010	yes	15	walk	200	yes	no	no	yes	yes	7	0	75	20000	no	tennis	Davis	rear left	Winter08
+female	right	brown	yes	yes	may	25	1988	236	63.5	2010	yes	15	walk	400	yes	yes	no	yes	yes	7	0	90	20000	yes	Tennis	Davis	front left	Winter08
+female	right	brown	yes	yes	dec	23	1987	241	62.5	2009	no	15	walk	1000	yes	yes	no	yes	yes	6.5	0	95	20000	yes	dancing	Davis	rear left	Winter08
+female	right	hazel	no	yes	dec	1	1989	217	64	2011	yes	20	walk	400	yes	yes	no	yes	yes	7	1	80	20000	no	tv	Davis	front right	Winter08
+female	right	brown	yes	yes	mar	9	1988	238	61	2010	yes	15	walk	360	yes	yes	no	yes	yes	5	0	90	10000	yes	scrapbooking	Davis	rear right	Winter08
+female	right	green	no	yes	oct	19	1987	243	65	2010	yes	20	walk	325	yes	yes	no	yes	yes	6	8	108	18000	no	soccer	Davis	front right	Winter08
+female	right	brown	yes	no	sept	2	1988	232	64	2011	yes	20	walk	120	yes	yes	no	yes	yes	7	0	80	50000	yes	skiiing	Davis	front right	Winter08
+female	right	brown	no	yes	jan	2	1987	252	62	2009	no	25	walk	500	yes	yes	no	yes	yes	3	0	110	40000	yes	tennis	Davis	front right	Winter08
+female	right	green	yes	no	sept	20	1988	232	63	2010	yes	20	walk	1100	yes	no	no	yes	yes	6	0	75	3000	yes	Archery	Davis	rear right	Winter08
+female	right	blue	no	no	aug	18	1986	257	66	2009	no	20	walk	560	yes	yes	no	yes	yes	6	7	100	20000	yes	horseback riding	Davis	front right	Winter08
+female	right	brown	yes	yes	jan	21	1990	216	60	2011	yes	20	walk	486	yes	yes	no	yes	yes	7	0	100	42000	yes	tennis	Davis	front left	Winter08
+male	right	brown	no	yes	june	4	1989	223	70	2011	yes	10	walk	300	yes	yes	no	yes	yes	6	0	75	30000	yes	running	Davis	front left	Winter08
+female	right	green	no	yes	may	25	1988	236	67	2010	no	25	walk	400	yes	no	no	yes	no	7	0	90	30000	yes	none	Davis	front right	Winter08
+male	right	blue	yes	yes	nov	13	1988	230	74	2011	yes	20	walk	600	yes	yes	no	yes	yes	8	0	90	20000	yes	Kendo	Davis	front left	Winter08
+female	right	brown	yes	yes	may	13	1989	224	66	2011	yes	15	walk	850	yes	yes	no	yes	yes	7	2	60	20000	yes	shopping	Davis	rear left	Winter08
+female	right	brown	yes	no	nov	19	1985	266	68	2008	no	90	car (by yourself)	130	no	no	no	yes	yes	5	0	102	30000	no	reading	Davis	front right	Winter08
+male	right	green	no	yes	nov	11	1987	242	73	2010	no	8	bicycle	776	yes	yes	no	yes	yes	6	5	98	45000	yes	writing	Davis	front right	Winter08
+female	right	brown	yes	no	april	17	1987	249	62	2009	no	15	carpool	792	yes	yes	yes	yes	yes	7	0	102	16000	no	watching movies	Davis	front right	Winter08
+female	right	blue	yes	yes	oct	16	1988	231	52	2010	no	20	walk	147	yes	yes	no	yes	yes	7	3	70	15000	yes	Dance	Davis	front left	Winter08
+female	right	brown	yes	yes	nov	8	1988	230	63	2010	yes	20	walk	1000	yes	yes	yes	yes	yes	3	0	80	15000	no	drawing	Davis	front left	Winter08
+female	right	brown	yes	yes	sept	20	1989	220	66	2011	yes	25	walk	605	yes	no	yes	yes	yes	5	0	100	30000	yes	working out	Davis	front right	Winter08
+female	right	brown	yes	yes	oct	7	1988	231	63	2010	yes	15	walk	210	yes	yes	no	yes	yes	7	0	0	30000	yes	listening to music	Davis	front left	Winter08
+female	right	brown	no	no	jan	19	1987	252	63	2009	no	20	walk	800	yes	yes	no	yes	yes	4	0	115	20000	no	Swim	Davis	rear left	Winter08
+female	right	brown	yes	yes	july	18	1986	258	56	2008	no	20	walk	113	yes	yes	no	yes	no	5	0	80	30000	no	sleep	Davis	front right	Winter08
+female	right	blue	no	yes	april	4	1989	225	66	2011	yes	25	walk	417	yes	no	no	yes	yes	10	6	115	25000	yes	tennis	Kreigler	front right	Winter08
+female	right	brown	yes	yes	sept	11	1988	232	65	2010	yes	15	walk	350	yes	yes	no	yes	yes	6	0	65	10000	yes	tennis	Davis	rear right	Winter08
+female	left	brown	yes	yes	june	6	1988	235	63	2010	yes	20	walk	1000	yes	no	no	yes	yes	6	0	80	20000	yes	reading	Davis	rear right	Winter08
+male	right	brown	no	yes	dec	25	1987	241	66	2010	yes	15	motorcycle	150	yes	yes	no	yes	yes	6	0	45	5000	yes	writing	Kreigler	rear left	Winter08
+female	right	brown	no	no	mar	17	1986	262	63	2008	no	25	walk	800	yes	no	no	yes	yes	6	0	100	20000	no	singing	Davis	rear right	Winter08
+female	right	brown	yes	yes	april	20	1988	237	62	2010	yes	15	walk	550	yes	no	no	yes	yes	7	1	75	25000	yes	reading	Davis	rear right	Winter08
+male	right	brown	yes	yes	aug	2	1989	221	66	2011	yes	15	walk	523	yes	yes	yes	yes	yes	7	7	125	10000	yes	video games	Davis	rear right	Winter08
+male	right	hazel	yes	yes	dec	17	1988	229	72	2011	yes	15	walk	950	yes	yes	no	yes	yes	8	0	125	20000	no	tennis	Davis	front right	Winter08
+female	right	brown	yes	no	june	6	1988	235		2010	yes	20	walk	425	no	no	no	yes	yes	7	0	90	10000	yes	watching tv	Davis	front right	Winter08
+female	right	brown	yes	no	july	28	1985	270	67	2008	no	8	car (by yourself)	175	yes	yes	no	yes	yes	7	2	109	12000	yes	rugby	Davis	rear left	Winter08
+female	right	blue	no	yes	oct	3	1988	231	69	2010	yes	20	walk	400	yes	yes	no	yes	yes	7	5	90	15000	yes	shopping	Davis	rear left	Winter08
+male	right	brown	no	yes	feb	3	1989	227	69	2011	yes	15	walk	45	yes	no	no	yes	yes	7	2	110	20000	no	Playing basketball	Kreigler	front right	Winter08
+female	right	brown	yes	yes	dec	14	1988	229		2011	yes	20	walk	650	yes	yes	no	yes	yes	8	0	80	7000	yes	eating	Kreigler	rear left	Winter08
+female	right	blue	yes	yes	mar	20	1986	262	68	2009	no	20	walk	150	no	no	no	yes	yes	7	6	110	24000	yes	dancing	Kreigler	front right	Winter08
+male	right	brown	no	yes	nov	11	1987	242	69	2010	yes	15	walk	437	yes	yes	yes	yes	no	9	5	100	35000	yes	spearfishing	Kreigler	front right	Winter08
+female	right	brown	no	yes	dec	22	1987	241	68	2010	yes	10	walk	174	yes	no	no	yes	yes	8	10	100	30000	yes	Reading	Kreigler	front right	Winter08
+male	right	brown	no	no	june	15	1988	235	71	2010	yes	15	walk	190	yes	yes	no	yes	yes	7	0	110	12387	yes	Sports	Kreigler	rear right	Winter08
+male	right	blue	no	yes	oct	14	1986	255	75	2010	no	20	walk	350	yes	no	no	yes	yes	9	0	95	25000	yes	golf	Kreigler	front left	Winter08
+female	right	blue	yes	yes	aug	26	1988	233	65	2011	yes	4	walk	350	yes	yes	yes	yes	yes	6	35	125	2000	no	hiking	Kreigler	rear right	Winter08
+male	right	green	yes	no	june	2	1988	235	73	2010	yes	15	walk	727	yes	yes	yes	yes	yes	7	0	100	33000	yes	soccer	Kreigler	front right	Winter08
+female	right	brown	no	yes	mar	20	1989	226	68	2011	yes	10	walk	225	yes	yes	no	yes	yes	7	10	85	40000	yes	tennis	Kreigler	rear left	Winter08
+female	right	brown	yes	yes	aug	18	1989	221	62	2011	yes	14	walk	280	yes	no	no	yes	yes	7	2	70	25000	yes	singing	Kreigler	front right	Winter08
+female	right	blue	no	yes	jan	25	1988	240	65	2010	no	10	walk	300	yes	yes	no	yes	yes	7	10	95	30000	yes	traveling	Kreigler	front right	Winter08
+female	right	brown	yes	yes	dec	22	1987	241	68	2010	yes	10	walk	174	yes	no	no	yes	yes	8	10	100	20000	yes	Reading	Kreigler	front right	Winter08
+female	right	hazel	no	yes	april	13	1987	249	57	2009	no	5	other	250	yes	no	no	yes	yes	9	0	90	4000	yes	traveling	Kreigler	rear left	Winter08
+male	right	brown	yes	yes	aug	26	1988	233	69		no	10	walk	500	yes	yes	yes	yes	no	7	0	90	23000	no	none	Kreigler	front left	Winter08
+female	right	brown	no	yes	nov	14	1989	218	65	2011	yes	15	walk	150	yes	yes	no	yes	yes	6	0	85	25000	yes	reading	Kreigler	front right	Winter08
+female	right	brown	yes	yes	april	4	1989	225	67	2011	yes	20	walk	385	yes	no	yes	yes	yes	6	0	90	30000	no	working out	Kreigler	front left	Winter08
+male	right	blue	yes	yes	nov	11	1983	290	69	2011	no	15	walk	578	yes	yes	yes	yes	yes	4	1	100	25000	yes	Stats	Ioudina	rear left	Winter08
+female	ambidextrous	brown	yes	yes	nov	18	1985	266	66	2008	no	8	car (by yourself)	480	yes	yes	no	yes	yes	7	3	80	3500	yes	playing tennis	Kreigler	front right	Winter08
+female	right	blue	no	yes	may	28	1986	260	65	2008	no	20	walk	650	yes	yes	no	yes	yes	8	4	95	60000	yes	playing volleyball	Kreigler	front right	Winter08
+female	right	hazel	yes	no	aug	21	1986	257	66	2008	no	40	bus	254	yes	no	no	yes	yes	6	2	98	20000	yes	photography	Kreigler	front left	Winter08
+male	right	brown	yes	yes	nov	5	1986	254	69	2010	yes	5	skateboard	525	yes	yes	no	yes	no	8.5	0	130	20000	yes	camping	Davis	rear left	Winter08
+female	right	brown	yes	yes	oct	9	1986	255	67	2008	no	45	car (by yourself)	1200	yes	yes	yes	yes	yes	7	3	120	43000	yes	crocheting	Kreigler	front right	Winter08
+female	right	brown	yes	yes	jan	6	1989	228	64	2011	yes	15	walk	500	yes	yes	no	yes	no	10	1	0	10000	yes	softball	Kreigler	rear left	Winter08
+female	right	brown	no	yes	sept	16	1989	232	62	2011	yes	14	walk	550	yes	yes	no	yes	yes	7	0	80	50000	yes	singing	Kreigler	front left	Winter08
+female	right	brown	yes	yes	feb	16	1986	263	64	2008	no	25	walk	200	yes	no	no	yes	no	7	3	95		no	writing poetry	Kreigler	rear left	Winter08
+female	right	brown	yes	yes	june	4	1987	247	64		no	15	walk	760	yes	yes	no	yes	yes	8	0	85	7000	yes	singing	Kreigler	front left	Winter08
+male	right	brown	yes	no	dec	22	1987	241	70	2010	yes	20	walk	500	yes	yes	no	yes	yes	9	4	85	15000	yes	sports	Kreigler	front right	Winter08
+female	right	brown	no	yes	mar	12	1987	250	63	2009	yes	20	walk	298	yes	yes	no	yes	no	7	0	110	20000	no	volleyball	Davis	front left	Winter08
+male	right	brown	yes	yes	feb	14	1988	239	67	2010	yes	15	walk	650	yes	yes	no	yes	yes	7	0	90	20000	yes	basketball	Davis	front left	Winter08
+female	right	brown	yes	yes	nov	8	1989	218	61	2011	yes	15	walk	810	yes	yes	yes	yes	yes	8	0	90	50000	yes	running	Davis	front right	Winter08
+female	right	brown	yes	yes	dec	21	1987	241	65	2010	yes	20	walk	700	yes	yes	no	yes	yes	6	0	100	25000	yes	photography	Davis	front left	Winter08
+male	right	brown	no	yes	feb	24	1988	239	73	2010	yes	30	walk	350	yes	yes	no	yes	yes	8	0	90	30000	yes	Watching "A Shot at Love with Tila Tequila"	Davis	front left	Winter08
+female	right	brown	no	yes	may	16	1989	224	63	2011	yes	15	walk	79	yes	yes	no	yes	yes	7	0	48	44000	no	sleeping	Davis	rear right	Winter08
+female	right	brown	yes	no	sept	6	1988	232	63	2010	yes	20	walk	640	yes	yes	no	yes	yes	2	0	110	25000	yes	piano playing	Kreigler	rear left	Winter08
+female	left	blue	no	yes	mar	6	1989	226	66	2011	yes	15	walk	400	no	yes	no	yes	yes	8	0	80	20000	yes	music	Kreigler	rear left	Winter08
+female	ambidextrous	brown	yes	yes	may	22	1986	260	67	2008	no	25	walk	350	yes	yes	no	yes	yes	6	1	85	15000	yes	running	Davis	front right	Winter08
+male	right	brown	yes	yes	aug	9	1987	245	66	2010	yes	15	walk	250	yes	yes	yes	yes	yes	4	0	100	40000	no	watching sports	Kreigler	front right	Winter08
+male	right	brown	yes	no	april	14	1987	249	73	2009	no	15	walk	800	yes	yes	no	yes	yes	9	0	102	2000	yes	Tennis	Kreigler	front right	Winter08
+male	right	blue	yes	no	july	2	1988	234	72	2010	yes	7	walk	250	yes	yes	no	yes	yes	6	0	98	20000	yes	Reading	Kreigler	front right	Winter08
+female	right	brown	yes	no	mar	16	1989	226	58	2011	yes	15	walk	200	yes	yes	no	yes	yes	6.5	0	100	3000	no	surf the net	Kreigler	front right	Winter08
+male	right	brown	yes	yes	mar	18	1987	250	69	2009	yes	20	walk	725	yes	yes	yes	yes	yes	8	0	125	40000	no	basketball	Kreigler	rear left	Winter08
+female	right	brown	no	yes	feb	19	1987	251	63	2009	no	30	walk	300	yes	yes	no	yes	yes	5	2	110	3000	yes	none	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	feb	21	1987	251	65	2009	no	20	walk	738	yes	yes	no	yes	yes	8.5	0	60	4500	yes	swimming	Davis	front right	Winter08
+female	right	brown	yes	yes	sept	16	1987	244	59	2009	yes	15	walk	300	yes	yes	no	yes	yes	6	1	95	50000	no	photography	Kreigler	rear right	Winter08
+female	right	hazel	no	yes	mar	1	1989	226	62	2011	yes	20	walk	900	yes	yes	no	yes	yes	9	6	100	40000	no	Running	Kreigler	front left	Winter08
+female	right	blue	yes	yes	oct	10	1988	231	65	2010	yes	11	walk	80	yes	yes	no	yes	yes	8	0	90	500000	yes	violin	Ioudina	front right	Winter08
+male	right	blue	yes	yes	nov	11	1983	290	68		no	15	walk	578	yes	yes	yes	yes	yes	4	1	100		yes	Statistics	Ioudina	front left	Winter08
+female	right	hazel	no	yes	sept	11	1989	220	64	2011	yes	12	walk	740	yes	yes	no	yes	yes	6	3	100	23000	yes	soccer	Ioudina	front right	Winter08
+male	right	brown	no	yes	dec	20	1986	253	77	2008	no	12	walk	900	yes	yes	no	yes	yes	8	6	105	50000	yes	reading	Ioudina	front left	Winter08
+male	right	brown	no	yes	may	4	1986	260	70	2009	yes	15	car (by yourself)	1100	yes	yes	no	yes	yes	6	6	135	20000	yes	photography	Ioudina	front right	Winter08
+female	right	hazel	no	yes	may	12	1988	236	65	2010	no	5	walk	600	yes	yes	no	yes	yes	7	3	80	10000	no	Dance	Ioudina	rear right	Winter08
+female	right	brown	yes	no	mar	31	1988	238	61	2010	yes	15	walk	178	yes	no	no	yes	yes	5	0	110	30000	yes	Playing the guitar	Ioudina	rear left	Winter08
+female	left	brown	yes	yes	sept	28	1988	232	62	2010	yes	20	walk	72	yes	yes	no	yes	yes	8	2	80	4400	yes	knitting	Ioudina	front right	Winter08
+female	right	brown	no	yes	oct	12	1989	219	63	2011	yes	15	walk	700	yes	no	no	yes	yes	8	0	90	50000	no	none	Ioudina	rear right	Winter08
+female	right	green	no	no	may	26	1989	224	68	2011	yes	10	walk	100	no	yes	no	yes	yes	8	10	85	28000	yes	snowboarding	Ioudina	rear right	Winter08
+female	right	brown	yes	yes	july	21	1989	222	64	2011	yes	13	walk	2000	yes	no	no	yes	yes	7.5	2	112	1300	yes	snowboarding	Ioudina	front right	Winter08
+male	right	brown	yes	yes	dec	28	1987	241	65	2010	yes	30	walk	900	yes	no	no	yes	yes	7	0	135	40000	no	paintball	Ioudina	front left	Winter08
+female	right	brown	yes	no	dec	8	1989	217	64	2011	yes	15	walk	770	no	yes	no	yes	yes	8	0	87	30000	yes	music	Ioudina	front right	Winter08
+male	right	green	no	yes	oct	18	1988	231	71	2011	yes	15	walk	512	yes	yes	no	yes	yes	7	8	110	30000	yes	soccer	Ioudina	rear right	Winter08
+female	right	blue	yes	no	aug	27	1988	233	68	2010	no	8	walk	868	no	no	no	yes	yes	6	18	75	4537	yes	paint by number	Ioudina	front left	Winter08
+female	right	blue	no	no	june	27	1988	234	68	2010	no	10	walk	500	no	yes	no	yes	yes	8	6	60	5000	yes	Play piano	Ioudina	front right	Winter08
+male	right	brown	no	no	april	17	1988	237	65	2010	yes	10	walk	208	no	no	yes	yes	no	7	0	50	3400	no	Origami	Ioudina	front left	Winter08
+female	right	brown	yes	yes	april	23	1989	225	65	2011	yes	10	walk	450	yes	no	no	yes	yes	9	0	80	20000	yes	dancing	Ioudina	front left	Winter08
+female	right	brown	no	yes	dec	3	1988	229	62	2011	no	60	car (by yourself)	420	yes	no	no	yes	no	8	0	100	8300	no	soccer	Ioudina	rear right	Winter08
+female	right	brown	no	yes	feb	3	1989	227	64	2011	yes	13	walk	346	yes	no	no	yes	yes	7	15	90	20000	no	ultimate frisbee	Ioudina	front left	Winter08
+female	right	brown	no	yes	mar	18	1989	226	69	2011	yes	15	walk	750	yes	no	yes	yes	yes	4	15	90	22000	yes	Water Polo	Ioudina	rear left	Winter08
+male	right	hazel	yes	yes	aug	16	1989	221	67	2011	yes	16	walk	523	yes	yes	no	yes	yes	8	0.2	110	19000	no	video games	Ioudina	front right	Winter08
+male	right	brown	no	yes	sept	24	1988	232	67	2010	yes	10	walk	600	yes	no	no	yes	yes	8		95	40000	no	watching sports	Ioudina	rear left	Winter08
+male	right	brown	yes	no	sept	20	1989	220	69	2011	yes	10	walk	700	yes	yes	no	yes	yes	7	0	80	20000	yes	playing guitar	Ioudina	front right	Winter08
+male	right	hazel	yes	no	jan	3	1988	240	68	2010	no	60	bus	1000	yes	yes	no	yes	yes	6	0	100	20000	yes	basketball	Ioudina	rear left	Winter08
+female	right	brown	yes	yes	june	27	1988	235	64	2010	yes	10	walk		yes	yes	no	yes	yes		0	110	30000	no	figure skating	Ioudina	front left	Winter08
+male	right	brown	yes	yes	feb	28	1989	227	72	2011	yes	20	walk	300	yes	yes	no	yes	yes	6	2	105	27000	no	Basketball	Ioudina	rear left	Winter08
+male	right	brown	yes	no	nov	8	1988	230	67	2010	no	27	bus	375	yes	yes	no	yes	no	6	18	90	10077	yes	playing instruments	Ioudina	front left	Winter08
+male	right	brown	yes	no	nov	6	1982	302	66	2010	no	35	bus	59	no	yes	no	yes	no	10	1	115	30000	yes	playing guitar	Ioudina	front left	Winter08
+male	left	blue	no	no	jan	27	1988	240	71	2010	yes	15	walk	900	yes	yes	yes	yes	no	6	0	85	11000	yes	tennis	Ioudina	front left	Winter08
+female	right	brown	yes	no	nov	23	1988	230	71	2011	yes	10	walk	700	no	no	no	yes	yes	9	0	120		yes	soccer	Davis	front right	Winter08
+female	right	brown	yes	no	dec	16	1985	265	61	2008	no	40	car (by yourself)	600	yes	yes	no	yes	yes	7	6	100	15000	yes	tennis	Ioudina	rear right	Winter08
+female	right	brown	yes	yes	jan	21	1988	240	65	2010	no	30	walk	300	yes	no	no	no	yes	4	0	100	3000	yes	Watching movies	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	july	19	1988	234	64	2010	yes	5	bicycle	300	yes	no	no	yes	yes	7	2	75	20000	yes	tennis	Kreigler	front right	Winter08
+female	right	hazel	yes	yes	sept	23	1989	220	67	2011	yes	15	walk	300	no	yes	no	yes	yes	5	6	90	20000	yes	Dance	Ioudina	front right	Winter08
+female	right	green	yes	yes	jan	9	1988	240	64	2010	yes	15	walk	545	yes	yes	no	yes	yes	9	3	105		yes	dance	Ioudina	rear right	Winter08
+female	right	brown	yes	yes	july	23	1989	223	68	2011	yes	20	walk	1500	yes	yes	no	yes	yes	8	0	109	38000	yes	percussion	Ioudina	rear left	Winter08
+male	left	brown	yes	yes	oct	6	1988	231	67	2010	yes	11	walk	675	yes	yes	no	yes	yes	8	1	125	15000	no	basketball	Ioudina	front right	Winter08
+female	right	brown	yes	yes	may	15	1989	224	69	2011	yes	15	walk	116	yes	yes	no	yes	yes	6	5	95	11000	yes		Ioudina	rear right	Winter08
+female	left	brown	yes	no	sept	27	1988	232	66	2011	yes	8	walk	444	no	yes	no	yes	yes	8	0	80	30000	no	photography	Ioudina	front right	Winter08
+female	right	brown	no	no	april	15	1988	237	64.5	2010	no	15	walk	395	yes	yes	yes	yes	yes	7	2	95	35000	yes	reading	Ioudina	front left	Winter08
+male	left	brown	no	yes	aug	3	1987	245	71	2009	yes	17	walk	493	yes	yes	no	yes	yes	8.5	8	90	15000	yes	Ultimate frisbee	Ioudina	rear right	Winter08
+female	right	hazel	no	no	dec	5	1988	229	62	2011	yes	20	walk	351	yes	yes	no	yes	yes	8	0	90	35000	yes	dance	Ioudina	front right	Winter08
+female	right	brown	yes	yes	june	22	1985	271	66	2008	yes	20	walk	800	yes	yes	no	yes	yes	5	4	90	10000	yes	Dancing	Ioudina	rear left	Winter08
+male	right	brown	yes	yes	nov	7	1988	230	70	2010	yes	20	walk	350	yes	yes	yes	yes	yes	8	1	115	3000	no	tennis	Ioudina	rear right	Winter08
+female	right	brown	yes	no	aug	10	1987	245	63	2010	no	20	walk	45	no	yes	no	yes	yes	8	0	80	40000	yes	eating	Ioudina	front left	Winter08
+female	right	other	yes	yes	june	10	1988	235	67	2010	no	15	walk	500	yes	yes	no	yes	yes	12	12	105	20000	yes	cutting hair	Ioudina	rear right	Winter08
+male	right	brown	no	yes	july	22	1986	258	73	2009	no	25	car (by yourself)		yes	no	no	yes	yes	8	0	110		no	Basketball, Video Games	Ioudina	front left	Winter08
+male	right	brown	no	no	april	21	1988	237	73	2010	yes	18	walk	192	yes	yes	no	yes	yes	6	25	110	14000	no	tennis	Ioudina	rear left	Winter08
+female	left	brown	yes	yes	june	15	1989	223	62	2011	yes	25	walk	295	yes	no	no	yes	yes	9	0	40	35000	no	softball	Ioudina	rear left	Winter08
+male	right	brown	yes	no	feb	4	1980	335	67	2008	no	20	walk	50	no	yes	no	yes	yes	10	2	95	35000	yes	none	Ioudina	rear right	Winter08
+female	right	brown	no	yes	aug	20	1978	353	65	2009	no	35	car (by yourself)	220	yes	no	no	yes	yes	6	0	120	5000	yes	watching movies	Ioudina	front left	Winter08
+male	left	brown	yes	yes	jan	30	1986	264	73	2009	no	40	motorcycle		no	no	no	yes	no	9	0	149	10000	no	Sex	Ioudina	rear right	Winter08
+male	right	brown	yes	yes	oct	14	1986	255	82	2010	yes	20	walk	125	yes	no	no	yes	yes	8	1	95	30000	yes	watching TV	Ioudina	front right	Winter08
+female	right	brown	no	no	jan	25	1989	228	52	2011	yes	5	walk	55	yes	no	no	yes	yes	6	0	95	35000	yes	Sports	Ioudina	front right	Winter08
+female	right	blue	no	no	jan	31	1986	264	67	2008	no	20	walk	365	yes	yes	no	yes	yes	7	7	90	20000	no	swimming	Ioudina	front right	Winter08
+female	right	blue	no	yes	may	28	1988	236	65	2010	yes	22	walk	850	yes	no	no	yes	yes	6	5	120	55000	no	running	Ioudina	front right	Winter08
+female	right	hazel	no	yes	april	10	1988	237	68	2010	yes	15	walk	150	yes	yes	no	yes	yes	5	0.5	85	10000	yes	dancing	Kreigler	rear left	Winter08
+male	right	brown	no	yes	aug	20	1987	245	77	2010	no	28	car (by yourself)	500	yes	yes	no	yes	yes	8	0	90	45000	no	jacking off	Ioudina	rear right	Winter08
+male	right	brown	no	yes	june	16	1987	247	73	2010	no	30	car (by yourself)	500	yes	no	no	yes	yes	7	0	88		no	football	Ioudina	front right	Winter08
+male	right	brown	no	yes	aug	29	1988	233	71	2010	yes	20	walk	500	yes	no	no	yes	yes	9	4	100	44000	no	basketball	Ioudina	front left	Winter08
+male	left	brown	yes	no	feb	4	1983	299	67	2008	no	25	walk		yes	yes	yes	yes	yes	10	3	100	35000	yes	none	Ioudina	rear right	Winter08
+male	right	brown	no	yes	nov	24	1988	230	69	2011	yes	13	walk	450	yes	yes	yes	yes	yes	4.3	6	119	22859.3	no	watching movies	Ioudina	front right	Winter08
+male	right	brown	yes	no	nov	24	1987	242	66	2010	yes	20	walk	165	yes	yes	no	yes	yes	7	0	105	10000	no	poker	Davis	front right	Winter08
+male	right	brown	no	yes	june	11	1989	223	59	2011	yes	15	walk	360	yes	yes	yes	yes	yes	5	0	90	15000	yes	photography	Ioudina	front right	Winter08
+male	right	brown	yes	yes	sept	9	1988	232	72	2011	yes	15	walk	300	yes	no	no	yes	yes	5	0	75	20001	yes	basketball	Kreigler	front left	Winter08
+male	right	blue	yes	no	oct	16	1987	243	67	2009	no	20	walk	500	no	yes	no	yes	yes	5	0	90	12000	yes	running	Davis	front left	Winter08
+female	right	brown	yes	yes	oct	10	1988	231	65	2010	yes	10	walk	620	yes	no	no	yes	yes	6	0	80	21000	yes	traveling	Kreigler	front right	Winter08
+male	right	brown	no	yes	jan	22	1989	228	69	2011	yes	15	walk	650	yes	yes	no	yes	no	7	0	103	25000	yes	running	Kreigler	front right	Winter08
+female	right	brown	yes	no	oct	8	1988	231	62	2010	yes	20	walk	900	yes	yes	no	yes	yes	7	0	90	30000	yes	watching movies	Kreigler	front right	Winter08
+female	right	brown	yes	yes	dec	22	1987	241	60	2010	yes	15	walk	780	yes	yes	no	yes	yes	7	0	100	29050	yes	writing	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	oct	21	1988	231	64	2010	yes	15	walk	750	yes	yes	no	yes	yes	7	4	95	27000	yes	shopping	Kreigler	front right	Winter08
+female	right	blue	yes	yes	may	19	1989	224	64	2011	yes	20	walk	607	yes	yes	no	yes	yes	7	7	90	20000	yes	Playing soccer	Kreigler	rear left	Winter08
+female	right	brown	yes	yes	mar	3	1988	238	69	2010	no	15	walk	367	yes	yes	no	yes	yes	6	2	75	20000	yes	dancing	Kreigler	front right	Winter08
+female	right	brown	yes	yes	june	28	1989	223	63	2011	yes	15	car (by yourself)	500	yes	no	no	yes	yes	8	0	80	7000	yes	watching movies	Kreigler	front left	Winter08
+female	right	brown	yes	yes	mar	12	1988	238	63	2010	yes	15	walk	230	yes	no	no	yes	yes	6	0	110	10000	no	None	Kreigler	rear left	Winter08
+female	right	blue	no	yes	oct	18	1988	231	63	2010	no	25	walk	433	yes	yes	yes	yes	yes	4	0	110	28000	yes	writing	Kreigler	rear left	Winter08
+male	right	brown	yes	yes	july	11	1989	222	71	2011	yes	15	walk	250	yes	yes	no	yes	yes	6	3	80	10000	yes	music	Kreigler	rear right	Winter08
+male	right	blue	yes	yes	june	24	1988	223	73	2010	yes	20	walk	600	yes	yes	no	yes	no	7	3		10000	yes	music	Kreigler	rear right	Winter08
+male	right	brown	yes	no	may	7	1986	260	70	2009	no	15	walk	6	no	yes	no	yes	yes	7	5	140	70000	yes	sex	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	jan	30	1988	240	74	2010	yes	20	walk	294	yes	yes	no	yes	yes	6	4	95	7000	no	Knitting	Davis	front right	Winter08
+male	left	blue	yes	yes	feb	10	1989	227	74	2011	yes	2	walk	550	yes	yes	no	yes	yes	6	0	100	20000	no	movies	Kreigler	front left	Winter08
+female	right	brown	no	yes	april	4	1987	249	61	2009	no	20	walk	645	yes	yes	no	yes	yes	7	0	85	20000	yes	crocheting	Kreigler	front left	Winter08
+female	right	green	no	yes	sept	22	1988	232	68	2010	no	25	walk	315	yes	yes	no	yes	no	9	2	90	10000	yes	reading	Davis	front right	Winter08
+male	right	brown	yes	yes	april	3	1988	237	67	2010	yes	18	walk	600	yes	yes	no	yes	yes	7	0	80	40000	yes	games	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	dec	17	1988	229	60	2010	yes	20	walk	497	yes	yes	no	yes	no	7	0	45	37000	no	swimming	Kreigler	front left	Winter08
+female	right	brown	no	no	may	10	1984	284	66	2008	no	30	carpool		no	no	no	yes	yes	7	0	75	30000	yes	climbing	Davis	rear left	Winter08
+male	right	brown	no	yes	april	13	1989	225	72	2011	yes	15	walk	98	yes	no	no	yes	yes	3	0	95	15000	no	Flirting	Davis	front right	Winter08
+male	left	brown	no	yes	nov	21	1986	254	71	2009	no	20	walk	350	yes	no	no	yes	no	8	20	100	200000	yes	Guitar	Kreigler	front left	Winter08
+female	right	brown	yes	yes	may	17	1986	260	60	2008	no	90	bus	300	yes	yes	no	yes	yes	7	2	120	35000	yes	jewelry making	Kreigler	rear right	Winter08
+female	right	blue	no	yes	april	21	1988	237	67	2010	yes	20	walk	80	yes	yes	no	yes	yes	10	7	100	30000	yes	watching movies	Kreigler	front right	Winter08
+female	right	blue	no	yes	nov	22	1987	242	78	2010	yes	20	walk	270	yes	no	no	yes	yes	8	18	110	25000	yes	playing music	Kreigler	front left	Winter08
+female	right	brown	yes	yes	sept	29	1988	232	66	2010	yes	30	walk	200	yes	yes	no	yes	yes	9	0	60	10000	yes	piano	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	aug	12	1988	233	69	2010	yes	15	walk	300	yes	yes	no	yes	yes	7	0	95	47000	yes	none	Davis	front left	Winter08
+female	right	brown	no	no	feb	2	1985	275	67	2008	no	15	bus	150	yes	yes	no	yes	no	8	0	0	20000	yes	Reading	Davis	rear right	Winter08
+male	right	hazel	no	yes	dec	10	1987	241	79	2010	yes	12	walk	3000	yes	yes	yes	yes	yes	7	4	90	20000	no	basketball	Kreigler	rear left	Winter08
+female	right	brown	yes	no	mar	16	1988	238	61	2011	yes	20	walk	800	yes	yes	no	yes	yes	6	0	100	20000	no	piano	Ioudina	front right	Winter08
+female	right	blue	no	yes	nov	8	1984	278	68	2008	no	8	walk	834	yes	no	no	yes	yes	5	5	130	40000	yes	Miss America Pageants	Davis	front right	Winter08
+female	right	brown	no	no	dec	26	1987	241	61	2010	yes	15	walk	350	yes	yes	no	yes	no	7	2	120	40000	no	Basketball	Kreigler	front right	Winter08
+male	right	green	no	yes	nov	6	1987	242	72	2010	yes	15	walk	842	yes	no	yes	yes	yes	9	1	100	20000	yes	dance	Davis	front right	Winter08
+male	right	brown	yes	yes	mar	19	1988	238	60	2010	yes	20	walk	250	yes	yes	no	yes	yes	5	0	90	30000	yes	Reading the Bible	Davis	rear right	Winter08
+female	right	brown	no	yes	sept	26	1989	220	66	2011	yes	5	walk	510	yes	yes	no	yes	no	8	0	75	535000	yes	tennis	Kreigler	front right	Winter08
+female	right	blue	yes	yes	jan	26	1988	240	65	2010	yes	20	walk	600	yes	yes	no	yes	yes	8.5	0	85	31000	yes	running	Kreigler	front left	Winter08
+female	right	brown	yes	yes	may	7	1989	224	65	2011	yes	20	walk	250	yes	yes	yes	yes	yes	5	0	75	25000	no	dancing	Kreigler	front left	Winter08
+female	right	brown	no	yes	july	12	1987	246	60	2009	no	15	walk	500	yes	yes	no	yes	no	4	0	120	5000	no	volunteer work	Davis	front right	Winter08
+male	right	brown	yes	no	june	8	1989	223	69	2011	yes	15	walk	900	yes	yes	no	yes	yes	8	0	130	10000	yes	surfing	Kreigler	rear right	Winter08
+female	right	brown	yes	no	aug	27	1988	233	58	2010	no	18	walk	800	no	no	no	yes	yes	6.5	0	95	40000	yes	spending time with my boyfriend	Kreigler	rear right	Winter08
+female	right	blue	no	no	oct	9	1989	219	66	2011	yes	10	walk	575	yes	yes	no	yes	yes	4	1	120	55000	yes	traveling	Davis	rear left	Winter08
+male	right	green	no	no	mar	25	1988	238	71	2010	no	10	car (by yourself)	422	yes	yes	yes	yes	yes	5	5	113	30000	no	surf	Davis	rear right	Winter08
+female	right	brown	yes	yes	may	14	1987	248	64	2009	no	20	bus	600	yes	yes	no	yes	yes	0	0	90	20000	yes	shopping	Davis	front right	Winter08
+female	right	brown	yes	yes	dec	1	1989	217	61	2011	yes	10	walk	300	yes	yes	no	yes	no	3	8	88	5000	yes	Piano	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	dec	26	1988	229	69	2011	yes	15	walk	112	yes	no	no	yes	yes	7	4	140	40000	yes	basketball	Kreigler	front right	Winter08
+female	right	brown	yes	yes	june	30	1988	235	66	2010	yes	10	walk	400	yes	no	no	yes	yes	7	10	110	30000	no	Dance	Kreigler	front left	Winter08
+female	left	brown	no	no	june	23	1989	223	61	2011	yes	20	walk	348	yes	yes	yes	yes	no	8	0	0	14007	yes	video games	Kreigler	front left	Winter08
+male	right	brown	yes	yes	mar	24	1989	226	68	2011	yes	25	walk	798	yes	yes	yes	yes	yes	6	3	90	10000	no	music	Kreigler	front right	Winter08
+female	right	green	yes	yes	april	10	1988	237	65.5	2010	no	12	walk	666	yes	yes	no	yes	yes	4	0	97	24000	yes	soccer	Kreigler	rear right	Winter08
+female	right	brown	no	yes	jan	14	1988	240	63	2010	yes	17	walk	330	yes	yes	no	yes	yes	6	7	97	7857	no	none	Kreigler	front right	Winter08
+female	right	brown	yes	yes	july	10	1988	234	66	2010	no	10	walk	300	yes	yes	no	yes	yes	6	24	100	20000	yes	Sleeping	Kreigler	rear right	Winter08
+female	right	brown	yes	yes	aug	28	1985	269	63	2008	no	20	walk	200	yes	no	no	yes	yes	7	0	90	20000	yes	Reading	Kreigler	rear right	Winter08
+male	right	brown	no	no	mar	15	1982	310	69	2009	no	50	car (by yourself)	350	no	no	yes	yes	yes	8	3	90	35000	yes	playing tennis	Davis	rear right	Winter08
+female	right	brown	yes	no	may	24	1988	236	62	2010	yes	30	walk	200	yes	yes	no	yes	yes	6	4	60	2000	yes	Acting	Davis	front right	Winter08
